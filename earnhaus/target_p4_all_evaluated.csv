@@ -1,0 +1,201 @@
+clientJobId,uniqueKey,jobtitle,location,has_location_in_description,detected_locations,is_posted
+Job-043979,physical`pt`therapist~~ellington~~ct~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Ellington, CT, US",True,"Canton, CT",True
+Job-040086,physical`pt`therapist~~hill`pleasant~~mo~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Pleasant Hill, MO, US",True,"Kansas City, MO",True
+Job-042848,physical`pt`therapist~~dickinson~~tx~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Dickinson, TX, US",False,,True
+Job-043979,physical`pt`therapist~~avon~~ct~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Avon, CT, US",True,"Canton, CT",True
+Job-038614,physical`pt`therapist~~mascoutah~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Mascoutah, IL, US",True,"Mascoutah, IL; Mascoutah",True
+Job-043085,physical`pt`therapist~~falmouth~~ma~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Falmouth, MA, US",True,"Fairhaven, MA",True
+Job-026791,physical`pt`therapist~~seminole~~tx~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Seminole, TX, US",True,"Denver City, TX",True
+Job-038614,physical`pt`therapist~~nashville~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Nashville, IL, US",True,"Mascoutah, IL",True
+Job-041093,physical`pt`therapist~~windber~~pa~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Windber, PA, US",True,"Windber, PA; Windber",True
+Job-042848,physical`pt`therapist~~conroe~~tx~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Conroe, TX, US",False,,True
+Job-040812,physical`pt`therapist~~fields`olympia~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Olympia Fields, IL, US",True,"Chicago, IL",True
+Job-040812,physical`pt`therapist~~springs`western~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Western Springs, IL, US",True,"Chicago, IL",True
+Job-035376,physical`pt`therapist~~umatilla~~fl~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Umatilla, FL, US",True,"The Villages, FL",True
+Job-043979,physical`pt`therapist~~farmington~~ct~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Farmington, CT, US",True,"Canton, CT",True
+Job-043979,physical`pt`therapist~~thomaston~~ct~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Thomaston, CT, US",True,"Canton, CT",True
+Job-043871,physical`pt`therapist~~camden~~nj~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Camden, NJ, US",False,,True
+Job-043160,physical`pt`therapist~~halifax~~ma~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Halifax, MA, US",True,"Braintree, MA",False
+Job-040812,physical`pt`therapist~~orland`park~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Orland Park, IL, US",True,"Chicago, IL",True
+Job-043160,physical`pt`therapist~~medford~~ma~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Medford, MA, US",True,"Wayland, MA",True
+Job-043871,physical`pt`therapist~~lawnside~~nj~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Lawnside, NJ, US",False,,True
+Job-042026,physical`pt`therapist~~brookville~~in~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Brookville, IN, US",True,"Centerville, IN",True
+Job-040812,physical`pt`therapist~~midlothian~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Midlothian, IL, US",True,"Chicago, IL",True
+Job-043871,physical`pt`therapist~~audubon~~nj~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Audubon, NJ, US",False,,True
+Job-042848,physical`pt`therapist~~houston~~tx~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Houston, TX, US",False,,True
+Job-043079,physical`pt`therapist~~ipswich~~ma~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Ipswich, MA, US",True,"Newburyport, MA",True
+Job-043871,physical`pt`therapist~~wenonah~~nj~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Wenonah, NJ, US",False,,True
+Job-042195,physical`pt`therapist~~center`point~~ia~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Center Point, IA, US",True,"In-House Rehab Team Cedar Rapids, IA",False
+Job-040812,physical`pt`therapist~~crete~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Crete, IL, US",True,"Chicago, IL",True
+Job-040086,physical`pt`therapist~~lathrop~~mo~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Lathrop, MO, US",True,"Kansas City, MO",True
+Job-040899,physical`pt`therapist~~portsmouth~~va~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Portsmouth, VA, US",False,,True
+Job-026791,physical`pt`therapist~~seagraves~~tx~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Seagraves, TX, US",True,"Denver City, TX",True
+Job-042999,physical`pt`therapist~~armagh~~pa~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Armagh Twp, PA, US",True,"Windber, PA",True
+Job-043871,physical`pt`therapist~~runnemede~~nj~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Runnemede, NJ, US",False,,True
+Job-040046,physical`pt`therapist~~montague~~ma~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Montague, MA, US",False,,True
+Job-043979,physical`pt`therapist~~meriden~~ct~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Meriden, CT, US",True,"Canton, CT",False
+Job-044415,physical`pt`therapist~~smithton~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Smithton, IL, US",True,"Mascoutah, IL",True
+Job-040812,physical`pt`therapist~~wayne~~il~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Wayne, IL, US",True,"Chicago, IL",True
+Job-043079,physical`pt`therapist~~acton~~ma~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Acton, MA, US",True,"Wayland, MA",True
+Job-043871,physical`pt`therapist~~voorhees~~nj~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Voorhees, NJ, US",False,,True
+Job-042848,physical`pt`therapist~~prairie`view~~tx~~us~~llc`management`quality`rehab,Physical Therapist (PT),"Prairie View, TX, US",False,,True
+Job-042736,occupational`ot`therapist~~dayton~~tx~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Dayton, TX, US",False,,True
+Job-044463,occupational`ot`therapist~~highland~~in~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Highland, IN, US",True,"Gary, IN",True
+Job-043870,occupational`ot`therapist~~audubon~~nj~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Audubon, NJ, US",True,"Atco, NJ",True
+Job-042678,occupational`ot`therapist~~collinsville~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Collinsville, IL, US",True,"Wood River, IL",True
+Job-043157,occupational`ot`therapist~~lunenburg~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Lunenburg, MA, US",True,"Wayland, MA",False
+Job-041177,occupational`ot`therapist~~gilberts~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Gilberts, IL, US",True,"Geneva, IL",False
+Job-043167,occupational`ot`therapist~~norton~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Norton, MA, US",False,,True
+Job-042965,occupational`ot`therapist~~yonkers~~ny~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Yonkers, NY, US",True,"Queens, NY",True
+Job-043261,occupational`ot`therapist~~woodridge~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Woodridge, IL, US",True,"Berwyn, IL",True
+Job-043157,occupational`ot`therapist~~andover~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Andover, MA, US",True,"Wayland, MA",True
+Job-043261,occupational`ot`therapist~~berkeley~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Berkeley, IL, US",True,"Berwyn, IL",True
+Job-043259,occupational`ot`therapist~~carthage~~tn~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Carthage, TN, US",True,"Hartsville, TN",False
+Job-043084,occupational`ot`therapist~~beverly~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Beverly, MA, US",True,"North Reading, MA",False
+Job-043167,occupational`ot`therapist~~cohasset~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Cohasset, MA, US",False,,True
+Job-044463,occupational`ot`therapist~~dyer~~in~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Dyer, IN, US",True,"Gary, IN",True
+Job-043261,occupational`ot`therapist~~forest`river~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"River Forest, IL, US",True,"Berwyn, IL",True
+Job-043090,occupational`ot`therapist~~marion~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Marion, MA, US",True,"Fairhaven, MA",True
+Job-042965,occupational`ot`therapist~~westbury~~ny~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Westbury, NY, US",True,"Queens, NY",False
+Job-043657,occupational`ot`therapist~~kent~~oh~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Kent, OH, US",False,,True
+Job-043261,occupational`ot`therapist~~willowbrook~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Willowbrook, IL, US",True,"Berwyn, IL",False
+Job-043157,occupational`ot`therapist~~canton~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Canton, MA, US",True,"Wayland, MA",False
+Job-043261,occupational`ot`therapist~~park`schiller~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Schiller Park, IL, US",True,"Berwyn, IL",True
+Job-043870,occupational`ot`therapist~~magnolia~~nj~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Magnolia, NJ, US",True,"Atco, NJ",True
+Job-043157,occupational`ot`therapist~~randolph~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Randolph, MA, US",True,"Wayland, MA",False
+Job-042965,occupational`ot`therapist~~cove`glen~~ny~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Glen Cove, NY, US",True,"Queens, NY",True
+Job-041177,occupational`ot`therapist~~aurora`north~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"North Aurora, IL, US",True,"Geneva, IL",True
+Job-043870,occupational`ot`therapist~~clementon~~nj~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Clementon, NJ, US",True,"Atco, NJ",True
+Job-043075,occupational`ot`therapist~~brooksville~~fl~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Brooksville, FL, US",False,,True
+Job-043870,occupational`ot`therapist~~somerdale~~nj~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Somerdale, NJ, US",True,"Atco, NJ",True
+Job-043075,occupational`ot`therapist~~clearwater~~fl~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Clearwater, FL, US",False,,False
+Job-043261,occupational`ot`therapist~~club`country`hills~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Country Club Hills, IL, US",True,"Berwyn, IL",True
+Job-043157,occupational`ot`therapist~~lowell~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Lowell, MA, US",True,"Wayland, MA",False
+Job-043157,occupational`ot`therapist~~worcester~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Worcester, MA, US",True,"Wayland, MA",True
+Job-043261,occupational`ot`therapist~~glenview~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Glenview, IL, US",True,"Berwyn, IL",True
+Job-042965,occupational`ot`therapist~~irvington~~ny~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Irvington, NY, US",True,"Queens, NY",True
+Job-043261,occupational`ot`therapist~~thornton~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Thornton, IL, US",True,"Berwyn, IL",True
+Job-043157,occupational`ot`therapist~~wellesley~~ma~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Wellesley, MA, US",True,"Wayland, MA",True
+Job-043870,occupational`ot`therapist~~bellmawr~~nj~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Bellmawr, NJ, US",True,"Atco, NJ",True
+Job-043261,occupational`ot`therapist~~lenox`new~~il~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"New Lenox, IL, US",True,"Berwyn, IL",True
+Job-038702,occupational`ot`therapist~~watervliet~~mi~~us~~llc`management`quality`rehab,Occupational Therapist (OT),"Watervliet, MI, US",True,"Niles, MI",True
+Job-039324,assistant`certified`cota`occupational`therapy~~darien~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Darien, IL, US",True,"Geneva, IL",True
+Job-043980,assistant`certified`cota`occupational`therapy~~south`windsor~~ct~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"South Windsor, CT, US",True,"Canton, CT",True
+Job-043828,assistant`certified`cota`occupational`therapy~~broadview~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Broadview, IL, US",True,"Wheeling, IL",True
+Job-043980,assistant`certified`cota`occupational`therapy~~bristol~~ct~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Bristol, CT, US",True,"Canton, CT",True
+Job-043152,assistant`certified`cota`occupational`therapy~~westford~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Westford, MA, US",False,,True
+Job-039324,assistant`certified`cota`occupational`therapy~~warrenville~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Warrenville, IL, US",True,"Geneva, IL",True
+Job-041277,assistant`certified`cota`occupational`therapy~~alexandria~~va~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Alexandria, VA, US",False,,True
+Job-039324,assistant`certified`cota`occupational`therapy~~hampshire~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Hampshire, IL, US",True,"Geneva, IL",True
+Job-043212,assistant`certified`cota`occupational`therapy~~seagraves~~tx~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Seagraves, TX, US",True,"Denver City, TX",True
+Job-043980,assistant`certified`cota`occupational`therapy~~middletown~~ct~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Middletown, CT, US",True,"Canton, CT",True
+Job-043828,assistant`certified`cota`occupational`therapy~~lake`round~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Round Lake, IL, US",True,"Wheeling, IL",True
+Job-043980,assistant`certified`cota`occupational`therapy~~simsbury~~ct~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Simsbury, CT, US",True,"Canton, CT",True
+Job-043152,assistant`certified`cota`occupational`therapy~~burlington~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Burlington, MA, US",False,,True
+Job-043168,assistant`certified`cota`occupational`therapy~~chelsea~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Chelsea, MA, US",False,,True
+Job-043168,assistant`certified`cota`occupational`therapy~~halifax~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Halifax, MA, US",True,"Norwell, MA",True
+Job-043168,assistant`certified`cota`occupational`therapy~~cohasset~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Cohasset, MA, US",True,"Norwell, MA",True
+Job-039324,assistant`certified`cota`occupational`therapy~~aurora`north~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"North Aurora, IL, US",True,"Geneva, IL",True
+Job-043828,assistant`certified`cota`occupational`therapy~~lincolnwood~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Lincolnwood, IL, US",True,"Wheeling, IL",True
+Job-043168,assistant`certified`cota`occupational`therapy~~dedham~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Dedham, MA, US",False,,True
+Job-043828,assistant`certified`cota`occupational`therapy~~lake`zurich~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Lake Zurich, IL, US",True,"Wheeling, IL",False
+Job-043828,assistant`certified`cota`occupational`therapy~~mundelein~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Mundelein, IL, US",True,"Wheeling, IL",True
+Job-043152,assistant`certified`cota`occupational`therapy~~rowley~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Rowley, MA, US",True,"North Reading, MA",False
+Job-039887,assistant`certified`cota`occupational`therapy~~windsor~~va~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Windsor, VA, US",False,,True
+Job-043152,assistant`certified`cota`occupational`therapy~~stoneham~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Stoneham, MA, US",False,,True
+Job-043168,assistant`certified`cota`occupational`therapy~~taunton~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Taunton, MA, US",True,"Norwell, MA",False
+Job-043828,assistant`certified`cota`occupational`therapy~~des`plaines~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Des Plaines, IL, US",True,"Wheeling, IL",True
+Job-043828,assistant`certified`cota`occupational`therapy~~lombard~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Lombard, IL, US",True,"Wheeling, IL",True
+Job-043168,assistant`certified`cota`occupational`therapy~~walpole~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Walpole, MA, US",False,,True
+Job-039324,assistant`certified`cota`occupational`therapy~~lockport~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Lockport, IL, US",True,"Geneva, IL",True
+Job-043152,assistant`certified`cota`occupational`therapy~~topsfield~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Topsfield, MA, US",True,"North Reading, MA",True
+Job-043828,assistant`certified`cota`occupational`therapy~~wauconda~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Wauconda, IL, US",True,"Wheeling, IL",True
+Job-043828,assistant`certified`cota`occupational`therapy~~forest`river~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"River Forest, IL, US",True,"Wheeling, IL",True
+Job-043168,assistant`certified`cota`occupational`therapy~~bridgewater~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Bridgewater, MA, US",True,"Norwell, MA",True
+Job-043828,assistant`certified`cota`occupational`therapy~~carol`stream~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Carol Stream, IL, US",True,"Wheeling, IL",True
+Job-043158,assistant`certified`cota`occupational`therapy~~lancaster~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Lancaster, MA, US",False,,True
+Job-043828,assistant`certified`cota`occupational`therapy~~hillside~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Hillside, IL, US",True,"Wheeling, IL",True
+Job-043152,assistant`certified`cota`occupational`therapy~~hamilton~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Hamilton, MA, US",True,"North Reading, MA",False
+Job-043158,assistant`certified`cota`occupational`therapy~~sutton~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Sutton, MA, US",False,,True
+Job-043158,assistant`certified`cota`occupational`therapy~~millville~~ma~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"Millville, MA, US",False,,True
+Job-043828,assistant`certified`cota`occupational`therapy~~chicago`west~~il~~us~~llc`management`quality`rehab,Certified Occupational Therapy Assistant (COTA),"West Chicago, IL, US",True,"Wheeling, IL",True
+Job-043170,language`pathologist`slp`speech~~kingston~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Kingston, MA, US",True,"Braintree, MA",True
+Job-040795,language`pathologist`slp`speech~~lisle~~il~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Lisle, IL, US",False,,True
+Job-043591,language`pathologist`slp`speech~~keller~~tx~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Keller, TX, US",False,,True
+Job-043159,language`pathologist`slp`speech~~holliston~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Holliston, MA, US",True,"Franklin, MA",False
+Job-040795,language`pathologist`slp`speech~~chicago`west~~il~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"West Chicago, IL, US",False,,True
+Job-039499,language`pathologist`slp`speech~~adel~~ia~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Adel, IA, US",True,"Urbandale, IA",True
+Job-038497,language`pathologist`slp`speech~~lawrence~~ks~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Lawrence, KS, US",True,"Topeka, KS",True
+Job-043068,language`pathologist`slp`speech~~cambridge`springs~~pa~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Cambridge Springs, PA, US",False,,True
+Job-040795,language`pathologist`slp`speech~~schaumburg~~il~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Schaumburg, IL, US",False,,True
+Job-043170,language`pathologist`slp`speech~~marshfield~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Marshfield, MA, US",True,"Braintree, MA",False
+Job-039499,language`pathologist`slp`speech~~des`moines`west~~ia~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"West Des Moines, IA, US",True,"Urbandale, IA",True
+Job-043153,language`pathologist`slp`speech~~belmont~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Belmont, MA, US",True,"Lawrence, MA",True
+Job-043096,language`pathologist`slp`speech~~marion~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Marion, MA, US",True,"Fairhaven, MA",False
+Job-042816,language`pathologist`slp`speech~~moundville~~al~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Moundville, AL, US",True,"Northport, AL",True
+Job-040795,language`pathologist`slp`speech~~forest`park~~il~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Forest Park, IL, US",False,,True
+Job-042872,language`pathologist`slp`speech~~maria`santa~~ca~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Santa Maria, CA, US",True,"Santa Maria, CA; Santa Maria",False
+Job-043591,language`pathologist`slp`speech~~decatur~~tx~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Decatur, TX, US",False,,True
+Job-040795,language`pathologist`slp`speech~~grange`la`park~~il~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"La Grange Park, IL, US",False,,True
+Job-043068,language`pathologist`slp`speech~~harborcreek~~pa~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Harborcreek, PA, US",False,,True
+Job-043153,language`pathologist`slp`speech~~woburn~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Woburn, MA, US",True,"Lawrence, MA",False
+Job-043170,language`pathologist`slp`speech~~plympton~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Plympton, MA, US",True,"Fairhaven, MA",True
+Job-043058,language`pathologist`slp`speech~~holly`mount`springs~~pa~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Mt Holly Springs, PA, US",False,,True
+Job-043153,language`pathologist`slp`speech~~marblehead~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Marblehead, MA, US",True,"Lawrence, MA",False
+Job-043159,language`pathologist`slp`speech~~sutton~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Sutton, MA, US",True,"Franklin, MA",True
+Job-043153,language`pathologist`slp`speech~~stoneham~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Stoneham, MA, US",True,"Lawrence, MA",False
+Job-040795,language`pathologist`slp`speech~~bensenville~~il~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Bensenville, IL, US",False,,True
+Job-043153,language`pathologist`slp`speech~~rowley~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Rowley, MA, US",True,"Lawrence, MA",True
+Job-037368,language`pathologist`slp`speech~~lemoyne~~pa~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Lemoyne, PA, US",False,,True
+Job-043153,language`pathologist`slp`speech~~bedford~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Bedford, MA, US",True,"Lawrence, MA",True
+Job-043143,language`pathologist`slp`speech~~east`greenwich~~ri~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"East Greenwich, RI, US",True,"Cranston, RI",True
+Job-043096,language`pathologist`slp`speech~~dighton~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Dighton, MA, US",True,"Fairhaven, MA",True
+Job-043068,language`pathologist`slp`speech~~fairview~~pa~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Fairview, PA, US",False,,True
+Job-043159,language`pathologist`slp`speech~~blackstone~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Blackstone, MA, US",True,"Franklin, MA",True
+Job-039499,language`pathologist`slp`speech~~johnston~~ia~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Johnston, IA, US",True,"Urbandale, IA",True
+Job-043096,language`pathologist`slp`speech~~mashpee~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Mashpee, MA, US",True,"Fairhaven, MA",False
+Job-043159,language`pathologist`slp`speech~~grafton~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Grafton, MA, US",True,"Franklin, MA",True
+Job-040795,language`pathologist`slp`speech~~brook`oak~~il~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Oak Brook, IL, US",False,,True
+Job-043153,language`pathologist`slp`speech~~groton~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Groton, MA, US",True,"Lawrence, MA",False
+Job-043058,language`pathologist`slp`speech~~plainfield~~pa~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Plainfield, PA, US",False,,True
+Job-043170,language`pathologist`slp`speech~~hanover~~ma~~us~~llc`management`quality`rehab,Speech-Language Pathologist (SLP),"Hanover, MA, US",True,"Braintree, MA",True
+Job-040943,assistant`physical`pta`therapist~~north`providence~~ri~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"North Providence, RI, US",True,"North Providence, RI; STATE, in; North Providence",True
+Job-043444,assistant`physical`pta`therapist~~marino`san~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"San Marino, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043444,assistant`physical`pta`therapist~~bellflower~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Bellflower, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-039668,assistant`physical`pta`therapist~~brookfield~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Brookfield, MA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043444,assistant`physical`pta`therapist~~cerritos~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Cerritos, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043171,assistant`physical`pta`therapist~~hull~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Hull, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-040007,assistant`physical`pta`therapist~~kountze~~tx~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Kountze, TX, US",True,"Beaumont, TX; STATE, in",True
+Job-043171,assistant`physical`pta`therapist~~bridgewater`east~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"East Bridgewater, MA, US",True,"Swansea, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043171,assistant`physical`pta`therapist~~lynnfield~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Lynnfield, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",False
+Job-033525,assistant`physical`pta`therapist~~mulvane~~ks~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Mulvane, KS, US",True,"Mulvane, KS; terventions and modify treatment approaches as clinically appropriate, in; Mulvane",True
+Job-043171,assistant`physical`pta`therapist~~lynn~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Lynn, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043102,assistant`physical`pta`therapist~~hamilton~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Hamilton, MA, US",True,"Lawrence, MA; terventions and modify treatment approaches as clinically appropriate, in",False
+Job-043126,assistant`physical`pta`therapist~~rochester~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Rochester, MA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",False
+Job-043156,assistant`physical`pta`therapist~~hopkinton~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Hopkinton, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-044248,assistant`physical`pta`therapist~~trenton~~oh~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Trenton, OH, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043102,assistant`physical`pta`therapist~~newburyport~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Newburyport, MA, US",True,"Lawrence, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043444,assistant`physical`pta`therapist~~malibu~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Malibu, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043171,assistant`physical`pta`therapist~~scituate~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Scituate, MA, US",True,"Norwell, MA; terventions and modify treatment approaches as clinically appropriate, in",False
+Job-043126,assistant`physical`pta`therapist~~wareham~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Wareham, MA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043156,assistant`physical`pta`therapist~~grafton~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Grafton, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043102,assistant`physical`pta`therapist~~salisbury~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Salisbury, MA, US",True,"Lawrence, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043171,assistant`physical`pta`therapist~~wellesley~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Wellesley, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-042867,assistant`physical`pta`therapist~~castroville~~tx~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Castroville, TX, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043171,assistant`physical`pta`therapist~~plainville~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Plainville, MA, US",True,"Swansea, MA; terventions and modify treatment approaches as clinically appropriate, in",False
+Job-033525,assistant`physical`pta`therapist~~goddard~~ks~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Goddard, KS, US",True,"Mulvane, KS; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043140,assistant`physical`pta`therapist~~east`providence~~ri~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"East Providence, RI, US",True,"North Providence, RI; STATE, in",False
+Job-043156,assistant`physical`pta`therapist~~lancaster~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Lancaster, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043444,assistant`physical`pta`therapist~~norwalk~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Norwalk, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043444,assistant`physical`pta`therapist~~buena`park~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Buena Park, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043444,assistant`physical`pta`therapist~~burbank~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Burbank, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043102,assistant`physical`pta`therapist~~beverly~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Beverly, MA, US",True,"Lawrence, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043444,assistant`physical`pta`therapist~~el`monte~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"El Monte, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True
+Job-038975,assistant`physical`pta`therapist~~seminole~~fl~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Seminole, FL, US",True,"Largo, FL; STATE, in",True
+Job-032994,assistant`physical`pta`therapist~~frisco~~tx~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Frisco, TX, US",True,"Highland Village, TX; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-032994,assistant`physical`pta`therapist~~argyle~~tx~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Argyle, TX, US",True,"Highland Village, TX; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043156,assistant`physical`pta`therapist~~westford~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Westford, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043156,assistant`physical`pta`therapist~~boxborough~~ma~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Boxborough, MA, US",True,"Wayland, MA; terventions and modify treatment approaches as clinically appropriate, in",True
+Job-043140,assistant`physical`pta`therapist~~bristol~~ri~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"Bristol, RI, US",True,"North Providence, RI; STATE, in",False
+Job-043756,assistant`physical`pta`therapist~~de`soto~~mo~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"De Soto, MO, US",True,"STATE, in; De Soto",False
+Job-043444,assistant`physical`pta`therapist~~gabriel`san~~ca~~us~~llc`management`quality`rehab,Physical Therapist Assistant (PTA),"San Gabriel, CA, US",True,"terventions and modify treatment approaches as clinically appropriate, in",True

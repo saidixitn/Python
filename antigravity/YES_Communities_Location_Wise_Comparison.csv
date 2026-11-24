@@ -1,0 +1,750 @@
+Job Location,City,State,Current Status,Active (Posted) Jobs,Expired (Removed) Jobs,Total Jobs,Clicks (Max Day 10-19),Clicks (Yesterday 11-16),Clicks Change,% Change,Total Lifetime Clicks,10-19 Clicks from Now-Expired Jobs
+"Dearborn,MI,US",Dearborn,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,4,0,-4,-1.0,6,4
+"Greenwood,IN,US",Greenwood,Indiana,"Mixed (4 Active, 1 Expired)",4,1,5,2,0,-2,-1.0,30,0
+"Harper Woods,MI,US",Harper Woods,MI,All Jobs Active,2,0,2,2,0,-2,-1.0,10,0
+"Sterling Heights,MI,US",Sterling Heights,Michigan,All Jobs Active,4,0,4,2,0,-2,-1.0,27,0
+"Wallburg,NC,US",Wallburg,NC,All Jobs Active,2,0,2,2,0,-2,-1.0,4,0
+"Cibolo,TX,US",Cibolo,TX,All Jobs Active,2,0,2,1,1,0,0.0,6,0
+"Knoxville,TN,US",Knoxville,TN,All Jobs Active,1,0,1,1,1,0,0.0,5,0
+"Plainfield,IN,US",Plainfield,IN,"Mixed (3 Active, 2 Expired)",3,2,5,1,1,0,0.0,27,0
+"Utica,MI,US",Utica,MI,All Jobs Active,4,0,4,1,1,0,0.0,11,0
+"Allen Park,MI,US",Allen Park,MI,"Mixed (1 Active, 1 Expired)",1,1,2,1,0,-1,-1.0,9,1
+"Anderson,IN,US",Anderson,Indiana,"Mixed (3 Active, 2 Expired)",3,2,5,1,0,-1,-1.0,12,0
+"Avon,IN,US",Avon,IN,"Mixed (4 Active, 1 Expired)",4,1,5,1,0,-1,-1.0,20,0
+"Beech Grove,IN,US",Beech Grove,IN,All Jobs Active,5,0,5,1,0,-1,-1.0,16,0
+"Cedar Hill,TX,US",Cedar Hill,TX,All Jobs Active,3,0,3,1,0,-1,-1.0,9,0
+"Center Line,MI,US",Center Line,MI,All Jobs Active,4,0,4,1,0,-1,-1.0,17,0
+"Choctaw,OK,US",Choctaw,OK,All Jobs Expired,0,2,2,1,0,-1,-1.0,3,1
+"Cicero,IN,US",Cicero,IN,"Mixed (3 Active, 2 Expired)",3,2,5,1,0,-1,-1.0,3,0
+"Clive,IA,US",Clive,IA,All Jobs Active,2,0,2,1,0,-1,-1.0,1,0
+"Corpus Christi,TX,US",Corpus Christi,TX,"Mixed (3 Active, 1 Expired)",3,1,4,1,0,-1,-1.0,29,1
+"Denton,TX,US",Denton,Texas,All Jobs Active,2,0,2,1,0,-1,-1.0,10,0
+"Ecorse,MI,US",Ecorse,MI,"Mixed (1 Active, 2 Expired)",1,2,3,1,0,-1,-1.0,3,0
+"Ferndale,MI,US",Ferndale,MI,All Jobs Active,2,0,2,1,0,-1,-1.0,5,0
+"Fortville,IN,US",Fortville,IN,"Mixed (4 Active, 1 Expired)",4,1,5,1,0,-1,-1.0,6,0
+"Frisco,TX,US",Frisco,Texas,All Jobs Active,2,0,2,1,0,-1,-1.0,25,0
+"Greenfield,IN,US",Greenfield,IN,"Mixed (4 Active, 1 Expired)",4,1,5,1,0,-1,-1.0,15,0
+"Greensboro,NC,US",Greensboro,North Carolina,"Mixed (2 Active, 1 Expired)",2,1,3,1,0,-1,-1.0,15,0
+"Harrah,OK,US",Harrah,OK,All Jobs Active,2,0,2,1,0,-1,-1.0,7,0
+"Hazel Park,MI,US",Hazel Park,MI,"Mixed (3 Active, 1 Expired)",3,1,4,1,0,-1,-1.0,7,0
+"Inkster,MI,US",Inkster,MI,"Mixed (1 Active, 1 Expired)",1,1,2,1,0,-1,-1.0,4,0
+"Lebanon,IN,US",Lebanon,IN,"Mixed (3 Active, 2 Expired)",3,2,5,1,0,-1,-1.0,8,0
+"Moncks Corner,SC,US",Moncks Corner,SC,All Jobs Active,4,0,4,1,0,-1,-1.0,6,0
+"North Richland Hills,TX,US",North Richland Hills,TX,All Jobs Active,2,0,2,1,0,-1,-1.0,4,0
+"Park Forest,IL,US",Park Forest,IL,All Jobs Active,1,0,1,1,0,-1,-1.0,11,0
+"Pendleton,IN,US",Pendleton,Indiana,"Mixed (3 Active, 2 Expired)",3,2,5,1,0,-1,-1.0,10,0
+"Reidsville,NC,US",Reidsville,North Carolina,"Mixed (1 Active, 2 Expired)",1,2,3,1,0,-1,-1.0,1,1
+"Rossville,GA,US",Rossville,GA,"Mixed (1 Active, 1 Expired)",1,1,2,1,0,-1,-1.0,1,0
+"Saline,MI,US",Saline,MI,All Jobs Active,1,0,1,1,0,-1,-1.0,1,0
+"Shelbyville,IN,US",Shelbyville,IN,"Mixed (4 Active, 1 Expired)",4,1,5,1,0,-1,-1.0,15,0
+"Smyrna,GA,US",Smyrna,GA,All Jobs Active,1,0,1,1,0,-1,-1.0,5,0
+"Toledo,OH,US",Toledo,Ohio,All Jobs Expired,0,1,1,1,0,-1,-1.0,5,1
+"Zionsville,IN,US",Zionsville,IN,"Mixed (4 Active, 1 Expired)",4,1,5,1,0,-1,-1.0,6,0
+"Ingalls,IN,US",Ingalls,IN,"Mixed (3 Active, 2 Expired)",3,2,5,0,2,2,1.0,4,0
+"Cayce,SC,US",Cayce,South Carolina,"Mixed (1 Active, 1 Expired)",1,1,2,0,1,1,1.0,9,0
+"Hanahan,SC,US",Hanahan,SC,All Jobs Active,3,0,3,0,1,1,1.0,7,0
+"Jacksboro,TN,US",Jacksboro,TN,All Jobs Active,1,0,1,0,1,1,1.0,3,0
+"Lapel,IN,US",Lapel,IN,"Mixed (3 Active, 2 Expired)",3,2,5,0,1,1,1.0,4,0
+"Maumee,OH,US",Maumee,OH,All Jobs Active,1,0,1,0,1,1,1.0,2,0
+"Princeton,TX,US",Princeton,TX,All Jobs Active,2,0,2,0,1,1,1.0,4,0
+"San Antonio,TX,US",San Antonio,Texas,All Jobs Active,3,0,3,0,1,1,1.0,15,0
+"Troy,MI,US",Troy,Michigan,All Jobs Active,4,0,4,0,1,1,1.0,7,0
+"Warren,MI,US",Warren,Michigan,All Jobs Active,4,0,4,0,1,1,1.0,9,0
+"Acworth,GA,US",Acworth,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Addison,TX,US",Addison,Texas,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,2,0
+"Adel,IA,US",Adel,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Alcoa,TN,US",Alcoa,TN,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,5,0
+"Aledo,TX,US",Aledo,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Algonac,MI,US",Algonac,MI,All Jobs Active,3,0,3,0,0,0,0.0,4,0
+"Allegan,MI,US",Allegan,MI,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,4,0
+"Allen,TX,US",Allen,TX,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Almont,MI,US",Almont,MI,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Alpharetta,GA,US",Alpharetta,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Altoona,IA,US",Altoona,IA,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Alvarado,TX,US",Alvarado,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,0,0
+"Amherst,OH,US",Amherst,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Anamosa,IA,US",Anamosa,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Ankeny,IA,US",Ankeny,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Ann Arbor,MI,US",Ann Arbor,Michigan,All Jobs Active,2,0,2,0,0,0,0.0,8,0
+"Aransas Pass,TX,US",Aransas Pass,Texas,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,2,0
+"Argyle,TX,US",Argyle,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Arlington,TX,US",Arlington,TX,All Jobs Active,3,0,3,0,0,0,0.0,40,0
+"Armada,MI,US",Armada,MI,All Jobs Active,3,0,3,0,0,0,0.0,1,0
+"Arvada,CO,US",Arvada,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Asheboro,NC,US",Asheboro,North Carolina,All Jobs Active,2,0,2,0,0,0,0.0,5,0
+"Atkins,IA,US",Atkins,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Atlanta,GA,US",Atlanta,GA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Atlantic Beach,FL,US",Atlantic Beach,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Aubrey,TX,US",Aubrey,TX,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Auburn Hills,MI,US",Auburn Hills,Michigan,All Jobs Active,3,0,3,0,0,0,0.0,3,0
+"Aurora,CO,US",Aurora,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Austell,GA,US",Austell,GA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Avon Lake,OH,US",Avon Lake,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Avon,OH,US",Avon,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Avondale Estates,GA,US",Avondale Estates,GA,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Avondale,AZ,US",Avondale,AZ,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Azle,TX,US",Azle,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Balch Springs,TX,US",Balch Springs,TX,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,1,0
+"Baldwin City,KS,US",Baldwin City,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Ballwin,MO,US",Ballwin,Missouri,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Bangor,MI,US",Bangor,MI,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Bargersville,IN,US",Bargersville,IN,"Mixed (3 Active, 2 Expired)",3,2,5,0,0,0,0.0,5,0
+"Bartow,FL,US",Bartow,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Basehor,KS,US",Basehor,KS,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Batavia,OH,US",Batavia,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Battle Creek,MI,US",Battle Creek,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,3,0
+"Bay City,MI,US",Bay City,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Bay Village,OH,US",Bay Village,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Bedford,TX,US",Bedford,TX,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,1,0
+"Beecher,IL,US",Beecher,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Belding,MI,US",Belding,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Belleville,MI,US",Belleville,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,3,0
+"Belton,MO,US",Belton,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Bennett,CO,US",Bennett,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Benton Harbor,MI,US",Benton Harbor,Michigan,All Jobs Expired,0,1,1,0,0,0,0.0,3,0
+"Berea,OH,US",Berea,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Berkley,MI,US",Berkley,MI,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Bethany,OK,US",Bethany,OK,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,7,0
+"Bethel,OH,US",Bethel,OH,All Jobs Expired,0,1,1,0,0,0,0.0,2,0
+"Bettendorf,IA,US",Bettendorf,IA,All Jobs Expired,0,2,2,0,0,0,0.0,0,0
+"Birmingham,MI,US",Birmingham,MI,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,2,0
+"Bishop,TX,US",Bishop,TX,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,1,0
+"Blanchard,OK,US",Blanchard,OK,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Blanchester,OH,US",Blanchester,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Bloomfield Hills,MI,US",Bloomfield Hills,Michigan,All Jobs Active,3,0,3,0,0,0,0.0,2,0
+"Blue Grass,IA,US",Blue Grass,IA,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"Blue Springs,MO,US",Blue Springs,Missouri,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Blythewood,SC,US",Blythewood,South Carolina,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,9,0
+"Boerne,TX,US",Boerne,Texas,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Bondurant,IA,US",Bondurant,IA,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Bonner Springs,KS,US",Bonner Springs,KS,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Boonville,IN,US",Boonville,Indiana,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Boulder,CO,US",Boulder,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,5,0
+"Bourbonnais,IL,US",Bourbonnais,IL,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Bowling Green,OH,US",Bowling Green,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Bradley,IL,US",Bradley,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Braidwood,IL,US",Braidwood,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Bremen,IN,US",Bremen,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Brighton,CO,US",Brighton,Colorado,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Brighton,MI,US",Brighton,Michigan,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,3,0
+"Broadview Heights,OH,US",Broadview Heights,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Brooklyn,IN,US",Brooklyn,Indiana,"Mixed (2 Active, 3 Expired)",2,3,5,0,0,0,0.0,2,0
+"Broomfield,CO,US",Broomfield,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Brownsburg,IN,US",Brownsburg,Indiana,"Mixed (3 Active, 2 Expired)",3,2,5,0,0,0,0.0,8,0
+"Brunswick,OH,US",Brunswick,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Buckner,MO,US",Buckner,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Bulverde,TX,US",Bulverde,TX,All Jobs Active,2,0,2,0,0,0,0.0,9,0
+"Burleson,TX,US",Burleson,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Burlington,NC,US",Burlington,North Carolina,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,11,0
+"Burton,MI,US",Burton,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Camanche,IA,US",Camanche,IA,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Cambridge,IL,US",Cambridge,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Canton,GA,US",Canton,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Canton,IL,US",Canton,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Carleton,MI,US",Carleton,MI,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Carlisle,IA,US",Carlisle,IA,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Carmel,IN,US",Carmel,Indiana,"Mixed (4 Active, 1 Expired)",4,1,5,0,0,0,0.0,14,0
+"Carrollton,TX,US",Carrollton,TX,All Jobs Active,2,0,2,0,0,0,0.0,5,0
+"Caryville,TN,US",Caryville,TN,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Castle Rock,CO,US",Castle Rock,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Castroville,TX,US",Castroville,TX,All Jobs Active,2,0,2,0,0,0,0.0,4,0
+"Cedar Falls,IA,US",Cedar Falls,IA,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Cedar Lake,IN,US",Cedar Lake,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Cedar Rapids,IA,US",Cedar Rapids,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Cedar Springs,MI,US",Cedar Springs,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Celina,TX,US",Celina,TX,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Center Point,IA,US",Center Point,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Chandler,IN,US",Chandler,IN,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Channahon,IL,US",Channahon,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Charleston,SC,US",Charleston,South Carolina,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,2,0
+"Charlotte,MI,US",Charlotte,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Chesaning,MI,US",Chesaning,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Chesterfield,MO,US",Chesterfield,Missouri,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Chesterton,IN,US",Chesterton,Indiana,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Chicago Heights,IL,US",Chicago Heights,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Chillicothe,IL,US",Chillicothe,IL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Clarkston,GA,US",Clarkston,GA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Clawson,MI,US",Clawson,MI,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,2,0
+"Cleburne,TX,US",Cleburne,Texas,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Clemmons,NC,US",Clemmons,NC,All Jobs Active,2,0,2,0,0,0,0.0,7,0
+"Cleveland,OH,US",Cleveland,Ohio,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Clinton Twp,MI,US",Clinton Twp,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Clinton,IA,US",Clinton,Iowa,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,4,0
+"Clinton,TN,US",Clinton,Tennessee,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Clio,MI,US",Clio,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Coal City,IL,US",Coal City,IL,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Coal Valley,IL,US",Coal Valley,IL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Colleyville,TX,US",Colleyville,TX,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Columbia,SC,US",Columbia,SC,All Jobs Active,2,0,2,0,0,0,0.0,12,0
+"Commerce City,CO,US",Commerce City,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Conroe,TX,US",Conroe,TX,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Converse,TX,US",Converse,TX,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Coopersville,MI,US",Coopersville,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Coppell,TX,US",Coppell,Texas,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Coralville,IA,US",Coralville,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Country Club Hills,IL,US",Country Club Hills,IL,All Jobs Expired,0,1,1,0,0,0,0.0,5,0
+"Crandall,TX,US",Crandall,TX,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Crest Hill,IL,US",Crest Hill,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Crete,IL,US",Crete,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Creve Coeur,IL,US",Creve Coeur,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Crowley,TX,US",Crowley,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Crown Point,IN,US",Crown Point,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Dacono,CO,US",Dacono,CO,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Dade City,FL,US",Dade City,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Dakota City,NE,US",Dakota City,NE,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Dallas,GA,US",Dallas,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Dallas,TX,US",Dallas,Texas,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Dandridge,TN,US",Dandridge,TN,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Danville,IN,US",Danville,IN,"Mixed (3 Active, 2 Expired)",3,2,5,0,0,0,0.0,5,0
+"Darlington,SC,US",Darlington,SC,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Davenport,IA,US",Davenport,Iowa,All Jobs Active,2,0,2,0,0,0,0.0,7,0
+"Davison,MI,US",Davison,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"De Soto,KS,US",De Soto,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Dearborn Heights,MI,US",Dearborn Heights,Michigan,All Jobs Active,3,0,3,0,0,0,0.0,9,0
+"Decatur,GA,US",Decatur,Georgia,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Decatur,TX,US",Decatur,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Delta,OH,US",Delta,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Denver,CO,US",Denver,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Desoto,TX,US",Desoto,TX,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Detroit,MI,US",Detroit,Michigan,All Jobs Active,2,0,2,0,0,0,0.0,7,0
+"Devine,TX,US",Devine,TX,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Dexter,MI,US",Dexter,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Dillon,SC,US",Dillon,SC,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Douglasville,GA,US",Douglasville,GA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Dubuque,IA,US",Dubuque,IA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Duncanville,TX,US",Duncanville,Texas,"Mixed (2 Active, 2 Expired)",2,2,4,0,0,0,0.0,12,0
+"Dundee,MI,US",Dundee,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Durand,MI,US",Durand,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Dyer,IN,US",Dyer,Indiana,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,3,0
+"Dyersville,IA,US",Dyersville,IA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Eagle Lake,FL,US",Eagle Lake,FL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Eagle,MI,US",Eagle,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"East Lansing,MI,US",East Lansing,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"East Peoria,IL,US",East Peoria,Illinois,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Eastpointe,MI,US",Eastpointe,MI,All Jobs Active,2,0,2,0,0,0,0.0,11,0
+"Eaton Rapids,MI,US",Eaton Rapids,MI,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Edinburgh,IN,US",Edinburgh,Indiana,All Jobs Active,5,0,5,0,0,0,0.0,10,0
+"Edmond,OK,US",Edmond,OK,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,6,0
+"Edwardsville,KS,US",Edwardsville,Kansas,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"El Reno,OK,US",El Reno,Oklahoma,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Eldridge,IA,US",Eldridge,IA,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Elkhart,IN,US",Elkhart,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Elmwood,IL,US",Elmwood,IL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Elon,NC,US",Elon,NC,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"Elwood,IL,US",Elwood,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Ely,IA,US",Ely,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Elyria,OH,US",Elyria,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Englewood,CO,US",Englewood,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Ennis,TX,US",Ennis,Texas,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Erie,CO,US",Erie,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Essexville,MI,US",Essexville,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Eudora,KS,US",Eudora,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Euless,TX,US",Euless,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"Eureka,IL,US",Eureka,Illinois,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Evansdale,IA,US",Evansdale,IA,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Excelsior Springs,MO,US",Excelsior Springs,MO,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Fair Haven,MI,US",Fair Haven,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Fairburn,GA,US",Fairburn,GA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Fairfax,IA,US",Fairfax,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Farmersville,TX,US",Farmersville,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Farmington,MI,US",Farmington,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Fate,TX,US",Fate,Texas,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Fayetteville,GA,US",Fayetteville,GA,All Jobs Expired,0,1,1,0,0,0,0.0,2,0
+"Fenton,MI,US",Fenton,MI,All Jobs Active,2,0,2,0,0,0,0.0,9,0
+"Fenton,MO,US",Fenton,Missouri,All Jobs Active,1,0,1,0,0,0,0.0,5,0
+"Fernandina Beach,FL,US",Fernandina Beach,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Ferris,TX,US",Ferris,TX,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Ferrysburg,MI,US",Ferrysburg,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Firestone,CO,US",Firestone,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Fishers,IN,US",Fishers,Indiana,"Mixed (4 Active, 1 Expired)",4,1,5,0,0,0,0.0,19,0
+"Flat Rock,MI,US",Flat Rock,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Flint,MI,US",Flint,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Florence,SC,US",Florence,South Carolina,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Floresville,TX,US",Floresville,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,9,0
+"Florissant,MO,US",Florissant,Missouri,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Flossmoor,IL,US",Flossmoor,IL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Flower Mound,TX,US",Flower Mound,Texas,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Flushing,MI,US",Flushing,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Folly Beach,SC,US",Folly Beach,SC,All Jobs Expired,0,2,2,0,0,0,0.0,1,0
+"Forney,TX,US",Forney,TX,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Fort Branch,IN,US",Fort Branch,IN,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Fort Lupton,CO,US",Fort Lupton,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Fort Pierce,FL,US",Fort Pierce,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Fort Worth,TX,US",Fort Worth,Texas,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,4,0
+"Fowlerville,MI,US",Fowlerville,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Frankenmuth,MI,US",Frankenmuth,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Frankfort,IL,US",Frankfort,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Franklin,IN,US",Franklin,IN,All Jobs Active,5,0,5,0,0,0,0.0,14,0
+"Franklin,MI,US",Franklin,MI,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,3,0
+"Frankton,IN,US",Frankton,IN,"Mixed (2 Active, 3 Expired)",2,3,5,0,0,0,0.0,0,0
+"Fraser,MI,US",Fraser,MI,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Frederick,CO,US",Frederick,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Galesburg,MI,US",Galesburg,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Garden City,MI,US",Garden City,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Gardner,KS,US",Gardner,Kansas,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Garland,TX,US",Garland,TX,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,1,0
+"Gary,IN,US",Gary,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Gaston,SC,US",Gaston,SC,All Jobs Expired,0,2,2,0,0,0,0.0,0,0
+"Genoa,OH,US",Genoa,OH,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Gibsonburg,OH,US",Gibsonburg,OH,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Gibsonville,NC,US",Gibsonville,NC,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,2,0
+"Glenwood,IL,US",Glenwood,IL,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Golden,CO,US",Golden,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Goose Creek,SC,US",Goose Creek,SC,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,4,0
+"Goshen,IN,US",Goshen,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Grafton,OH,US",Grafton,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Graham,NC,US",Graham,NC,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,0,0
+"Grain Valley,MO,US",Grain Valley,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Granbury,TX,US",Granbury,Texas,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Grand Blanc,MI,US",Grand Blanc,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Grand Forks,ND,US",Grand Forks,ND,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Grand Haven,MI,US",Grand Haven,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Grand Ledge,MI,US",Grand Ledge,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Grand Prairie,TX,US",Grand Prairie,Texas,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,8,0
+"Grand Rapids,MI,US",Grand Rapids,Michigan,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Grandview,MO,US",Grandview,MO,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Grandville,MI,US",Grandville,MI,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Grapevine,TX,US",Grapevine,TX,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Green Cove Springs,FL,US",Green Cove Springs,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Greenville,MI,US",Greenville,MI,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Greenville,TX,US",Greenville,TX,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Greenwood,MO,US",Greenwood,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Gregory,TX,US",Gregory,TX,"Mixed (2 Active, 2 Expired)",2,2,4,0,0,0,0.0,1,0
+"Griffith,IN,US",Griffith,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Grimes,IA,US",Grimes,IA,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Grosse Pointe,MI,US",Grosse Pointe,Michigan,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"Grundy Center,IA,US",Grundy Center,IA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Guthrie,OK,US",Guthrie,OK,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Haltom City,TX,US",Haltom City,TX,All Jobs Active,2,0,2,0,0,0,0.0,4,0
+"Hammond,IN,US",Hammond,Indiana,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Hamtramck,MI,US",Hamtramck,MI,All Jobs Active,2,0,2,0,0,0,0.0,4,0
+"Harriman,TN,US",Harriman,TN,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Harrisonville,MO,US",Harrisonville,MO,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Hartford,MI,US",Hartford,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Hartsville,SC,US",Hartsville,South Carolina,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Haslet,TX,US",Haslet,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Hastings,MI,US",Hastings,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Hazel Crest,IL,US",Hazel Crest,IL,All Jobs Active,1,0,1,0,0,0,0.0,6,0
+"Hazelwood,MO,US",Hazelwood,Missouri,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Hebron,IN,US",Hebron,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Helotes,TX,US",Helotes,TX,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"Herculaneum,MO,US",Herculaneum,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Hiawatha,IA,US",Hiawatha,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"High Point,NC,US",High Point,North Carolina,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,4,0
+"Highland Park,MI,US",Highland Park,MI,All Jobs Active,3,0,3,0,0,0,0.0,6,0
+"Highland,IN,US",Highland,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Hilliard,FL,US",Hilliard,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Hiram,GA,US",Hiram,GA,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Hobart,IN,US",Hobart,Indiana,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Holland,MI,US",Holland,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,6,0
+"Holly Springs,GA,US",Holly Springs,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Holly,MI,US",Holly,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Hollywood,SC,US",Hollywood,SC,All Jobs Expired,0,2,2,0,0,0,0.0,0,0
+"Homer Glen,IL,US",Homer Glen,IL,All Jobs Active,1,0,1,0,0,0,0.0,5,0
+"Homewood,IL,US",Homewood,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Hondo,TX,US",Hondo,TX,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Howell,MI,US",Howell,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Hudson,CO,US",Hudson,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Hudson,IA,US",Hudson,IA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Hudsonville,MI,US",Hudsonville,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Huntington Woods,MI,US",Huntington Woods,MI,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Huntsville,TX,US",Huntsville,TX,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Huron,OH,US",Huron,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Hurst,TX,US",Hurst,Texas,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,2,0
+"Hutchins,TX,US",Hutchins,TX,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,2,0
+"Huxley,IA,US",Huxley,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Independence,IA,US",Independence,IA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Independence,MO,US",Independence,Missouri,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Independence,OH,US",Independence,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Indianapolis,IN,US",Indianapolis,IN,"Mixed (3 Active, 2 Expired)",3,2,5,0,0,0,0.0,14,0
+"Indianola,IA,US",Indianola,IA,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Indiantown,FL,US",Indiantown,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Ingleside,TX,US",Ingleside,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"Ionia,MI,US",Ionia,MI,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Iowa City,IA,US",Iowa City,Iowa,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Irmo,SC,US",Irmo,South Carolina,All Jobs Active,2,0,2,0,0,0,0.0,4,0
+"Irving,TX,US",Irving,Texas,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,4,0
+"Jackson,MI,US",Jackson,Michigan,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Jacksonville Beach,FL,US",Jacksonville Beach,FL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Jamestown,NC,US",Jamestown,North Carolina,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,4,0
+"Jefferson City,TN,US",Jefferson City,TN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Johnston,IA,US",Johnston,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Joliet,IL,US",Joliet,IL,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Jones,OK,US",Jones,OK,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Jonesboro,GA,US",Jonesboro,GA,All Jobs Expired,0,1,1,0,0,0,0.0,2,0
+"Joshua,TX,US",Joshua,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Justin,TX,US",Justin,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Kalamazoo,MI,US",Kalamazoo,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Kankakee,IL,US",Kankakee,IL,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Kansas City,KS,US",Kansas City,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Kansas City,MO,US",Kansas City,Missouri,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Kaufman,TX,US",Kaufman,TX,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Kearney,MO,US",Kearney,MO,All Jobs Expired,0,1,1,0,0,0,0.0,2,0
+"Keego Harbor,MI,US",Keego Harbor,MI,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Keene,TX,US",Keene,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Keller,TX,US",Keller,TX,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"Kennedale,TX,US",Kennedale,TX,"Mixed (2 Active, 2 Expired)",2,2,4,0,0,0,0.0,1,0
+"Kennesaw,GA,US",Kennesaw,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Kernersville,NC,US",Kernersville,North Carolina,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,0,0
+"Kingfisher,OK,US",Kingfisher,OK,All Jobs Expired,0,2,2,0,0,0,0.0,0,0
+"Kingston,TN,US",Kingston,TN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Kouts,IN,US",Kouts,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Krum,TX,US",Krum,TX,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"La Follette,TN,US",La Follette,TN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"La Porte,IN,US",La Porte,Indiana,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"La Vergne,TN,US",La Vergne,TN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lafayette,CO,US",Lafayette,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Lake Alfred,FL,US",Lake Alfred,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lake City,SC,US",Lake City,SC,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Lake Dallas,TX,US",Lake Dallas,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Lake Odessa,MI,US",Lake Odessa,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Lake Orion,MI,US",Lake Orion,Michigan,All Jobs Active,3,0,3,0,0,0,0.0,2,0
+"Lake Station,IN,US",Lake Station,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lakeland,FL,US",Lakeland,Florida,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Lakewood,OH,US",Lakewood,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lancaster,TX,US",Lancaster,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"Lansing,KS,US",Lansing,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lansing,MI,US",Lansing,Michigan,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Lapeer,MI,US",Lapeer,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lathrop,MO,US",Lathrop,MO,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lavon,TX,US",Lavon,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Lawrence,KS,US",Lawrence,Kansas,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lawrenceville,GA,US",Lawrenceville,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Lawson,MO,US",Lawson,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Le Claire,IA,US",Le Claire,IA,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Le Mars,IA,US",Le Mars,IA,All Jobs Expired,0,2,2,0,0,0,0.0,0,0
+"Leavenworth,KS,US",Leavenworth,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lebanon,OH,US",Lebanon,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Lenexa,KS,US",Lenexa,Kansas,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lenoir City,TN,US",Lenoir City,Tennessee,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Leslie,MI,US",Leslie,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Lewisville,TX,US",Lewisville,Texas,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Lexington,NC,US",Lexington,North Carolina,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Lexington,OK,US",Lexington,OK,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lexington,SC,US",Lexington,South Carolina,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Liberty,MO,US",Liberty,Missouri,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Liberty,NC,US",Liberty,NC,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,0,0
+"Lincoln Park,MI,US",Lincoln Park,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Linden,MI,US",Linden,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Lisbon,IA,US",Lisbon,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Little Elm,TX,US",Little Elm,TX,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"Livonia,MI,US",Livonia,Michigan,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,8,0
+"Lodi,OH,US",Lodi,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lone Tree,CO,US",Lone Tree,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Longmont,CO,US",Longmont,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Lorain,OH,US",Lorain,Ohio,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Loudon,TN,US",Loudon,TN,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Louisville,CO,US",Louisville,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Louisville,TN,US",Louisville,TN,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Loveland,OH,US",Loveland,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Lowell,IN,US",Lowell,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Lowell,MI,US",Lowell,MI,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Lytle,TX,US",Lytle,TX,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Macclenny,FL,US",Macclenny,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Macomb,MI,US",Macomb,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Madison Heights,MI,US",Madison Heights,MI,All Jobs Active,3,0,3,0,0,0,0.0,2,0
+"Madison,NC,US",Madison,NC,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,0,0
+"Madrid,IA,US",Madrid,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Manhattan,IL,US",Manhattan,IL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Mansfield,TX,US",Mansfield,TX,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,2,0
+"Manteno,IL,US",Manteno,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Marengo,IA,US",Marengo,Iowa,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Marietta,GA,US",Marietta,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Marine City,MI,US",Marine City,MI,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Marion,IA,US",Marion,IA,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Marion,SC,US",Marion,SC,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Martinsville,IN,US",Martinsville,Indiana,"Mixed (4 Active, 1 Expired)",4,1,5,0,0,0,0.0,6,0
+"Marysville,MI,US",Marysville,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Maryville,TN,US",Maryville,Tennessee,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,6,0
+"Mason,MI,US",Mason,Michigan,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Mason,OH,US",Mason,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Mattawan,MI,US",Mattawan,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Matteson,IL,US",Matteson,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Maynardville,TN,US",Maynardville,TN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Mayodan,NC,US",Mayodan,NC,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,1,0
+"McKinney,TX,US",McKinney,Texas,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Mead,CO,US",Mead,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Medina,OH,US",Medina,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Melvindale,MI,US",Melvindale,MI,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,2,0
+"Merrillville,IN,US",Merrillville,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Mesa,AZ,US",Mesa,Arizona,All Jobs Expired,0,1,1,0,0,0,0.0,10,0
+"Mesquite,TX,US",Mesquite,Texas,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,2,0
+"Metamora,IL,US",Metamora,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Middlebury,IN,US",Middlebury,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Middleville,MI,US",Middleville,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Midland,MI,US",Midland,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Midlothian,TX,US",Midlothian,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,2,0
+"Milan,MI,US",Milan,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Milford,MI,US",Milford,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Milford,OH,US",Milford,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Mishawaka,IN,US",Mishawaka,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Mitchellville,IA,US",Mitchellville,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Mokena,IL,US",Mokena,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Moline,IL,US",Moline,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Momence,IL,US",Momence,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Monee,IL,US",Monee,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Monroe,MI,US",Monroe,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Montgomery,TX,US",Montgomery,Texas,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Montrose,MI,US",Montrose,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Mooresville,IN,US",Mooresville,IN,"Mixed (4 Active, 1 Expired)",4,1,5,0,0,0,0.0,8,0
+"Morrow,GA,US",Morrow,GA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Morton,IL,US",Morton,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Mt Clemens,MI,US",Mt Clemens,Michigan,All Jobs Active,3,0,3,0,0,0,0.0,8,0
+"Mt Morris,MI,US",Mt Morris,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Mt Orab,OH,US",Mt Orab,Ohio,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Mt Pleasant,SC,US",Mt Pleasant,South Carolina,All Jobs Active,3,0,3,0,0,0,0.0,6,0
+"Mt Vernon,IA,US",Mt Vernon,Iowa,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Mt Vernon,IN,US",Mt Vernon,Indiana,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Mulberry,FL,US",Mulberry,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Mullins,SC,US",Mullins,SC,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Munster,IN,US",Munster,IN,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Muscatine,IA,US",Muscatine,IA,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Muskegon,MI,US",Muskegon,Michigan,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Mustang,OK,US",Mustang,OK,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Nappanee,IN,US",Nappanee,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Neptune Beach,FL,US",Neptune Beach,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"New Baltimore,MI,US",New Baltimore,MI,All Jobs Active,3,0,3,0,0,0,0.0,2,0
+"New Braunfels,TX,US",New Braunfels,Texas,All Jobs Active,2,0,2,0,0,0,0.0,17,0
+"New Carlisle,IN,US",New Carlisle,IN,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"New Haven,MI,US",New Haven,MI,All Jobs Active,3,0,3,0,0,0,0.0,1,0
+"New Lenox,IL,US",New Lenox,IL,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"New London,OH,US",New London,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"New Palestine,IN,US",New Palestine,Indiana,All Jobs Active,5,0,5,0,0,0,0.0,7,0
+"New Richmond,OH,US",New Richmond,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"New Tazewell,TN,US",New Tazewell,TN,All Jobs Active,1,0,1,0,0,0,0.0,4,0
+"Newburgh,IN,US",Newburgh,Indiana,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Newcastle,OK,US",Newcastle,OK,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Newton,IA,US",Newton,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Nicoma Park,OK,US",Nicoma Park,Oklahoma,All Jobs Expired,0,2,2,0,0,0,0.0,0,0
+"Noble,OK,US",Noble,OK,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Noblesville,IN,US",Noblesville,IN,All Jobs Active,5,0,5,0,0,0,0.0,12,0
+"Norcross,GA,US",Norcross,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Norman,OK,US",Norman,Oklahoma,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"North Charleston,SC,US",North Charleston,SC,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"North Judson,IN,US",North Judson,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"North Liberty,IA,US",North Liberty,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"North Olmsted,OH,US",North Olmsted,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"North Ridgeville,OH,US",North Ridgeville,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"North Royalton,OH,US",North Royalton,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Northville,MI,US",Northville,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,5,0
+"Northwood,OH,US",Northwood,OH,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Norwalk,IA,US",Norwalk,IA,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Norwalk,OH,US",Norwalk,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Novi,MI,US",Novi,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,8,0
+"Oak Grove,MO,US",Oak Grove,MO,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Oak Harbor,OH,US",Oak Harbor,OH,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Oak Park,MI,US",Oak Park,MI,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,2,0
+"Oak Ridge,NC,US",Oak Ridge,NC,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,3,0
+"Oak Ridge,TN,US",Oak Ridge,TN,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Oakland City,IN,US",Oakland City,IN,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Oberlin,OH,US",Oberlin,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Odem,TX,US",Odem,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,0,0
+"Odessa,MO,US",Odessa,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Oelwein,IA,US",Oelwein,IA,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Okeechobee,FL,US",Okeechobee,Florida,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Oklahoma City,OK,US",Oklahoma City,Oklahoma,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Olathe,KS,US",Olathe,Kansas,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Oliver Springs,TN,US",Oliver Springs,TN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Olmsted Falls,OH,US",Olmsted Falls,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Olympia Fields,IL,US",Olympia Fields,IL,All Jobs Active,1,0,1,0,0,0,0.0,4,0
+"Orange Park,FL,US",Orange Park,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Oregon,OH,US",Oregon,OH,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Orland Park,IL,US",Orland Park,Illinois,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Osceola,IN,US",Osceola,IN,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Otsego,MI,US",Otsego,MI,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"Ottawa,KS,US",Ottawa,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Owosso,MI,US",Owosso,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Oxford,MI,US",Oxford,Michigan,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,2,0
+"Palmer,TX,US",Palmer,TX,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Parker,CO,US",Parker,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Paw Paw,MI,US",Paw Paw,MI,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,4,0
+"Peculiar,MO,US",Peculiar,MO,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Pekin,IL,US",Pekin,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Peoria Heights,IL,US",Peoria Heights,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Peotone,IL,US",Peotone,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Perry,MI,US",Perry,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Perrysburg,OH,US",Perrysburg,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Piedmont,OK,US",Piedmont,OK,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Pigeon Forge,TN,US",Pigeon Forge,TN,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Pilot Point,TX,US",Pilot Point,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Pittsboro,IN,US",Pittsboro,IN,"Mixed (3 Active, 2 Expired)",3,2,5,0,0,0,0.0,0,0
+"Plainwell,MI,US",Plainwell,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,4,0
+"Plano,TX,US",Plano,Texas,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Plant City,FL,US",Plant City,Florida,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Platte City,MO,US",Platte City,MO,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Pleasant Garden,NC,US",Pleasant Garden,NC,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,1,0
+"Pleasant Hill,IA,US",Pleasant Hill,IA,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Pleasant Hill,MO,US",Pleasant Hill,MO,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Pleasant Ridge,MI,US",Pleasant Ridge,MI,All Jobs Active,3,0,3,0,0,0,0.0,5,0
+"Pleasanton,TX,US",Pleasanton,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Pleasantville,IA,US",Pleasantville,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Plymouth,IN,US",Plymouth,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Plymouth,MI,US",Plymouth,Michigan,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Polk City,IA,US",Polk City,IA,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Ponder,TX,US",Ponder,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Pontiac,MI,US",Pontiac,MI,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Port Aransas,TX,US",Port Aransas,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,9,0
+"Port Huron,MI,US",Port Huron,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,5,0
+"Portage,IN,US",Portage,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Portage,MI,US",Portage,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,3,0
+"Portland,MI,US",Portland,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Portland,TX,US",Portland,TX,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,5,0
+"Poteet,TX,US",Poteet,TX,All Jobs Active,1,0,2,0,0,0,0.0,1,0
+"Potterville,MI,US",Potterville,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Powder Springs,GA,US",Powder Springs,GA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Powell,TN,US",Powell,TN,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Princeton,IN,US",Princeton,Indiana,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Prosper,TX,US",Prosper,TX,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Purcell,OK,US",Purcell,OK,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Ramseur,NC,US",Ramseur,NC,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Randleman,NC,US",Randleman,NC,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Ravenel,SC,US",Ravenel,SC,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,0,0
+"Raymore,MO,US",Raymore,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Red Oak,TX,US",Red Oak,TX,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,1,0
+"Rensselaer,IN,US",Rensselaer,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Richardson,TX,US",Richardson,TX,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Richmond,MI,US",Richmond,MI,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Richton Park,IL,US",Richton Park,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"River Rouge,MI,US",River Rouge,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Riverside,MO,US",Riverside,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Riverview,MI,US",Riverview,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Robins,IA,US",Robins,Iowa,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Robstown,TX,US",Robstown,TX,All Jobs Active,3,0,3,0,0,0,0.0,4,0
+"Rochester,MI,US",Rochester,Michigan,All Jobs Active,4,0,4,0,0,0,0.0,1,0
+"Rock Island,IL,US",Rock Island,Illinois,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Rockford,MI,US",Rockford,MI,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Rockmart,GA,US",Rockmart,GA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Rockport,IN,US",Rockport,IN,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Rockwall,TX,US",Rockwall,Texas,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Rockwood,MI,US",Rockwood,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Rocky River,OH,US",Rocky River,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Romeo,MI,US",Romeo,MI,All Jobs Active,3,0,3,0,0,0,0.0,0,0
+"Romulus,MI,US",Romulus,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Roseville,MI,US",Roseville,MI,All Jobs Active,2,0,2,0,0,0,0.0,5,0
+"Rossford,OH,US",Rossford,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Roswell,GA,US",Roswell,Georgia,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Rowlett,TX,US",Rowlett,TX,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Royal Oak,MI,US",Royal Oak,Michigan,All Jobs Active,3,0,3,0,0,0,0.0,6,0
+"Royse City,TX,US",Royse City,TX,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Rural Hall,NC,US",Rural Hall,NC,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Sachse,TX,US",Sachse,TX,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Saginaw,MI,US",Saginaw,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Schererville,IN,US",Schererville,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Schertz,TX,US",Schertz,TX,All Jobs Active,2,0,2,0,0,0,0.0,13,0
+"Seagoville,TX,US",Seagoville,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"Sebastian,FL,US",Sebastian,Florida,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Seguin,TX,US",Seguin,Texas,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"Sergeant Bluff,IA,US",Sergeant Bluff,IA,All Jobs Expired,0,2,2,0,0,0,0.0,0,0
+"Sevierville,TN,US",Sevierville,TN,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,4,0
+"Shawnee,KS,US",Shawnee,Kansas,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Shawnee,OK,US",Shawnee,OK,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Sheffield Lake,OH,US",Sheffield Lake,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Sheridan,IN,US",Sheridan,IN,"Mixed (4 Active, 1 Expired)",4,1,5,0,0,0,0.0,2,0
+"Sinton,TX,US",Sinton,TX,"Mixed (2 Active, 2 Expired)",2,2,4,0,0,0,0.0,0,0
+"Sioux City,IA,US",Sioux City,IA,All Jobs Expired,0,1,2,0,0,0,0.0,0,0
+"Smithville,MO,US",Smithville,MO,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Solon,IA,US",Solon,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"South Bend,IN,US",South Bend,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"South Haven,MI,US",South Haven,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"South Lebanon,OH,US",South Lebanon,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"South Lyon,MI,US",South Lyon,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,3,0
+"South Sioux City,NE,US",South Sioux City,NE,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Southfield,MI,US",Southfield,Michigan,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"Southgate,MI,US",Southgate,MI,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,3,0
+"Southlake,TX,US",Southlake,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Sparta,MI,US",Sparta,MI,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Spencer,OK,US",Spencer,OK,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Spring Hill,KS,US",Spring Hill,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Spring Lake,MI,US",Spring Lake,MI,All Jobs Expired,0,1,1,0,0,0,0.0,3,0
+"Springtown,TX,US",Springtown,TX,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Steger,IL,US",Steger,IL,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Stokesdale,NC,US",Stokesdale,NC,All Jobs Active,3,0,3,0,0,0,0.0,3,0
+"Strongsville,OH,US",Strongsville,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Stuart,FL,US",Stuart,FL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Summerfield,NC,US",Summerfield,NC,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,2,0
+"Summerville,SC,US",Summerville,South Carolina,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,19,0
+"Sumner,IA,US",Sumner,IA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Sunnyvale,TX,US",Sunnyvale,TX,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,1,0
+"Swanton,OH,US",Swanton,OH,All Jobs Active,2,0,2,0,0,0,0.0,4,0
+"Swartz Creek,MI,US",Swartz Creek,MI,All Jobs Active,1,0,1,0,0,0,0.0,3,0
+"Swepsonville,NC,US",Swepsonville,North Carolina,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,0,0
+"Sylvania,OH,US",Sylvania,OH,All Jobs Active,1,0,1,0,0,0,0.0,4,0
+"Taft,TX,US",Taft,TX,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,0,0
+"Taylor,MI,US",Taylor,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Tecumseh,MI,US",Tecumseh,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Tecumseh,OK,US",Tecumseh,OK,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Temple,GA,US",Temple,GA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Terrace Park,OH,US",Terrace Park,OH,All Jobs Expired,0,2,2,0,0,0,0.0,3,0
+"Terrell,TX,US",Terrell,TX,All Jobs Active,2,0,2,0,0,0,0.0,6,0
+"The Colony,TX,US",The Colony,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Thomasville,NC,US",Thomasville,North Carolina,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Thornton,CO,US",Thornton,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Three Rivers,MI,US",Three Rivers,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Tiffin,IA,US",Tiffin,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Timmonsville,SC,US",Timmonsville,SC,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Tinley Park,IL,US",Tinley Park,IL,All Jobs Active,1,0,1,0,0,0,0.0,4,0
+"Tonganoxie,KS,US",Tonganoxie,KS,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Tremont,IL,US",Tremont,IL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Trenton,MI,US",Trenton,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Trinity,NC,US",Trinity,NC,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Trinity,TX,US",Trinity,TX,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Tucker,GA,US",Tucker,Georgia,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Tuttle,OK,US",Tuttle,OK,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Union City,GA,US",Union City,GA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Universal City,TX,US",Universal City,Texas,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"University Park,IL,US",University Park,IL,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Urbandale,IA,US",Urbandale,IA,All Jobs Active,2,0,2,0,0,0,0.0,2,0
+"Valley Park,MO,US",Valley Park,MO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Valparaiso,IN,US",Valparaiso,Indiana,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Vassar,MI,US",Vassar,MI,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Venus,TX,US",Venus,TX,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,1,0
+"Vermilion,OH,US",Vermilion,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Vero Beach,FL,US",Vero Beach,Florida,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Vicksburg,MI,US",Vicksburg,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Vinton,IA,US",Vinton,IA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Wakarusa,IN,US",Wakarusa,IN,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Walbridge,OH,US",Walbridge,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Walkerton,IN,US",Walkerton,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Walkertown,NC,US",Walkertown,NC,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Walnut Cove,NC,US",Walnut Cove,NC,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Washington,IL,US",Washington,IL,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Waterloo,IA,US",Waterloo,IA,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Waterville,OH,US",Waterville,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Watervliet,MI,US",Watervliet,Michigan,All Jobs Active,1,0,1,0,0,0,0.0,2,0
+"Waukee,IA,US",Waukee,IA,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Waverly,IA,US",Waverly,IA,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Waxahachie,TX,US",Waxahachie,Texas,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,8,0
+"Wayland,MI,US",Wayland,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Wayne,MI,US",Wayne,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,4,0
+"Weatherford,TX,US",Weatherford,Texas,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Wellington,OH,US",Wellington,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Wentworth,NC,US",Wentworth,North Carolina,"Mixed (2 Active, 1 Expired)",2,1,3,0,0,0,0.0,1,0
+"West Columbia,SC,US",West Columbia,South Carolina,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"West Des Moines,IA,US",West Des Moines,Iowa,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Westfield,IN,US",Westfield,Indiana,"Mixed (4 Active, 1 Expired)",4,1,5,0,0,0,0.0,13,0
+"Westlake,OH,US",Westlake,OH,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Westland,MI,US",Westland,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,1,0
+"Westminster,CO,US",Westminster,Colorado,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Westville,IN,US",Westville,IN,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Wheat Ridge,CO,US",Wheat Ridge,CO,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Whitehouse,OH,US",Whitehouse,OH,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Whiteland,IN,US",Whiteland,IN,"Mixed (2 Active, 3 Expired)",2,3,5,0,0,0,0.0,3,0
+"Whitestown,IN,US",Whitestown,Indiana,"Mixed (4 Active, 1 Expired)",4,1,5,0,0,0,0.0,8,0
+"Williamsburg,OH,US",Williamsburg,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Williamston,MI,US",Williamston,MI,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Willis,TX,US",Willis,Texas,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Wilmer,TX,US",Wilmer,TX,"Mixed (3 Active, 1 Expired)",3,1,4,0,0,0,0.0,1,0
+"Wilmington,IL,US",Wilmington,IL,All Jobs Active,1,0,1,0,0,0,0.0,1,0
+"Wilton,IA,US",Wilton,IA,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,0,0
+"Windsor Heights,IA,US",Windsor Heights,IA,All Jobs Active,2,0,2,0,0,0,0.0,3,0
+"Winterset,IA,US",Winterset,IA,All Jobs Active,2,0,2,0,0,0,0.0,0,0
+"Wixom,MI,US",Wixom,MI,"Mixed (1 Active, 2 Expired)",1,2,3,0,0,0,0.0,0,0
+"Woodstock,GA,US",Woodstock,GA,All Jobs Active,1,0,1,0,0,0,0.0,0,0
+"Woodville,OH,US",Woodville,OH,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Wyandotte,MI,US",Wyandotte,MI,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,2,0
+"Wylie,TX,US",Wylie,TX,All Jobs Active,2,0,2,0,0,0,0.0,1,0
+"Wyoming,MI,US",Wyoming,Michigan,All Jobs Expired,0,1,1,0,0,0,0.0,0,0
+"Ypsilanti,MI,US",Ypsilanti,Michigan,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,3,0
+"Yukon,OK,US",Yukon,OK,"Mixed (1 Active, 1 Expired)",1,1,2,0,0,0,0.0,5,0
+"Zeeland,MI,US",Zeeland,MI,All Jobs Expired,0,1,1,0,0,0,0.0,1,0
+"Zephyrhills,FL,US",Zephyrhills,Florida,All Jobs Active,1,0,1,0,0,0,0.0,0,0

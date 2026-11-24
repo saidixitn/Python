@@ -1,0 +1,3486 @@
+[
+    {
+        "find": "Akron,OH",
+        "replace": ""
+    },
+    {
+        "find": "Akron, OH",
+        "replace": ""
+    },
+    {
+        "find": "Albans,VT",
+        "replace": ""
+    },
+    {
+        "find": "Albans, VT",
+        "replace": ""
+    },
+    {
+        "find": "Alexandria,VA",
+        "replace": ""
+    },
+    {
+        "find": "Alexandria, VA",
+        "replace": ""
+    },
+    {
+        "find": "Alton,IL",
+        "replace": ""
+    },
+    {
+        "find": "Alton, IL",
+        "replace": ""
+    },
+    {
+        "find": "Andover,OH",
+        "replace": ""
+    },
+    {
+        "find": "Andover, OH",
+        "replace": ""
+    },
+    {
+        "find": "Arlington,TX",
+        "replace": ""
+    },
+    {
+        "find": "Arlington, TX",
+        "replace": ""
+    },
+    {
+        "find": "Arlington,VA",
+        "replace": ""
+    },
+    {
+        "find": "Arlington, VA",
+        "replace": ""
+    },
+    {
+        "find": "Atco,NJ",
+        "replace": ""
+    },
+    {
+        "find": "Atco, NJ",
+        "replace": ""
+    },
+    {
+        "find": "Austin,TX",
+        "replace": ""
+    },
+    {
+        "find": "Austin, TX",
+        "replace": ""
+    },
+    {
+        "find": "Avenue \nFort Worth,TX",
+        "replace": ""
+    },
+    {
+        "find": "Avenue \nFort Worth, TX",
+        "replace": ""
+    },
+    {
+        "find": "Avenue Fort Worth,TX",
+        "replace": ""
+    },
+    {
+        "find": "Avenue Fort Worth, TX",
+        "replace": ""
+    },
+    {
+        "find": "Bardstown,KY",
+        "replace": ""
+    },
+    {
+        "find": "Bardstown, KY",
+        "replace": ""
+    },
+    {
+        "find": "Barre,VT",
+        "replace": ""
+    },
+    {
+        "find": "Barre, VT",
+        "replace": ""
+    },
+    {
+        "find": "Basking Ridge,NJ",
+        "replace": ""
+    },
+    {
+        "find": "Basking Ridge, NJ",
+        "replace": ""
+    },
+    {
+        "find": "Batavia,NY",
+        "replace": ""
+    },
+    {
+        "find": "Batavia, NY",
+        "replace": ""
+    },
+    {
+        "find": "Batesville,AR",
+        "replace": ""
+    },
+    {
+        "find": "Batesville, AR",
+        "replace": ""
+    },
+    {
+        "find": "Beaumont,TX",
+        "replace": ""
+    },
+    {
+        "find": "Beaumont, TX",
+        "replace": ""
+    },
+    {
+        "find": "Bedford,TX",
+        "replace": ""
+    },
+    {
+        "find": "Bedford, TX",
+        "replace": ""
+    },
+    {
+        "find": "Bel Aire,KS",
+        "replace": ""
+    },
+    {
+        "find": "Bel Aire, KS",
+        "replace": ""
+    },
+    {
+        "find": "Belington,WV",
+        "replace": ""
+    },
+    {
+        "find": "Belington, WV",
+        "replace": ""
+    },
+    {
+        "find": "Belleville,IL",
+        "replace": ""
+    },
+    {
+        "find": "Belleville, IL",
+        "replace": ""
+    },
+    {
+        "find": "Bellingham,WA",
+        "replace": ""
+    },
+    {
+        "find": "Bellingham, WA",
+        "replace": ""
+    },
+    {
+        "find": "Belmond,IA",
+        "replace": ""
+    },
+    {
+        "find": "Belmond, IA",
+        "replace": ""
+    },
+    {
+        "find": "Bennington,VT",
+        "replace": ""
+    },
+    {
+        "find": "Bennington, VT",
+        "replace": ""
+    },
+    {
+        "find": "Berwyn,IL",
+        "replace": ""
+    },
+    {
+        "find": "Berwyn, IL",
+        "replace": ""
+    },
+    {
+        "find": "Big Rapids,MI",
+        "replace": ""
+    },
+    {
+        "find": "Big Rapids, MI",
+        "replace": ""
+    },
+    {
+        "find": "Blair,NE",
+        "replace": ""
+    },
+    {
+        "find": "Blair, NE",
+        "replace": ""
+    },
+    {
+        "find": "Bloomsburg,PA",
+        "replace": ""
+    },
+    {
+        "find": "Bloomsburg, PA",
+        "replace": ""
+    },
+    {
+        "find": "Boston,MA",
+        "replace": ""
+    },
+    {
+        "find": "Boston, MA",
+        "replace": ""
+    },
+    {
+        "find": "Boulder City,NV",
+        "replace": ""
+    },
+    {
+        "find": "Boulder City, NV",
+        "replace": ""
+    },
+    {
+        "find": "Braintree,MA",
+        "replace": ""
+    },
+    {
+        "find": "Braintree, MA",
+        "replace": ""
+    },
+    {
+        "find": "Brandon,MS",
+        "replace": ""
+    },
+    {
+        "find": "Brandon, MS",
+        "replace": ""
+    },
+    {
+        "find": "Bridgewater,NJ",
+        "replace": ""
+    },
+    {
+        "find": "Bridgewater, NJ",
+        "replace": ""
+    },
+    {
+        "find": "Bridgewater Township,NJ",
+        "replace": ""
+    },
+    {
+        "find": "Bridgewater Township, NJ",
+        "replace": ""
+    },
+    {
+        "find": "Bronx,NY",
+        "replace": ""
+    },
+    {
+        "find": "Bronx, NY",
+        "replace": ""
+    },
+    {
+        "find": "Brooklyn,NY",
+        "replace": ""
+    },
+    {
+        "find": "Brooklyn, NY",
+        "replace": ""
+    },
+    {
+        "find": "Brooksville,FL",
+        "replace": ""
+    },
+    {
+        "find": "Brooksville, FL",
+        "replace": ""
+    },
+    {
+        "find": "Brownwood,TX",
+        "replace": ""
+    },
+    {
+        "find": "Brownwood, TX",
+        "replace": ""
+    },
+    {
+        "find": "Brunswick,OH",
+        "replace": ""
+    },
+    {
+        "find": "Brunswick, OH",
+        "replace": ""
+    },
+    {
+        "find": "Buchanon,GA",
+        "replace": ""
+    },
+    {
+        "find": "Buchanon, GA",
+        "replace": ""
+    },
+    {
+        "find": "Burleson,TX",
+        "replace": ""
+    },
+    {
+        "find": "Burleson, TX",
+        "replace": ""
+    },
+    {
+        "find": "Burlington,VT",
+        "replace": ""
+    },
+    {
+        "find": "Burlington, VT",
+        "replace": ""
+    },
+    {
+        "find": "Burnet Lane Austin,TX",
+        "replace": ""
+    },
+    {
+        "find": "Burnet Lane Austin, TX",
+        "replace": ""
+    },
+    {
+        "find": "Butler,PA",
+        "replace": ""
+    },
+    {
+        "find": "Butler, PA",
+        "replace": ""
+    },
+    {
+        "find": "Buzzards Bay,MA",
+        "replace": ""
+    },
+    {
+        "find": "Buzzards Bay, MA",
+        "replace": ""
+    },
+    {
+        "find": "Camden,AR",
+        "replace": ""
+    },
+    {
+        "find": "Camden, AR",
+        "replace": ""
+    },
+    {
+        "find": "Canadaigua,NY",
+        "replace": ""
+    },
+    {
+        "find": "Canadaigua, NY",
+        "replace": ""
+    },
+    {
+        "find": "Canandaigua,NY",
+        "replace": ""
+    },
+    {
+        "find": "Canandaigua, NY",
+        "replace": ""
+    },
+    {
+        "find": "Canton,CT",
+        "replace": ""
+    },
+    {
+        "find": "Canton, CT",
+        "replace": ""
+    },
+    {
+        "find": "Canton,OH",
+        "replace": ""
+    },
+    {
+        "find": "Canton, OH",
+        "replace": ""
+    },
+    {
+        "find": "Care Center   Northport,AL",
+        "replace": ""
+    },
+    {
+        "find": "Care Center   Northport, AL",
+        "replace": ""
+    },
+    {
+        "find": "Carlisle,PA",
+        "replace": ""
+    },
+    {
+        "find": "Carlisle, PA",
+        "replace": ""
+    },
+    {
+        "find": "Carmel,PA",
+        "replace": ""
+    },
+    {
+        "find": "Carmel, PA",
+        "replace": ""
+    },
+    {
+        "find": "Casper,WY",
+        "replace": ""
+    },
+    {
+        "find": "Casper, WY",
+        "replace": ""
+    },
+    {
+        "find": "Catskill,NY",
+        "replace": ""
+    },
+    {
+        "find": "Catskill, NY",
+        "replace": ""
+    },
+    {
+        "find": "Cayahoga Falls,OH",
+        "replace": ""
+    },
+    {
+        "find": "Cayahoga Falls, OH",
+        "replace": ""
+    },
+    {
+        "find": "Cedar Hill,MO",
+        "replace": ""
+    },
+    {
+        "find": "Cedar Hill, MO",
+        "replace": ""
+    },
+    {
+        "find": "Cedar Rapids,IA",
+        "replace": ""
+    },
+    {
+        "find": "Cedar Rapids, IA",
+        "replace": ""
+    },
+    {
+        "find": "Centerville,IN",
+        "replace": ""
+    },
+    {
+        "find": "Centerville, IN",
+        "replace": ""
+    },
+    {
+        "find": "Chandler,TX",
+        "replace": ""
+    },
+    {
+        "find": "Chandler, TX",
+        "replace": ""
+    },
+    {
+        "find": "Charlotte,NC",
+        "replace": ""
+    },
+    {
+        "find": "Charlotte, NC",
+        "replace": ""
+    },
+    {
+        "find": "Cheraw,SC",
+        "replace": ""
+    },
+    {
+        "find": "Cheraw, SC",
+        "replace": ""
+    },
+    {
+        "find": "Chesapeake,VA",
+        "replace": ""
+    },
+    {
+        "find": "Chesapeake, VA",
+        "replace": ""
+    },
+    {
+        "find": "Cheyenne,WY",
+        "replace": ""
+    },
+    {
+        "find": "Cheyenne, WY",
+        "replace": ""
+    },
+    {
+        "find": "Chicago,IL",
+        "replace": ""
+    },
+    {
+        "find": "Chicago, IL",
+        "replace": ""
+    },
+    {
+        "find": "Chicago Heights,IL",
+        "replace": ""
+    },
+    {
+        "find": "Chicago Heights, IL",
+        "replace": ""
+    },
+    {
+        "find": "Chicopee,MA",
+        "replace": ""
+    },
+    {
+        "find": "Chicopee, MA",
+        "replace": ""
+    },
+    {
+        "find": "Cincinnati,OH",
+        "replace": ""
+    },
+    {
+        "find": "Cincinnati, OH",
+        "replace": ""
+    },
+    {
+        "find": "Clarksville,TN",
+        "replace": ""
+    },
+    {
+        "find": "Clarksville, TN",
+        "replace": ""
+    },
+    {
+        "find": "Cleveland,MS",
+        "replace": ""
+    },
+    {
+        "find": "Cleveland, MS",
+        "replace": ""
+    },
+    {
+        "find": "Cleveland,OH",
+        "replace": ""
+    },
+    {
+        "find": "Cleveland, OH",
+        "replace": ""
+    },
+    {
+        "find": "Cleveland,TX",
+        "replace": ""
+    },
+    {
+        "find": "Cleveland, TX",
+        "replace": ""
+    },
+    {
+        "find": "Clifton,TX",
+        "replace": ""
+    },
+    {
+        "find": "Clifton, TX",
+        "replace": ""
+    },
+    {
+        "find": "Coal Twp,PA",
+        "replace": ""
+    },
+    {
+        "find": "Coal Twp, PA",
+        "replace": ""
+    },
+    {
+        "find": "Comanche,TX",
+        "replace": ""
+    },
+    {
+        "find": "Comanche, TX",
+        "replace": ""
+    },
+    {
+        "find": "Concord,NC",
+        "replace": ""
+    },
+    {
+        "find": "Concord, NC",
+        "replace": ""
+    },
+    {
+        "find": "Concord,OH",
+        "replace": ""
+    },
+    {
+        "find": "Concord, OH",
+        "replace": ""
+    },
+    {
+        "find": "Conroe,TX",
+        "replace": ""
+    },
+    {
+        "find": "Conroe, TX",
+        "replace": ""
+    },
+    {
+        "find": "Cranston,RI",
+        "replace": ""
+    },
+    {
+        "find": "Cranston, RI",
+        "replace": ""
+    },
+    {
+        "find": "Crescent Blvd Bennington,VT",
+        "replace": ""
+    },
+    {
+        "find": "Crescent Blvd Bennington, VT",
+        "replace": ""
+    },
+    {
+        "find": "Crossville,TN",
+        "replace": ""
+    },
+    {
+        "find": "Crossville, TN",
+        "replace": ""
+    },
+    {
+        "find": "Crystal River,FL",
+        "replace": ""
+    },
+    {
+        "find": "Crystal River, FL",
+        "replace": ""
+    },
+    {
+        "find": "Culver City,CA",
+        "replace": ""
+    },
+    {
+        "find": "Culver City, CA",
+        "replace": ""
+    },
+    {
+        "find": "Cuyahoga Falls,OH",
+        "replace": ""
+    },
+    {
+        "find": "Cuyahoga Falls, OH",
+        "replace": ""
+    },
+    {
+        "find": "Dade,FL",
+        "replace": ""
+    },
+    {
+        "find": "Dade, FL",
+        "replace": ""
+    },
+    {
+        "find": "Daleville,VA",
+        "replace": ""
+    },
+    {
+        "find": "Daleville, VA",
+        "replace": ""
+    },
+    {
+        "find": "Dallas,TX",
+        "replace": ""
+    },
+    {
+        "find": "Dallas, TX",
+        "replace": ""
+    },
+    {
+        "find": "Danville,KY",
+        "replace": ""
+    },
+    {
+        "find": "Danville, KY",
+        "replace": ""
+    },
+    {
+        "find": "Davenport,IA",
+        "replace": ""
+    },
+    {
+        "find": "Davenport, IA",
+        "replace": ""
+    },
+    {
+        "find": "Dayton,OH",
+        "replace": ""
+    },
+    {
+        "find": "Dayton, OH",
+        "replace": ""
+    },
+    {
+        "find": "Daytona Beach,FL",
+        "replace": ""
+    },
+    {
+        "find": "Daytona Beach, FL",
+        "replace": ""
+    },
+    {
+        "find": "De Soto,MO",
+        "replace": ""
+    },
+    {
+        "find": "De Soto, MO",
+        "replace": ""
+    },
+    {
+        "find": "Deming,NM",
+        "replace": ""
+    },
+    {
+        "find": "Deming, NM",
+        "replace": ""
+    },
+    {
+        "find": "Denton,TX",
+        "replace": ""
+    },
+    {
+        "find": "Denton, TX",
+        "replace": ""
+    },
+    {
+        "find": "Denver,CO",
+        "replace": ""
+    },
+    {
+        "find": "Denver, CO",
+        "replace": ""
+    },
+    {
+        "find": "Denver City,TX",
+        "replace": ""
+    },
+    {
+        "find": "Denver City, TX",
+        "replace": ""
+    },
+    {
+        "find": "Desoto,MO",
+        "replace": ""
+    },
+    {
+        "find": "Desoto, MO",
+        "replace": ""
+    },
+    {
+        "find": "Detroit,MI",
+        "replace": ""
+    },
+    {
+        "find": "Detroit, MI",
+        "replace": ""
+    },
+    {
+        "find": "Dimmitt,TX",
+        "replace": ""
+    },
+    {
+        "find": "Dimmitt, TX",
+        "replace": ""
+    },
+    {
+        "find": "Douglas,MI",
+        "replace": ""
+    },
+    {
+        "find": "Douglas, MI",
+        "replace": ""
+    },
+    {
+        "find": "Dr Huntington Station,NY",
+        "replace": ""
+    },
+    {
+        "find": "Dr Huntington Station, NY",
+        "replace": ""
+    },
+    {
+        "find": "Drive Eagle Pass,TX",
+        "replace": ""
+    },
+    {
+        "find": "Drive Eagle Pass, TX",
+        "replace": ""
+    },
+    {
+        "find": "Drive Highland Village,TX",
+        "replace": ""
+    },
+    {
+        "find": "Drive Highland Village, TX",
+        "replace": ""
+    },
+    {
+        "find": "Eagle Pass,TX",
+        "replace": ""
+    },
+    {
+        "find": "Eagle Pass, TX",
+        "replace": ""
+    },
+    {
+        "find": "East Boston,MA",
+        "replace": ""
+    },
+    {
+        "find": "East Boston, MA",
+        "replace": ""
+    },
+    {
+        "find": "Edwardsville,IL",
+        "replace": ""
+    },
+    {
+        "find": "Edwardsville, IL",
+        "replace": ""
+    },
+    {
+        "find": "El Campo,TX",
+        "replace": ""
+    },
+    {
+        "find": "El Campo, TX",
+        "replace": ""
+    },
+    {
+        "find": "El Paso,TX",
+        "replace": ""
+    },
+    {
+        "find": "El Paso, TX",
+        "replace": ""
+    },
+    {
+        "find": "Elmwood Park,IL",
+        "replace": ""
+    },
+    {
+        "find": "Elmwood Park, IL",
+        "replace": ""
+    },
+    {
+        "find": "Emporia,VA",
+        "replace": ""
+    },
+    {
+        "find": "Emporia, VA",
+        "replace": ""
+    },
+    {
+        "find": "Erie,PA",
+        "replace": ""
+    },
+    {
+        "find": "Erie, PA",
+        "replace": ""
+    },
+    {
+        "find": "Etowah,TN",
+        "replace": ""
+    },
+    {
+        "find": "Etowah, TN",
+        "replace": ""
+    },
+    {
+        "find": "Etowah Healthcare  \nEtowah,TN",
+        "replace": ""
+    },
+    {
+        "find": "Etowah Healthcare  \nEtowah, TN",
+        "replace": ""
+    },
+    {
+        "find": "Etowah Healthcare  Etowah,TN",
+        "replace": ""
+    },
+    {
+        "find": "Etowah Healthcare  Etowah, TN",
+        "replace": ""
+    },
+    {
+        "find": "Everett,WA",
+        "replace": ""
+    },
+    {
+        "find": "Everett, WA",
+        "replace": ""
+    },
+    {
+        "find": "Fairfax,VA",
+        "replace": ""
+    },
+    {
+        "find": "Fairfax, VA",
+        "replace": ""
+    },
+    {
+        "find": "Fairfield,IA",
+        "replace": ""
+    },
+    {
+        "find": "Fairfield, IA",
+        "replace": ""
+    },
+    {
+        "find": "Fairfield,TX",
+        "replace": ""
+    },
+    {
+        "find": "Fairfield, TX",
+        "replace": ""
+    },
+    {
+        "find": "Fairhaven,MA",
+        "replace": ""
+    },
+    {
+        "find": "Fairhaven, MA",
+        "replace": ""
+    },
+    {
+        "find": "Falkville,AL",
+        "replace": ""
+    },
+    {
+        "find": "Falkville, AL",
+        "replace": ""
+    },
+    {
+        "find": "Fall River,MA",
+        "replace": ""
+    },
+    {
+        "find": "Fall River, MA",
+        "replace": ""
+    },
+    {
+        "find": "Falmouth,MA",
+        "replace": ""
+    },
+    {
+        "find": "Falmouth, MA",
+        "replace": ""
+    },
+    {
+        "find": "Farmington,NM",
+        "replace": ""
+    },
+    {
+        "find": "Farmington, NM",
+        "replace": ""
+    },
+    {
+        "find": "Farmville,VA",
+        "replace": ""
+    },
+    {
+        "find": "Farmville, VA",
+        "replace": ""
+    },
+    {
+        "find": "Fitchburg,MA",
+        "replace": ""
+    },
+    {
+        "find": "Fitchburg, MA",
+        "replace": ""
+    },
+    {
+        "find": "Fork Union,VA",
+        "replace": ""
+    },
+    {
+        "find": "Fork Union, VA",
+        "replace": ""
+    },
+    {
+        "find": "Fort Myers,FL",
+        "replace": ""
+    },
+    {
+        "find": "Fort Myers, FL",
+        "replace": ""
+    },
+    {
+        "find": "Fort Pierce,FL",
+        "replace": ""
+    },
+    {
+        "find": "Fort Pierce, FL",
+        "replace": ""
+    },
+    {
+        "find": "Fort Thomas,KY",
+        "replace": ""
+    },
+    {
+        "find": "Fort Thomas, KY",
+        "replace": ""
+    },
+    {
+        "find": "Fort Worth,TX",
+        "replace": ""
+    },
+    {
+        "find": "Fort Worth, TX",
+        "replace": ""
+    },
+    {
+        "find": "Framingham,MA",
+        "replace": ""
+    },
+    {
+        "find": "Framingham, MA",
+        "replace": ""
+    },
+    {
+        "find": "Franklin,MA",
+        "replace": ""
+    },
+    {
+        "find": "Franklin, MA",
+        "replace": ""
+    },
+    {
+        "find": "Franklin,TN",
+        "replace": ""
+    },
+    {
+        "find": "Franklin, TN",
+        "replace": ""
+    },
+    {
+        "find": "Front Royal,VA",
+        "replace": ""
+    },
+    {
+        "find": "Front Royal, VA",
+        "replace": ""
+    },
+    {
+        "find": "Fulton,MO",
+        "replace": ""
+    },
+    {
+        "find": "Fulton, MO",
+        "replace": ""
+    },
+    {
+        "find": "Gahanna,OH",
+        "replace": ""
+    },
+    {
+        "find": "Gahanna, OH",
+        "replace": ""
+    },
+    {
+        "find": "Gainesville,MO",
+        "replace": ""
+    },
+    {
+        "find": "Gainesville, MO",
+        "replace": ""
+    },
+    {
+        "find": "Gary,IN",
+        "replace": ""
+    },
+    {
+        "find": "Gary, IN",
+        "replace": ""
+    },
+    {
+        "find": "Gastonia,NC",
+        "replace": ""
+    },
+    {
+        "find": "Gastonia, NC",
+        "replace": ""
+    },
+    {
+        "find": "Geneva,IL",
+        "replace": ""
+    },
+    {
+        "find": "Geneva, IL",
+        "replace": ""
+    },
+    {
+        "find": "Gig Harbor,WA",
+        "replace": ""
+    },
+    {
+        "find": "Gig Harbor, WA",
+        "replace": ""
+    },
+    {
+        "find": "Glenside,PA",
+        "replace": ""
+    },
+    {
+        "find": "Glenside, PA",
+        "replace": ""
+    },
+    {
+        "find": "Glenville,WV",
+        "replace": ""
+    },
+    {
+        "find": "Glenville, WV",
+        "replace": ""
+    },
+    {
+        "find": "Godfrey,IL",
+        "replace": ""
+    },
+    {
+        "find": "Godfrey, IL",
+        "replace": ""
+    },
+    {
+        "find": "Goldthwaite,TX",
+        "replace": ""
+    },
+    {
+        "find": "Goldthwaite, TX",
+        "replace": ""
+    },
+    {
+        "find": "Groesbeck,TX",
+        "replace": ""
+    },
+    {
+        "find": "Groesbeck, TX",
+        "replace": ""
+    },
+    {
+        "find": "Hamden,CT",
+        "replace": ""
+    },
+    {
+        "find": "Hamden, CT",
+        "replace": ""
+    },
+    {
+        "find": "Hampton,VA",
+        "replace": ""
+    },
+    {
+        "find": "Hampton, VA",
+        "replace": ""
+    },
+    {
+        "find": "Harlem Avenue Berwyn,IL",
+        "replace": ""
+    },
+    {
+        "find": "Harlem Avenue Berwyn, IL",
+        "replace": ""
+    },
+    {
+        "find": "Harlingen,TX",
+        "replace": ""
+    },
+    {
+        "find": "Harlingen, TX",
+        "replace": ""
+    },
+    {
+        "find": "Harper Woods,MI",
+        "replace": ""
+    },
+    {
+        "find": "Harper Woods, MI",
+        "replace": ""
+    },
+    {
+        "find": "Harrison,AR",
+        "replace": ""
+    },
+    {
+        "find": "Harrison, AR",
+        "replace": ""
+    },
+    {
+        "find": "Hartsville,TN",
+        "replace": ""
+    },
+    {
+        "find": "Hartsville, TN",
+        "replace": ""
+    },
+    {
+        "find": "Hearne,TX",
+        "replace": ""
+    },
+    {
+        "find": "Hearne, TX",
+        "replace": ""
+    },
+    {
+        "find": "Henderson,NV",
+        "replace": ""
+    },
+    {
+        "find": "Henderson, NV",
+        "replace": ""
+    },
+    {
+        "find": "Hermann,MO",
+        "replace": ""
+    },
+    {
+        "find": "Hermann, MO",
+        "replace": ""
+    },
+    {
+        "find": "Hermitage,TN",
+        "replace": ""
+    },
+    {
+        "find": "Hermitage, TN",
+        "replace": ""
+    },
+    {
+        "find": "Highland Street Fairfield,IA",
+        "replace": ""
+    },
+    {
+        "find": "Highland Street Fairfield, IA",
+        "replace": ""
+    },
+    {
+        "find": "Highland Village,TX",
+        "replace": ""
+    },
+    {
+        "find": "Highland Village, TX",
+        "replace": ""
+    },
+    {
+        "find": "Hillsboro,TX",
+        "replace": ""
+    },
+    {
+        "find": "Hillsboro, TX",
+        "replace": ""
+    },
+    {
+        "find": "Hillsborough Township,NJ",
+        "replace": ""
+    },
+    {
+        "find": "Hillsborough Township, NJ",
+        "replace": ""
+    },
+    {
+        "find": "Hillsdale,PA",
+        "replace": ""
+    },
+    {
+        "find": "Hillsdale, PA",
+        "replace": ""
+    },
+    {
+        "find": "Holmes,NY",
+        "replace": ""
+    },
+    {
+        "find": "Holmes, NY",
+        "replace": ""
+    },
+    {
+        "find": "Homewood,AL",
+        "replace": ""
+    },
+    {
+        "find": "Homewood, AL",
+        "replace": ""
+    },
+    {
+        "find": "Hot Springs,AR",
+        "replace": ""
+    },
+    {
+        "find": "Hot Springs, AR",
+        "replace": ""
+    },
+    {
+        "find": "Houston,TX",
+        "replace": ""
+    },
+    {
+        "find": "Houston, TX",
+        "replace": ""
+    },
+    {
+        "find": "Hudson,FL",
+        "replace": ""
+    },
+    {
+        "find": "Hudson, FL",
+        "replace": ""
+    },
+    {
+        "find": "Hudson,NY",
+        "replace": ""
+    },
+    {
+        "find": "Hudson, NY",
+        "replace": ""
+    },
+    {
+        "find": "Humble,TX",
+        "replace": ""
+    },
+    {
+        "find": "Humble, TX",
+        "replace": ""
+    },
+    {
+        "find": "Huntingdon,PA",
+        "replace": ""
+    },
+    {
+        "find": "Huntingdon, PA",
+        "replace": ""
+    },
+    {
+        "find": "Huntington,WV",
+        "replace": ""
+    },
+    {
+        "find": "Huntington, WV",
+        "replace": ""
+    },
+    {
+        "find": "Huntington Station,NY",
+        "replace": ""
+    },
+    {
+        "find": "Huntington Station, NY",
+        "replace": ""
+    },
+    {
+        "find": "Indianapolis,IN",
+        "replace": ""
+    },
+    {
+        "find": "Indianapolis, IN",
+        "replace": ""
+    },
+    {
+        "find": "Irving,TX",
+        "replace": ""
+    },
+    {
+        "find": "Irving, TX",
+        "replace": ""
+    },
+    {
+        "find": "Jackson,MS",
+        "replace": ""
+    },
+    {
+        "find": "Jackson, MS",
+        "replace": ""
+    },
+    {
+        "find": "Jacksonville,FL",
+        "replace": ""
+    },
+    {
+        "find": "Jacksonville, FL",
+        "replace": ""
+    },
+    {
+        "find": "Jonesboro Craighead,AR",
+        "replace": ""
+    },
+    {
+        "find": "Jonesboro Craighead, AR",
+        "replace": ""
+    },
+    {
+        "find": "Kansas City,MO",
+        "replace": ""
+    },
+    {
+        "find": "Kansas City, MO",
+        "replace": ""
+    },
+    {
+        "find": "Katy,TX",
+        "replace": ""
+    },
+    {
+        "find": "Katy, TX",
+        "replace": ""
+    },
+    {
+        "find": "Kingwood,TX",
+        "replace": ""
+    },
+    {
+        "find": "Kingwood, TX",
+        "replace": ""
+    },
+    {
+        "find": "Kirbyville,TX",
+        "replace": ""
+    },
+    {
+        "find": "Kirbyville, TX",
+        "replace": ""
+    },
+    {
+        "find": "Lacey,WA",
+        "replace": ""
+    },
+    {
+        "find": "Lacey, WA",
+        "replace": ""
+    },
+    {
+        "find": "Lafayette Hill,PA",
+        "replace": ""
+    },
+    {
+        "find": "Lafayette Hill, PA",
+        "replace": ""
+    },
+    {
+        "find": "Lake Mills,IA",
+        "replace": ""
+    },
+    {
+        "find": "Lake Mills, IA",
+        "replace": ""
+    },
+    {
+        "find": "Lancaster,KY",
+        "replace": ""
+    },
+    {
+        "find": "Lancaster, KY",
+        "replace": ""
+    },
+    {
+        "find": "Largo,FL",
+        "replace": ""
+    },
+    {
+        "find": "Largo, FL",
+        "replace": ""
+    },
+    {
+        "find": "Las Vegas,NV",
+        "replace": ""
+    },
+    {
+        "find": "Las Vegas, NV",
+        "replace": ""
+    },
+    {
+        "find": "Lawrence,MA",
+        "replace": ""
+    },
+    {
+        "find": "Lawrence, MA",
+        "replace": ""
+    },
+    {
+        "find": "Lawrenceville,VA",
+        "replace": ""
+    },
+    {
+        "find": "Lawrenceville, VA",
+        "replace": ""
+    },
+    {
+        "find": "League City,TX",
+        "replace": ""
+    },
+    {
+        "find": "League City, TX",
+        "replace": ""
+    },
+    {
+        "find": "Leroy,NY",
+        "replace": ""
+    },
+    {
+        "find": "Leroy, NY",
+        "replace": ""
+    },
+    {
+        "find": "Lexington,KY",
+        "replace": ""
+    },
+    {
+        "find": "Lexington, KY",
+        "replace": ""
+    },
+    {
+        "find": "Liberty,NY",
+        "replace": ""
+    },
+    {
+        "find": "Liberty, NY",
+        "replace": ""
+    },
+    {
+        "find": "Liberty,TX",
+        "replace": ""
+    },
+    {
+        "find": "Liberty, TX",
+        "replace": ""
+    },
+    {
+        "find": "Little Rock,AR",
+        "replace": ""
+    },
+    {
+        "find": "Little Rock, AR",
+        "replace": ""
+    },
+    {
+        "find": "Lock Haven,PA",
+        "replace": ""
+    },
+    {
+        "find": "Lock Haven, PA",
+        "replace": ""
+    },
+    {
+        "find": "Logansport,IN",
+        "replace": ""
+    },
+    {
+        "find": "Logansport, IN",
+        "replace": ""
+    },
+    {
+        "find": "Long Beach,NY",
+        "replace": ""
+    },
+    {
+        "find": "Long Beach, NY",
+        "replace": ""
+    },
+    {
+        "find": "Longhorn Parkway Austin,TX",
+        "replace": ""
+    },
+    {
+        "find": "Longhorn Parkway Austin, TX",
+        "replace": ""
+    },
+    {
+        "find": "Los Angeles,CA",
+        "replace": ""
+    },
+    {
+        "find": "Los Angeles, CA",
+        "replace": ""
+    },
+    {
+        "find": "Louis,MO",
+        "replace": ""
+    },
+    {
+        "find": "Louis, MO",
+        "replace": ""
+    },
+    {
+        "find": "Louisville,KY",
+        "replace": ""
+    },
+    {
+        "find": "Louisville, KY",
+        "replace": ""
+    },
+    {
+        "find": "Louisville,OH",
+        "replace": ""
+    },
+    {
+        "find": "Louisville, OH",
+        "replace": ""
+    },
+    {
+        "find": "Lufkin,TX",
+        "replace": ""
+    },
+    {
+        "find": "Lufkin, TX",
+        "replace": ""
+    },
+    {
+        "find": "Luray,VA",
+        "replace": ""
+    },
+    {
+        "find": "Luray, VA",
+        "replace": ""
+    },
+    {
+        "find": "Lynchburg,VA",
+        "replace": ""
+    },
+    {
+        "find": "Lynchburg, VA",
+        "replace": ""
+    },
+    {
+        "find": "Lynnwood,WA",
+        "replace": ""
+    },
+    {
+        "find": "Lynnwood, WA",
+        "replace": ""
+    },
+    {
+        "find": "Magnolia,AR",
+        "replace": ""
+    },
+    {
+        "find": "Magnolia, AR",
+        "replace": ""
+    },
+    {
+        "find": "Manalapan,NJ",
+        "replace": ""
+    },
+    {
+        "find": "Manalapan, NJ",
+        "replace": ""
+    },
+    {
+        "find": "Manchester,KY",
+        "replace": ""
+    },
+    {
+        "find": "Manchester, KY",
+        "replace": ""
+    },
+    {
+        "find": "Manor Fort Thomas,KY",
+        "replace": ""
+    },
+    {
+        "find": "Manor Fort Thomas, KY",
+        "replace": ""
+    },
+    {
+        "find": "Maple Heights,OH",
+        "replace": ""
+    },
+    {
+        "find": "Maple Heights, OH",
+        "replace": ""
+    },
+    {
+        "find": "Marble Hill,MO",
+        "replace": ""
+    },
+    {
+        "find": "Marble Hill, MO",
+        "replace": ""
+    },
+    {
+        "find": "Marion,IA",
+        "replace": ""
+    },
+    {
+        "find": "Marion, IA",
+        "replace": ""
+    },
+    {
+        "find": "Maryland Heights,MO",
+        "replace": ""
+    },
+    {
+        "find": "Maryland Heights, MO",
+        "replace": ""
+    },
+    {
+        "find": "Mascoutah,IL",
+        "replace": ""
+    },
+    {
+        "find": "Mascoutah, IL",
+        "replace": ""
+    },
+    {
+        "find": "Mashpee,MA",
+        "replace": ""
+    },
+    {
+        "find": "Mashpee, MA",
+        "replace": ""
+    },
+    {
+        "find": "Massillon,OH",
+        "replace": ""
+    },
+    {
+        "find": "Massillon, OH",
+        "replace": ""
+    },
+    {
+        "find": "Mayfield Heights,OH",
+        "replace": ""
+    },
+    {
+        "find": "Mayfield Heights, OH",
+        "replace": ""
+    },
+    {
+        "find": "Meadville,PA",
+        "replace": ""
+    },
+    {
+        "find": "Meadville, PA",
+        "replace": ""
+    },
+    {
+        "find": "Memphis,TN",
+        "replace": ""
+    },
+    {
+        "find": "Memphis, TN",
+        "replace": ""
+    },
+    {
+        "find": "Mexia,TX",
+        "replace": ""
+    },
+    {
+        "find": "Mexia, TX",
+        "replace": ""
+    },
+    {
+        "find": "Middle River,MD",
+        "replace": ""
+    },
+    {
+        "find": "Middle River, MD",
+        "replace": ""
+    },
+    {
+        "find": "Middletown,RI",
+        "replace": ""
+    },
+    {
+        "find": "Middletown, RI",
+        "replace": ""
+    },
+    {
+        "find": "Milton,PA",
+        "replace": ""
+    },
+    {
+        "find": "Milton, PA",
+        "replace": ""
+    },
+    {
+        "find": "Missouri City,TX",
+        "replace": ""
+    },
+    {
+        "find": "Missouri City, TX",
+        "replace": ""
+    },
+    {
+        "find": "Moffat Road Cheraw,SC",
+        "replace": ""
+    },
+    {
+        "find": "Moffat Road Cheraw, SC",
+        "replace": ""
+    },
+    {
+        "find": "Montgomery,NY",
+        "replace": ""
+    },
+    {
+        "find": "Montgomery, NY",
+        "replace": ""
+    },
+    {
+        "find": "Mooresville,NC",
+        "replace": ""
+    },
+    {
+        "find": "Mooresville, NC",
+        "replace": ""
+    },
+    {
+        "find": "Mulvane,KS",
+        "replace": ""
+    },
+    {
+        "find": "Mulvane, KS",
+        "replace": ""
+    },
+    {
+        "find": "Myerstown,PA",
+        "replace": ""
+    },
+    {
+        "find": "Myerstown, PA",
+        "replace": ""
+    },
+    {
+        "find": "Naples,FL",
+        "replace": ""
+    },
+    {
+        "find": "Naples, FL",
+        "replace": ""
+    },
+    {
+        "find": "Nassawadox,VA",
+        "replace": ""
+    },
+    {
+        "find": "Nassawadox, VA",
+        "replace": ""
+    },
+    {
+        "find": "Nevada,IA",
+        "replace": ""
+    },
+    {
+        "find": "Nevada, IA",
+        "replace": ""
+    },
+    {
+        "find": "New Beaumont,TX",
+        "replace": ""
+    },
+    {
+        "find": "New Beaumont, TX",
+        "replace": ""
+    },
+    {
+        "find": "New Martinsville,WV",
+        "replace": ""
+    },
+    {
+        "find": "New Martinsville, WV",
+        "replace": ""
+    },
+    {
+        "find": "New Port Richey,FL",
+        "replace": ""
+    },
+    {
+        "find": "New Port Richey, FL",
+        "replace": ""
+    },
+    {
+        "find": "Newburyport,MA",
+        "replace": ""
+    },
+    {
+        "find": "Newburyport, MA",
+        "replace": ""
+    },
+    {
+        "find": "Newport News,VA",
+        "replace": ""
+    },
+    {
+        "find": "Newport News, VA",
+        "replace": ""
+    },
+    {
+        "find": "Niles,MI",
+        "replace": ""
+    },
+    {
+        "find": "Niles, MI",
+        "replace": ""
+    },
+    {
+        "find": "Nocona,TX",
+        "replace": ""
+    },
+    {
+        "find": "Nocona, TX",
+        "replace": ""
+    },
+    {
+        "find": "Normandy,MO",
+        "replace": ""
+    },
+    {
+        "find": "Normandy, MO",
+        "replace": ""
+    },
+    {
+        "find": "North Falmouth,MA",
+        "replace": ""
+    },
+    {
+        "find": "North Falmouth, MA",
+        "replace": ""
+    },
+    {
+        "find": "North Lima,OH",
+        "replace": ""
+    },
+    {
+        "find": "North Lima, OH",
+        "replace": ""
+    },
+    {
+        "find": "North Providence,RI",
+        "replace": ""
+    },
+    {
+        "find": "North Providence, RI",
+        "replace": ""
+    },
+    {
+        "find": "North Reading,MA",
+        "replace": ""
+    },
+    {
+        "find": "North Reading, MA",
+        "replace": ""
+    },
+    {
+        "find": "Northfield,OH",
+        "replace": ""
+    },
+    {
+        "find": "Northfield, OH",
+        "replace": ""
+    },
+    {
+        "find": "Northport,AL",
+        "replace": ""
+    },
+    {
+        "find": "Northport, AL",
+        "replace": ""
+    },
+    {
+        "find": "Norwalk,CA",
+        "replace": ""
+    },
+    {
+        "find": "Norwalk, CA",
+        "replace": ""
+    },
+    {
+        "find": "Norwell,MA",
+        "replace": ""
+    },
+    {
+        "find": "Norwell, MA",
+        "replace": ""
+    },
+    {
+        "find": "Olathe,KS",
+        "replace": ""
+    },
+    {
+        "find": "Olathe, KS",
+        "replace": ""
+    },
+    {
+        "find": "Olympia,WA",
+        "replace": ""
+    },
+    {
+        "find": "Olympia, WA",
+        "replace": ""
+    },
+    {
+        "find": "Orbisonia,PA",
+        "replace": ""
+    },
+    {
+        "find": "Orbisonia, PA",
+        "replace": ""
+    },
+    {
+        "find": "Osage Beach,MO",
+        "replace": ""
+    },
+    {
+        "find": "Osage Beach, MO",
+        "replace": ""
+    },
+    {
+        "find": "Owensville,MO",
+        "replace": ""
+    },
+    {
+        "find": "Owensville, MO",
+        "replace": ""
+    },
+    {
+        "find": "Pasadena,TX",
+        "replace": ""
+    },
+    {
+        "find": "Pasadena, TX",
+        "replace": ""
+    },
+    {
+        "find": "Pearland,TX",
+        "replace": ""
+    },
+    {
+        "find": "Pearland, TX",
+        "replace": ""
+    },
+    {
+        "find": "Perry,FL",
+        "replace": ""
+    },
+    {
+        "find": "Perry, FL",
+        "replace": ""
+    },
+    {
+        "find": "Perryville,MO",
+        "replace": ""
+    },
+    {
+        "find": "Perryville, MO",
+        "replace": ""
+    },
+    {
+        "find": "Petersburg,FL",
+        "replace": ""
+    },
+    {
+        "find": "Petersburg, FL",
+        "replace": ""
+    },
+    {
+        "find": "Philadelphia,PA",
+        "replace": ""
+    },
+    {
+        "find": "Philadelphia, PA",
+        "replace": ""
+    },
+    {
+        "find": "Philmont,NY",
+        "replace": ""
+    },
+    {
+        "find": "Philmont, NY",
+        "replace": ""
+    },
+    {
+        "find": "Phoenix,AZ",
+        "replace": ""
+    },
+    {
+        "find": "Phoenix, AZ",
+        "replace": ""
+    },
+    {
+        "find": "Physical Therapist    Jacksonville,FL",
+        "replace": ""
+    },
+    {
+        "find": "Physical Therapist    Jacksonville, FL",
+        "replace": ""
+    },
+    {
+        "find": "Pico Rivera,CA",
+        "replace": ""
+    },
+    {
+        "find": "Pico Rivera, CA",
+        "replace": ""
+    },
+    {
+        "find": "Pine Bluff,AR",
+        "replace": ""
+    },
+    {
+        "find": "Pine Bluff, AR",
+        "replace": ""
+    },
+    {
+        "find": "Planfield,IN",
+        "replace": ""
+    },
+    {
+        "find": "Planfield, IN",
+        "replace": ""
+    },
+    {
+        "find": "Plano,TX",
+        "replace": ""
+    },
+    {
+        "find": "Plano, TX",
+        "replace": ""
+    },
+    {
+        "find": "Plattsmouth,NE",
+        "replace": ""
+    },
+    {
+        "find": "Plattsmouth, NE",
+        "replace": ""
+    },
+    {
+        "find": "Port Richey,FL",
+        "replace": ""
+    },
+    {
+        "find": "Port Richey, FL",
+        "replace": ""
+    },
+    {
+        "find": "Portland,OR",
+        "replace": ""
+    },
+    {
+        "find": "Portland, OR",
+        "replace": ""
+    },
+    {
+        "find": "Post,TX",
+        "replace": ""
+    },
+    {
+        "find": "Post, TX",
+        "replace": ""
+    },
+    {
+        "find": "Prescott,AR",
+        "replace": ""
+    },
+    {
+        "find": "Prescott, AR",
+        "replace": ""
+    },
+    {
+        "find": "Prospect Park,PA",
+        "replace": ""
+    },
+    {
+        "find": "Prospect Park, PA",
+        "replace": ""
+    },
+    {
+        "find": "Purdys,NY",
+        "replace": ""
+    },
+    {
+        "find": "Purdys, NY",
+        "replace": ""
+    },
+    {
+        "find": "Queens,NY",
+        "replace": ""
+    },
+    {
+        "find": "Queens, NY",
+        "replace": ""
+    },
+    {
+        "find": "Raleigh,NC",
+        "replace": ""
+    },
+    {
+        "find": "Raleigh, NC",
+        "replace": ""
+    },
+    {
+        "find": "Reading,PA",
+        "replace": ""
+    },
+    {
+        "find": "Reading, PA",
+        "replace": ""
+    },
+    {
+        "find": "Rehab Center    Northport,AL",
+        "replace": ""
+    },
+    {
+        "find": "Rehab Center    Northport, AL",
+        "replace": ""
+    },
+    {
+        "find": "Richmond,TX",
+        "replace": ""
+    },
+    {
+        "find": "Richmond, TX",
+        "replace": ""
+    },
+    {
+        "find": "Richmond,VA",
+        "replace": ""
+    },
+    {
+        "find": "Richmond, VA",
+        "replace": ""
+    },
+    {
+        "find": "Ripley,WV",
+        "replace": ""
+    },
+    {
+        "find": "Ripley, WV",
+        "replace": ""
+    },
+    {
+        "find": "Rome,NY",
+        "replace": ""
+    },
+    {
+        "find": "Rome, NY",
+        "replace": ""
+    },
+    {
+        "find": "Roseville,MI",
+        "replace": ""
+    },
+    {
+        "find": "Roseville, MI",
+        "replace": ""
+    },
+    {
+        "find": "Roswell,NM",
+        "replace": ""
+    },
+    {
+        "find": "Roswell, NM",
+        "replace": ""
+    },
+    {
+        "find": "Royersford,PA",
+        "replace": ""
+    },
+    {
+        "find": "Royersford, PA",
+        "replace": ""
+    },
+    {
+        "find": "Ruleville,MS",
+        "replace": ""
+    },
+    {
+        "find": "Ruleville, MS",
+        "replace": ""
+    },
+    {
+        "find": "Rural Retreat,VA",
+        "replace": ""
+    },
+    {
+        "find": "Rural Retreat, VA",
+        "replace": ""
+    },
+    {
+        "find": "Saint Albans,VT",
+        "replace": ""
+    },
+    {
+        "find": "Saint Albans, VT",
+        "replace": ""
+    },
+    {
+        "find": "Salisbury,NC",
+        "replace": ""
+    },
+    {
+        "find": "Salisbury, NC",
+        "replace": ""
+    },
+    {
+        "find": "San Antonio,TX",
+        "replace": ""
+    },
+    {
+        "find": "San Antonio, TX",
+        "replace": ""
+    },
+    {
+        "find": "San Francisco,CA",
+        "replace": ""
+    },
+    {
+        "find": "San Francisco, CA",
+        "replace": ""
+    },
+    {
+        "find": "Santa Barbara,CA",
+        "replace": ""
+    },
+    {
+        "find": "Santa Barbara, CA",
+        "replace": ""
+    },
+    {
+        "find": "Santa Maria,CA",
+        "replace": ""
+    },
+    {
+        "find": "Santa Maria, CA",
+        "replace": ""
+    },
+    {
+        "find": "Sarasota,FL",
+        "replace": ""
+    },
+    {
+        "find": "Sarasota, FL",
+        "replace": ""
+    },
+    {
+        "find": "Schulenburg,TX",
+        "replace": ""
+    },
+    {
+        "find": "Schulenburg, TX",
+        "replace": ""
+    },
+    {
+        "find": "Scituate Avenue Cranston,RI",
+        "replace": ""
+    },
+    {
+        "find": "Scituate Avenue Cranston, RI",
+        "replace": ""
+    },
+    {
+        "find": "Scottsdale,AZ",
+        "replace": ""
+    },
+    {
+        "find": "Scottsdale, AZ",
+        "replace": ""
+    },
+    {
+        "find": "Searcy,AR",
+        "replace": ""
+    },
+    {
+        "find": "Searcy, AR",
+        "replace": ""
+    },
+    {
+        "find": "Seattle,WA",
+        "replace": ""
+    },
+    {
+        "find": "Seattle, WA",
+        "replace": ""
+    },
+    {
+        "find": "Seminole,FL",
+        "replace": ""
+    },
+    {
+        "find": "Seminole, FL",
+        "replace": ""
+    },
+    {
+        "find": "Shawnee,KS",
+        "replace": ""
+    },
+    {
+        "find": "Shawnee, KS",
+        "replace": ""
+    },
+    {
+        "find": "Shenandoah,PA",
+        "replace": ""
+    },
+    {
+        "find": "Shenandoah, PA",
+        "replace": ""
+    },
+    {
+        "find": "Shippensburg,PA",
+        "replace": ""
+    },
+    {
+        "find": "Shippensburg, PA",
+        "replace": ""
+    },
+    {
+        "find": "Shippenville,PA",
+        "replace": ""
+    },
+    {
+        "find": "Shippenville, PA",
+        "replace": ""
+    },
+    {
+        "find": "Siloam Springs,AR",
+        "replace": ""
+    },
+    {
+        "find": "Siloam Springs, AR",
+        "replace": ""
+    },
+    {
+        "find": "Silsbee,TX",
+        "replace": ""
+    },
+    {
+        "find": "Silsbee, TX",
+        "replace": ""
+    },
+    {
+        "find": "South Bend,IN",
+        "replace": ""
+    },
+    {
+        "find": "South Bend, IN",
+        "replace": ""
+    },
+    {
+        "find": "South Hadley,MA",
+        "replace": ""
+    },
+    {
+        "find": "South Hadley, MA",
+        "replace": ""
+    },
+    {
+        "find": "South Hill,VA",
+        "replace": ""
+    },
+    {
+        "find": "South Hill, VA",
+        "replace": ""
+    },
+    {
+        "find": "South Sioux City,NE",
+        "replace": ""
+    },
+    {
+        "find": "South Sioux City, NE",
+        "replace": ""
+    },
+    {
+        "find": "Southgate,MI",
+        "replace": ""
+    },
+    {
+        "find": "Southgate, MI",
+        "replace": ""
+    },
+    {
+        "find": "Southwest Falkville,AL",
+        "replace": ""
+    },
+    {
+        "find": "Southwest Falkville, AL",
+        "replace": ""
+    },
+    {
+        "find": "Spencerport,NY",
+        "replace": ""
+    },
+    {
+        "find": "Spencerport, NY",
+        "replace": ""
+    },
+    {
+        "find": "Spokane,WA",
+        "replace": ""
+    },
+    {
+        "find": "Spokane, WA",
+        "replace": ""
+    },
+    {
+        "find": "Springfield,OH",
+        "replace": ""
+    },
+    {
+        "find": "Springfield, OH",
+        "replace": ""
+    },
+    {
+        "find": "State College,PA",
+        "replace": ""
+    },
+    {
+        "find": "State College, PA",
+        "replace": ""
+    },
+    {
+        "find": "State Street Geneva,IL",
+        "replace": ""
+    },
+    {
+        "find": "State Street Geneva, IL",
+        "replace": ""
+    },
+    {
+        "find": "Staunton,VA",
+        "replace": ""
+    },
+    {
+        "find": "Staunton, VA",
+        "replace": ""
+    },
+    {
+        "find": "Stought,MA",
+        "replace": ""
+    },
+    {
+        "find": "Stought, MA",
+        "replace": ""
+    },
+    {
+        "find": "Stoughton,MA",
+        "replace": ""
+    },
+    {
+        "find": "Stoughton, MA",
+        "replace": ""
+    },
+    {
+        "find": "Stuart,VA",
+        "replace": ""
+    },
+    {
+        "find": "Stuart, VA",
+        "replace": ""
+    },
+    {
+        "find": "Suffolk,VA",
+        "replace": ""
+    },
+    {
+        "find": "Suffolk, VA",
+        "replace": ""
+    },
+    {
+        "find": "Swansea,MA",
+        "replace": ""
+    },
+    {
+        "find": "Swansea, MA",
+        "replace": ""
+    },
+    {
+        "find": "Tacoma,WA",
+        "replace": ""
+    },
+    {
+        "find": "Tacoma, WA",
+        "replace": ""
+    },
+    {
+        "find": "Tappahannock,VA",
+        "replace": ""
+    },
+    {
+        "find": "Tappahannock, VA",
+        "replace": ""
+    },
+    {
+        "find": "Temple City,CA",
+        "replace": ""
+    },
+    {
+        "find": "Temple City, CA",
+        "replace": ""
+    },
+    {
+        "find": "Tenth Street \nMascoutah,IL",
+        "replace": ""
+    },
+    {
+        "find": "Tenth Street \nMascoutah, IL",
+        "replace": ""
+    },
+    {
+        "find": "Tenth Street Mascoutah,IL",
+        "replace": ""
+    },
+    {
+        "find": "Tenth Street Mascoutah, IL",
+        "replace": ""
+    },
+    {
+        "find": "Terrell,TX",
+        "replace": ""
+    },
+    {
+        "find": "Terrell, TX",
+        "replace": ""
+    },
+    {
+        "find": "Texarkana,AR",
+        "replace": ""
+    },
+    {
+        "find": "Texarkana, AR",
+        "replace": ""
+    },
+    {
+        "find": "The Villages,FL",
+        "replace": ""
+    },
+    {
+        "find": "The Villages, FL",
+        "replace": ""
+    },
+    {
+        "find": "Thomas,WV",
+        "replace": ""
+    },
+    {
+        "find": "Thomas, WV",
+        "replace": ""
+    },
+    {
+        "find": "Three Rivers,MI",
+        "replace": ""
+    },
+    {
+        "find": "Three Rivers, MI",
+        "replace": ""
+    },
+    {
+        "find": "Toledo,OH",
+        "replace": ""
+    },
+    {
+        "find": "Toledo, OH",
+        "replace": ""
+    },
+    {
+        "find": "Tomball,TX",
+        "replace": ""
+    },
+    {
+        "find": "Tomball, TX",
+        "replace": ""
+    },
+    {
+        "find": "Topeka,KS",
+        "replace": ""
+    },
+    {
+        "find": "Topeka, KS",
+        "replace": ""
+    },
+    {
+        "find": "Trenton,FL",
+        "replace": ""
+    },
+    {
+        "find": "Trenton, FL",
+        "replace": ""
+    },
+    {
+        "find": "Trotwood,OH",
+        "replace": ""
+    },
+    {
+        "find": "Trotwood, OH",
+        "replace": ""
+    },
+    {
+        "find": "Troy,PA",
+        "replace": ""
+    },
+    {
+        "find": "Troy, PA",
+        "replace": ""
+    },
+    {
+        "find": "Tucson,AZ",
+        "replace": ""
+    },
+    {
+        "find": "Tucson, AZ",
+        "replace": ""
+    },
+    {
+        "find": "Tupelo,MS",
+        "replace": ""
+    },
+    {
+        "find": "Tupelo, MS",
+        "replace": ""
+    },
+    {
+        "find": "Tyler,TX",
+        "replace": ""
+    },
+    {
+        "find": "Tyler, TX",
+        "replace": ""
+    },
+    {
+        "find": "Uniontown,PA",
+        "replace": ""
+    },
+    {
+        "find": "Uniontown, PA",
+        "replace": ""
+    },
+    {
+        "find": "Urbandale,IA",
+        "replace": ""
+    },
+    {
+        "find": "Urbandale, IA",
+        "replace": ""
+    },
+    {
+        "find": "Vancouver,WA",
+        "replace": ""
+    },
+    {
+        "find": "Vancouver, WA",
+        "replace": ""
+    },
+    {
+        "find": "Vero Beach,FL",
+        "replace": ""
+    },
+    {
+        "find": "Vero Beach, FL",
+        "replace": ""
+    },
+    {
+        "find": "Victoria,TX",
+        "replace": ""
+    },
+    {
+        "find": "Victoria, TX",
+        "replace": ""
+    },
+    {
+        "find": "Virginia Beach,VA",
+        "replace": ""
+    },
+    {
+        "find": "Virginia Beach, VA",
+        "replace": ""
+    },
+    {
+        "find": "Waco,TX",
+        "replace": ""
+    },
+    {
+        "find": "Waco, TX",
+        "replace": ""
+    },
+    {
+        "find": "Waldron,AR",
+        "replace": ""
+    },
+    {
+        "find": "Waldron, AR",
+        "replace": ""
+    },
+    {
+        "find": "Walton Hills,OH",
+        "replace": ""
+    },
+    {
+        "find": "Walton Hills, OH",
+        "replace": ""
+    },
+    {
+        "find": "Warrenton,VA",
+        "replace": ""
+    },
+    {
+        "find": "Warrenton, VA",
+        "replace": ""
+    },
+    {
+        "find": "Warsaw,IN",
+        "replace": ""
+    },
+    {
+        "find": "Warsaw, IN",
+        "replace": ""
+    },
+    {
+        "find": "Warsaw,VA",
+        "replace": ""
+    },
+    {
+        "find": "Warsaw, VA",
+        "replace": ""
+    },
+    {
+        "find": "Washington,PA",
+        "replace": ""
+    },
+    {
+        "find": "Washington, PA",
+        "replace": ""
+    },
+    {
+        "find": "Waterford Township,MI",
+        "replace": ""
+    },
+    {
+        "find": "Waterford Township, MI",
+        "replace": ""
+    },
+    {
+        "find": "Watsontown,PA",
+        "replace": ""
+    },
+    {
+        "find": "Watsontown, PA",
+        "replace": ""
+    },
+    {
+        "find": "Wayland,MA",
+        "replace": ""
+    },
+    {
+        "find": "Wayland, MA",
+        "replace": ""
+    },
+    {
+        "find": "Wayne,MI",
+        "replace": ""
+    },
+    {
+        "find": "Wayne, MI",
+        "replace": ""
+    },
+    {
+        "find": "Wayne,NJ",
+        "replace": ""
+    },
+    {
+        "find": "Wayne, NJ",
+        "replace": ""
+    },
+    {
+        "find": "Waynesboro,VA",
+        "replace": ""
+    },
+    {
+        "find": "Waynesboro, VA",
+        "replace": ""
+    },
+    {
+        "find": "Waynesburg,PA",
+        "replace": ""
+    },
+    {
+        "find": "Waynesburg, PA",
+        "replace": ""
+    },
+    {
+        "find": "West Chester,PA",
+        "replace": ""
+    },
+    {
+        "find": "West Chester, PA",
+        "replace": ""
+    },
+    {
+        "find": "West Des Moines,IA",
+        "replace": ""
+    },
+    {
+        "find": "West Des Moines, IA",
+        "replace": ""
+    },
+    {
+        "find": "West Memphis,AR",
+        "replace": ""
+    },
+    {
+        "find": "West Memphis, AR",
+        "replace": ""
+    },
+    {
+        "find": "West Palm Beach,FL",
+        "replace": ""
+    },
+    {
+        "find": "West Palm Beach, FL",
+        "replace": ""
+    },
+    {
+        "find": "Westerly,RI",
+        "replace": ""
+    },
+    {
+        "find": "Westerly, RI",
+        "replace": ""
+    },
+    {
+        "find": "Western Avenue Chicago,IL",
+        "replace": ""
+    },
+    {
+        "find": "Western Avenue Chicago, IL",
+        "replace": ""
+    },
+    {
+        "find": "Westfield,MA",
+        "replace": ""
+    },
+    {
+        "find": "Westfield, MA",
+        "replace": ""
+    },
+    {
+        "find": "Westmont,IL",
+        "replace": ""
+    },
+    {
+        "find": "Westmont, IL",
+        "replace": ""
+    },
+    {
+        "find": "Wheeling,IL",
+        "replace": ""
+    },
+    {
+        "find": "Wheeling, IL",
+        "replace": ""
+    },
+    {
+        "find": "White Plains,NY",
+        "replace": ""
+    },
+    {
+        "find": "White Plains, NY",
+        "replace": ""
+    },
+    {
+        "find": "Wichita,KS",
+        "replace": ""
+    },
+    {
+        "find": "Wichita, KS",
+        "replace": ""
+    },
+    {
+        "find": "Wichita Falls,TX",
+        "replace": ""
+    },
+    {
+        "find": "Wichita Falls, TX",
+        "replace": ""
+    },
+    {
+        "find": "Williamsburg,VA",
+        "replace": ""
+    },
+    {
+        "find": "Williamsburg, VA",
+        "replace": ""
+    },
+    {
+        "find": "Williamsport,PA",
+        "replace": ""
+    },
+    {
+        "find": "Williamsport, PA",
+        "replace": ""
+    },
+    {
+        "find": "Willow Grove,PA",
+        "replace": ""
+    },
+    {
+        "find": "Willow Grove, PA",
+        "replace": ""
+    },
+    {
+        "find": "Winchester,MA",
+        "replace": ""
+    },
+    {
+        "find": "Winchester, MA",
+        "replace": ""
+    },
+    {
+        "find": "Winchester,VA",
+        "replace": ""
+    },
+    {
+        "find": "Winchester, VA",
+        "replace": ""
+    },
+    {
+        "find": "Windber,PA",
+        "replace": ""
+    },
+    {
+        "find": "Windber, PA",
+        "replace": ""
+    },
+    {
+        "find": "Winter Garden,FL",
+        "replace": ""
+    },
+    {
+        "find": "Winter Garden, FL",
+        "replace": ""
+    },
+    {
+        "find": "Woburn,MA",
+        "replace": ""
+    },
+    {
+        "find": "Woburn, MA",
+        "replace": ""
+    },
+    {
+        "find": "Wood River,IL",
+        "replace": ""
+    },
+    {
+        "find": "Wood River, IL",
+        "replace": ""
+    },
+    {
+        "find": "Woodbury,NY",
+        "replace": ""
+    },
+    {
+        "find": "Woodbury, NY",
+        "replace": ""
+    },
+    {
+        "find": "Wyndmoor,PA",
+        "replace": ""
+    },
+    {
+        "find": "Wyndmoor, PA",
+        "replace": ""
+    },
+    {
+        "find": "Wynnewood,PA",
+        "replace": ""
+    },
+    {
+        "find": "Wynnewood, PA",
+        "replace": ""
+    },
+    {
+        "find": "Wytheville,VA",
+        "replace": ""
+    },
+    {
+        "find": "Wytheville, VA",
+        "replace": ""
+    },
+    {
+        "find": "Yakima,WA",
+        "replace": ""
+    },
+    {
+        "find": "Yakima, WA",
+        "replace": ""
+    },
+    {
+        "find": "Yellville,AR",
+        "replace": ""
+    },
+    {
+        "find": "Yellville, AR",
+        "replace": ""
+    },
+    {
+        "find": "Yoakum,TX",
+        "replace": ""
+    },
+    {
+        "find": "Yoakum, TX",
+        "replace": ""
+    },
+    {
+        "find": "York,PA",
+        "replace": ""
+    },
+    {
+        "find": "York, PA",
+        "replace": ""
+    },
+    {
+        "find": "Yorktown,IN",
+        "replace": ""
+    },
+    {
+        "find": "Yorktown, IN",
+        "replace": ""
+    },
+    {
+        "find": "201-499-5265",
+        "replace": ""
+    },
+    {
+        "find": "214-210-1478",
+        "replace": ""
+    },
+    {
+        "find": "214-273-2992",
+        "replace": ""
+    },
+    {
+        "find": "214.273.2992",
+        "replace": ""
+    },
+    {
+        "find": "281-985-1008",
+        "replace": ""
+    },
+    {
+        "find": "281-985-1499",
+        "replace": ""
+    },
+    {
+        "find": "310-750-4629",
+        "replace": ""
+    },
+    {
+        "find": "417-585-0080",
+        "replace": ""
+    },
+    {
+        "find": "469-708-3688",
+        "replace": ""
+    },
+    {
+        "find": "469-720-0772",
+        "replace": ""
+    },
+    {
+        "find": "469-949-9605",
+        "replace": ""
+    },
+    {
+        "find": "732-510-0688",
+        "replace": ""
+    },
+    {
+        "find": "740-248-5460",
+        "replace": ""
+    },
+    {
+        "find": "813-309-0179",
+        "replace": ""
+    },
+    {
+        "find": "813-319-0179",
+        "replace": ""
+    },
+    {
+        "find": "813-452-6452",
+        "replace": ""
+    },
+    {
+        "find": "817-755-1149",
+        "replace": ""
+    },
+    {
+        "find": "817-918-7575",
+        "replace": ""
+    },
+    {
+        "find": "915-264-0044",
+        "replace": ""
+    },
+    {
+        "find": "970-638-8716",
+        "replace": ""
+    },
+    {
+        "find": "972-395-5281",
+        "replace": ""
+    },
+    {
+        "find": "972-532-9992",
+        "replace": ""
+    },
+    {
+        "find": "972-532-9993",
+        "replace": ""
+    },
+    {
+        "find": "972-638-8716",
+        "replace": ""
+    },
+    {
+        "find": "972-987-9209",
+        "replace": ""
+    },
+    {
+        "find": "978-252-3388",
+        "replace": ""
+    },
+    {
+        "find": "AWebb@QRMhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "AWebb@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "Ana Charles",
+        "replace": ""
+    },
+    {
+        "find": "Ann Webb",
+        "replace": ""
+    },
+    {
+        "find": "Aryn Chambers",
+        "replace": ""
+    },
+    {
+        "find": "Austin Webb",
+        "replace": ""
+    },
+    {
+        "find": "Caitlin",
+        "replace": ""
+    },
+    {
+        "find": "Caitlin Locke",
+        "replace": ""
+    },
+    {
+        "find": "Elizabeth Wall",
+        "replace": ""
+    },
+    {
+        "find": "For more information, contact",
+        "replace": ""
+    },
+    {
+        "find": "For more information, contact:",
+        "replace": ""
+    },
+    {
+        "find": "For more information, please contact",
+        "replace": ""
+    },
+    {
+        "find": "For more information, please contact:",
+        "replace": ""
+    },
+    {
+        "find": "How to Apply",
+        "replace": ""
+    },
+    {
+        "find": "Jessica Yarger",
+        "replace": ""
+    },
+    {
+        "find": "KDukes-Hartzell@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "Kimberly Baugh",
+        "replace": ""
+    },
+    {
+        "find": "Kimberly Dukes-Hartzell",
+        "replace": ""
+    },
+    {
+        "find": "OGonzalez@QRMhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "Oralia",
+        "replace": ""
+    },
+    {
+        "find": "Oralia Gonzalez",
+        "replace": ""
+    },
+    {
+        "find": "Paige Reyes",
+        "replace": ""
+    },
+    {
+        "find": "Paige Reyes, Talent Acquisition Specialist",
+        "replace": ""
+    },
+    {
+        "find": "Preyes@QRMhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "Questions before applying?",
+        "replace": ""
+    },
+    {
+        "find": "Rebecca Henderson",
+        "replace": ""
+    },
+    {
+        "find": "Recruiter Contact",
+        "replace": ""
+    },
+    {
+        "find": "Recruiter Contact Information:",
+        "replace": ""
+    },
+    {
+        "find": "Recruiter Contact information",
+        "replace": ""
+    },
+    {
+        "find": "Recruiter Contact:",
+        "replace": ""
+    },
+    {
+        "find": "Recruiter information:",
+        "replace": ""
+    },
+    {
+        "find": "SSickles@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "Stormie Sickles",
+        "replace": ""
+    },
+    {
+        "find": "TLaNeve@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "Tracy",
+        "replace": ""
+    },
+    {
+        "find": "Tracy LaNeve",
+        "replace": ""
+    },
+    {
+        "find": "achambers@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "acharles@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "awebb@QRMHealth.com",
+        "replace": ""
+    },
+    {
+        "find": "awebb@QRMhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "awebb@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "clocke@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "esolang@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "ewall@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "hnussbaum@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "jpatel@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "jpayton@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "jyarger@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "kbaugh@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "ktaute@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "lbenoit@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "ogonzalez@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "pralph@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "preyes@QRMHealth.com",
+        "replace": ""
+    },
+    {
+        "find": "preyes@QRMhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "preyes@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "rhenderson@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "ssickles@qrmhealth.com",
+        "replace": ""
+    },
+    {
+        "find": "tlaneve@qrmhealth.com",
+        "replace": ""
+    }
+]

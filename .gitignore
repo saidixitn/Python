@@ -1,0 +1,42 @@
+# Environment & Secrets
+.env
+.env.*
+*.env
+credentials.json
+*credentials*.json
+token.json
+*token*.json
+*service_account*.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.venv/
+env/
+venv/
+ENV/
+Stats/__pycache__/
+
+# OS & IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Database / Caches / Temp
+*.sqlite3
+.tmp.driveupload
+.tmp.drivedownload
+.tmp.drive
+.expiry_run_cache/
+expiry_run_cache/
+temp_repos/
+
+# Antigravity generated inspection dumps
+antigravity/*inspection*.json
+antigravity/*knowledge*.json
+antigravity/*summary*.json

@@ -1,0 +1,4147 @@
+{
+  "daily_stats.input": {
+    "sample_doc": {
+      "_id": "ObjectId(6a7af5e24f67b9350eba971d)",
+      "Domain": "championwindow.com/gfj",
+      "DomainType": "Proxy",
+      "employerId": "5f16b7fba780b2085c230ea1"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ]
+    }
+  },
+  "daily_stats.output": {
+    "sample_doc": {
+      "_id": "ObjectId(6aba5b95605b9e50947e62b0)",
+      "Date": "ISODate(2026-09-28T00:00:00)",
+      "Domain": "gfj.lettuce.com/",
+      "employerId": "emp-jbk-lettuce",
+      "Company": "Lettuce Entertain You Restaurants",
+      "DomainType": "Direct Apply",
+      "FeedExpiredJobs": 532,
+      "LiveGeneratedAt": "ISODate(2026-09-28T12:20:37.925000)",
+      "To_Post": 5814,
+      "Bot_Visits": 514,
+      "Cache_Updated_Jobs": 0,
+      "DB_Clicks": 5,
+      "Expired_Jobs": 0,
+      "Expires_Bot": 0,
+      "Expires_Fail": 0,
+      "Expires_Queue": 0,
+      "GeneratedAt": "ISODate(2026-09-29T03:30:02.533000)",
+      "Post_Fail": 0,
+      "Posted_Bot": 100,
+      "Posted_Jobs": 100,
+      "Posting_Queue": 5,
+      "Reposts": 0,
+      "To_Expire_In_5Days": 0,
+      "Total_Expired_Jobs": 0,
+      "Total_Posted_Jobs": 502
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ]
+    }
+  },
+  "daily_stats.oldstats": {
+    "sample_doc": {
+      "_id": "ObjectId(6aec34369c31e1623f339b79)",
+      "Date": "ISODate(2026-08-01T00:00:00)",
+      "Domain": "abskids.com/gfj/",
+      "Bot_Visits": 0,
+      "Cache_Updated_Jobs": 0,
+      "Company": "ABS Kids",
+      "DB_Clicks": 0,
+      "DomainType": "Proxy",
+      "Expired_Jobs": 0,
+      "Expires_Bot": 0,
+      "GeneratedAt": "ISODate(2026-11-05T07:45:24.309000)",
+      "Posted_Bot": 0,
+      "Posted_Jobs": 0,
+      "Reposts": 0,
+      "Total_Expired_Jobs": 0,
+      "Total_Posted_Jobs": 0,
+      "Updated_Jobs": 0,
+      "WindowEnd": "ISODate(2026-08-02T00:00:00)",
+      "WindowStart": "ISODate(2026-08-01T00:00:00)",
+      "employerId": "6aa8d214060e8f0b78b0dc87"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "Domain_1_employerId_1_Date_1": [
+        [
+          "Domain",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "Date",
+          1
+        ]
+      ],
+      "Domain_1_Date_1": [
+        [
+          "Domain",
+          1
+        ],
+        [
+          "Date",
+          1
+        ]
+      ]
+    }
+  },
+  "daily_domain_stats.stats": {
+    "sample_doc": {
+      "_id": "ObjectId(6907448722afc24b910ebed8)",
+      "Date": "2025-11-01",
+      "EmployerId": "68b8133b060e8f5df1a6c3a7",
+      "Company": "Earn Haus",
+      "PostingsCount": 4974,
+      "Domain": "https://earnhaus.com/gfj/",
+      "Domain Type": "Proxy",
+      "InsertedAt": "ISODate(2025-11-02T11:46:15.781000)"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "date_domain": [
+        [
+          "Date",
+          1
+        ],
+        [
+          "Domain",
+          1
+        ]
+      ],
+      "date_only": [
+        [
+          "Date",
+          1
+        ]
+      ],
+      "date_key": [
+        [
+          "Date",
+          1
+        ],
+        [
+          "Key",
+          1
+        ]
+      ]
+    }
+  },
+  "domain_expires.domains": {
+    "sample_doc": null,
+    "indexes": {}
+  },
+  "domain_expires.semrush_url's": {
+    "sample_doc": {
+      "_id": "ObjectId(696103d9d2a8a358ff6d9bbd)",
+      "url": "https://focusgroup.earnwithwfh.com/jobslistings/fdrf92a9entj-a29d4-remote-31e5eae4b1909f2675ab4426512",
+      "domain": "earnwithwfh.com"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "url_1": [
+        [
+          "url",
+          1
+        ]
+      ]
+    }
+  },
+  "domain_postings.domains": {
+    "sample_doc": {
+      "_id": "ObjectId(69146b1b3b914a725218d553)",
+      "Domain": "earnhaus.com/gfj",
+      "Domain Type": "Proxy",
+      "Quota": 5000,
+      "EmployerId": "68b8133b060e8f5df1a6c3a7"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ]
+    }
+  },
+  "xml_timings.feed_timings": {
+    "sample_doc": null,
+    "indexes": {}
+  },
+  "xml_timings.feed_timings_history": {
+    "sample_doc": null,
+    "indexes": {}
+  },
+  "banana_analytics.stats": {
+    "sample_doc": {
+      "_id": "ObjectId(698380ccf9463bdeda6c125d)",
+      "Company": "Aramark",
+      "Date": "2026-02-04",
+      "Domain": "lockurfuture_prod",
+      "cpc": 0.06,
+      "Analyst": "Divya",
+      "Collected By": "sourceEmployerId",
+      "Employer": "emp-lyf-staffattract",
+      "Report Run (IST)": "2026-02-04 22:53:37",
+      "Report Run (UTC)": "2026-02-04 17:23:37",
+      "Source Employer": "emp-gxc-staffattract",
+      "Total Clicks": 25,
+      "Unique Views": 17
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ]
+    }
+  },
+  "GenAI.faq": {
+    "sample_doc": {
+      "_id": "ObjectId(6a1441679ce79a17a0a13d21)",
+      "Name": "Dixit",
+      "Job Title": "National Sales Manager",
+      "faq": "What does a National Sales Manager do?",
+      "AI": "write a 50 words human written description using p,ul,li, and, strong tags based on this faq What does a National Sales Manager do?",
+      "ai_response": "<p><strong>National Sales Managers</strong> oversee a company\u2019s entire sales strategy across all regions, set revenue targets, and guide regional managers to ac...",
+      "status": "completed",
+      "updated_at": 1779712493.662948
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "status_1": [
+        [
+          "status",
+          1
+        ]
+      ],
+      "ai_response_1": [
+        [
+          "ai_response",
+          1
+        ]
+      ],
+      "status_1_ai_response_1": [
+        [
+          "status",
+          1
+        ],
+        [
+          "ai_response",
+          1
+        ]
+      ]
+    }
+  },
+  "prod_jobiak_ai.job": {
+    "sample_doc": {
+      "_id": "ObjectId(646790ed9d602a379ef7933c)",
+      "jobId": "646790ec9d602a379ef7933a",
+      "parentJobId": "646790ec9d602a379ef7933a",
+      "domain": "https://gopuff.com",
+      "url": "https://click.appcast.io/t/0in_E5zProg7VdREzknR15cjet-5J8fOrkoVWBUv95XFK47DSsny9rbcl04JXjLT",
+      "submittedUrl": "https://gopuff.com/gfj/1-deliver-with-gopuff-hoboken-nj-646790ec9d602a379ef7933a",
+      "title": "Deliver with Gopuff",
+      "company": "Gopuff",
+      "location": "Hoboken,NJ,US",
+      "datePosted": "ISODate(2026-11-11T10:34:58.397000)",
+      "validThrough": "ISODate(2026-12-09T10:34:58.397000)",
+      "employmentType": "PART_TIME",
+      "description": "<p><span >Do more than make ends meet. Deliver with Gopuff and get paid to deliver what your neighbors need from a Gopuf... [TRUNCATED]",
+      "status": "posted",
+      "isActive": true,
+      "createdAt": "ISODate(2023-05-19T15:07:05.534000)",
+      "jobType": "ATS",
+      "clientJobId": "9399_1126_5176-7b24dd1b38662e5dfed79af8ea5b68bd",
+      "applyLink": "https://click.appcast.io/track/gnrizqn-org?cs=k9v&jg=2dyx&bid=lUf2CslKyPxm6i440ZgUYA==",
+      "source": "https://clickcastfeeds.s3.amazonaws.com/7d9f2e34edf41c7a1ae737cb3e94e6a0/ae1fa92a7e2054a3ee9ff8b394352578-organic.xml.gz",
+      "customized": false,
+      "sameAs": "https://www.gopuff.com/",
+      "isEditing": false,
+      "occupationalCategory": [
+        "53-3033.00 -- Light Truck Drivers"
+      ],
+      "companyLogo": "https://dev-jbk-ai.s3.amazonaws.com/company-logos/d-uploads/1710496007259-Gopuff.jpg"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "url_1": [
+        [
+          "url",
+          1
+        ]
+      ],
+      "jobLanguage_1": [
+        [
+          "jobLanguage",
+          1
+        ]
+      ],
+      "datePosted_-1": [
+        [
+          "datePosted",
+          -1
+        ]
+      ],
+      "url_domain_1": [
+        [
+          "submittedUrl",
+          1
+        ],
+        [
+          "url",
+          1
+        ],
+        [
+          "domain",
+          1
+        ]
+      ],
+      "employerId_1_clientJobId_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "clientJobId",
+          1
+        ]
+      ],
+      "employerId_1_isActive_1_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "isActive",
+          1
+        ],
+        [
+          "status",
+          1
+        ]
+      ],
+      "mainOccupationalCategory_1": [
+        [
+          "mainOccupationalCategory",
+          1
+        ]
+      ],
+      "jobId_-1": [
+        [
+          "jobId",
+          -1
+        ]
+      ],
+      "status_1": [
+        [
+          "status",
+          1
+        ]
+      ],
+      "location_1": [
+        [
+          "location",
+          1
+        ]
+      ],
+      "title_1": [
+        [
+          "title",
+          1
+        ]
+      ],
+      "occupationalCategory_1": [
+        [
+          "occupationalCategory",
+          1
+        ]
+      ],
+      "submittedUrl_1": [
+        [
+          "submittedUrl",
+          1
+        ]
+      ],
+      "employerId_1": [
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "parentJobId_1": [
+        [
+          "parentJobId",
+          1
+        ]
+      ],
+      "company_1": [
+        [
+          "company",
+          1
+        ]
+      ],
+      "clientJobId_1": [
+        [
+          "clientJobId",
+          1
+        ]
+      ],
+      "createdAt_1": [
+        [
+          "createdAt",
+          1
+        ]
+      ],
+      "isActive_1_status_1_occupationalCategory_1_employerId_1_submittedUrl_1_jobLanguage_1": [
+        [
+          "isActive",
+          1
+        ],
+        [
+          "status",
+          1
+        ],
+        [
+          "occupationalCategory",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "submittedUrl",
+          1
+        ],
+        [
+          "jobLanguage",
+          1
+        ]
+      ],
+      "employerId_1_title_1_status_1_isActive_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "title",
+          1
+        ],
+        [
+          "status",
+          1
+        ],
+        [
+          "isActive",
+          1
+        ]
+      ],
+      "employerId_1_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "status",
+          1
+        ]
+      ],
+      "isActive_1_status_1_employerId_1": [
+        [
+          "isActive",
+          1
+        ],
+        [
+          "status",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "isActive_1_status_1_employerId_1_jobId_1": [
+        [
+          "isActive",
+          1
+        ],
+        [
+          "status",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "jobId",
+          1
+        ]
+      ],
+      "employerId_1_createdAt_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "createdAt",
+          1
+        ]
+      ],
+      "title_1_company_1_location_1": [
+        [
+          "title",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "location",
+          1
+        ]
+      ]
+    }
+  },
+  "prod_jobiak_ai.userAnalytics": {
+    "sample_doc": {
+      "_id": "ObjectId(640d123cce5f2b0200d2d4f2)",
+      "jobId": "63f48a959d602a551a963527",
+      "companyName": "Sunrise Senior Living",
+      "employerId": "5ecce5e7a780b273eadf6d3b",
+      "browser": "Chrome Mobile",
+      "browserMajorVersion": "110",
+      "browserType": "Browser (mobile)",
+      "deviceType": "Mobile",
+      "platform": "Android 6.x",
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.177 Mobile Safari/537.36 (compatible; Googleb...",
+      "regionName": "California",
+      "city": "Mountain View",
+      "country": "United States",
+      "timeZone": "America/Los_Angeles",
+      "ipAddress": "192.0.2.20",
+      "countryCode": "US",
+      "region": "CA",
+      "lat": "37.422",
+      "lon": "-122.084",
+      "zip": "94043",
+      "createdDt": "ISODate(2023-03-11T23:43:56.542000)",
+      "crawler": "Chrome Mobile",
+      "uniqueId": "b5c4dbcb-5f44-4a11-bbe2-7c820b26caf6",
+      "isFromGoogle": false,
+      "serverRespondedAt": "ISODate(2023-03-11T23:43:56.546000)"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "companyName_1": [
+        [
+          "companyName",
+          1
+        ]
+      ],
+      "employerId_1": [
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "jobId_-1": [
+        [
+          "jobId",
+          -1
+        ]
+      ],
+      "createdDt_1": [
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "ipAddress_1": [
+        [
+          "ipAddress",
+          1
+        ]
+      ],
+      "uniqueId_1": [
+        [
+          "uniqueId",
+          1
+        ]
+      ],
+      "childJobId_1": [
+        [
+          "childJobId",
+          1
+        ]
+      ],
+      "refSource_1": [
+        [
+          "refSource",
+          1
+        ]
+      ],
+      "domain_1": [
+        [
+          "domain",
+          1
+        ]
+      ],
+      "ipAddress_1_createdDt_1": [
+        [
+          "ipAddress",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "childJobId_1_jobId_1_ipAddress_1_browser_1_createdDt_1": [
+        [
+          "childJobId",
+          1
+        ],
+        [
+          "jobId",
+          1
+        ],
+        [
+          "ipAddress",
+          1
+        ],
+        [
+          "browser",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "userAgent_1": [
+        [
+          "userAgent",
+          1
+        ]
+      ]
+    }
+  },
+  "prod_jobiak_ai.jobsGoogleSubmittedLog": {
+    "sample_doc": {
+      "_id": "ObjectId(636072e2986d2612ba62abcb)",
+      "jobId": "636072e0bfcfe74459b2be4c",
+      "jobUrl": "https://latinhire.com/sl/eslappjbk",
+      "submittedUrl": "https://jobs.latinhire.com/job/hueytamalco-puebla-online-english-teacher-636072e0bfcfe74459b2be4c",
+      "createdAt": "ISODate(2022-11-01T01:14:10.478000)",
+      "response": "success {\n  \"urlNotificationMetadata\": {\n    \"url\": \"https://jobs.latinhire.com/job/hueytamalco-puebla-online-english-teacher-636072e0bfcfe74459b2be4c\",\n    \"la...",
+      "callType": "URL_UPDATED",
+      "serviceAccountEmail": "id-5f4cb8c9a780b21e3c313776@jobiak-production-clients.iam.gserviceaccount.com",
+      "employerId": "5f4cb8c9a780b21e3c313776",
+      "_class": "ai.jobiak.service.persistance.model.JobsGoogleSubmittedLog"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "employerId_1": [
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "jobId_1": [
+        [
+          "jobId",
+          1
+        ]
+      ],
+      "createdAt_1": [
+        [
+          "createdAt",
+          1
+        ]
+      ],
+      "submittedUrl_1": [
+        [
+          "submittedUrl",
+          1
+        ]
+      ],
+      "employerId_1_submittedUrl_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "submittedUrl",
+          1
+        ]
+      ],
+      "callType_1": [
+        [
+          "callType",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "createdAt_1_response_1": [
+        [
+          "createdAt",
+          1
+        ],
+        [
+          "response",
+          1
+        ]
+      ]
+    }
+  },
+  "directclients_prod.Target_P4_Opt": {
+    "sample_doc": {
+      "_id": "ObjectId(644147112fe99409181dbf0c)",
+      "jobdescription_opt": "<p><strong>Global Security company</strong> is seeking an experienced <strong>Embedded Software Engineer</strong> to join their team. The ideal candidate is tec...",
+      "experience": null,
+      "expirationDate": null,
+      "degree": "bachelor degree",
+      "sourceURL": "http://<FEED_HOST>:8141/sitemap/Webster__Webster_Associates_jobs.xml",
+      "employerId": "emp-jbk-websterandwebster",
+      "url": "https://jobportal2.websterandwebster.com/careers/94529-Jobiak/jobs/14066661-Embedded-Software-Engineer--Remote-Position/?utm_campaign=jobiak&utm_source=jobiak&u...",
+      "careerCluster": "Information Technology",
+      "cleansedTitle": "Software Engineer",
+      "company": "Webster & Webster Associates",
+      "uncleanedLocation": "Portland,OR,US",
+      "grade": "B",
+      "client_name": "websterandwebster",
+      "occupationalcategory": "\"15-1133.00\",\"Software Developers, Systems Software\" ",
+      "uniqueKey": "embedded`engineer`position`remote`software~~portland~~or~~us~~associates`webster`webster",
+      "jobtitle": "Embedded Software Engineer - Remote Position",
+      "main_uniqueKey": "embedded`engineer`position`remote`software~~portland~~or~~us~~associates`webster`webster",
+      "audId": "ObjectId(6956147425a408a0b9452574)",
+      "lastCheckDate": "ISODate(2025-11-12T09:49:47.666000)",
+      "jobdescription_html": "<div><div>Global Security company is seeking an experienced Embedded Software Engineer.\u00a0Ideal candidates are technically strong, take pride in tackling challeng...",
+      "jobtype": "FULL_TIME",
+      "jobdescription_plaintext": "Global Security company is seeking an experienced Embedded Software\nEngineer.\u00a0Ideal candidates are technically strong, take pride in tackling\nchallenges and get...",
+      "logo": "https://dev-jbk-ai.s3.amazonaws.com/company-logos/d-uploads/1677675026207-websterand_webster_Logo.jpg",
+      "posteddate": null
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "action_1_gpost_1_job_status_1_client_name_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ]
+      ],
+      "jobtitle_1": [
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "jobPubJobId_1": [
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "employerId_1_uniqueKey_1_job_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "action_1_client_name_1_gpost_1_company_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "company",
+          1
+        ]
+      ],
+      "gpost_1_job_status_1_client_name_1_maincategory_1_pub_inserted_1_jobPubJobId_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "maincategory",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_client_name_1_occupationalcategory_1_pub_inserted_1_jobPubJobId_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "occupationalcategory",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "gpost_1_client_name_1_job_status_1_pub_inserted_1_jobtitle_1_jobPubJobId_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "cacheSync_1_gpost_1": [
+        [
+          "cacheSync",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ]
+      ],
+      "employerId_1_job_status_1_gpost_1_gpost_expire_date_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_expire_date",
+          1
+        ]
+      ],
+      "employerId_1_job_status_1_gpost_1_gpost_date_1_action_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ],
+        [
+          "action",
+          1
+        ]
+      ],
+      "submittedUrl_1": [
+        [
+          "submittedUrl",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_pub_inserted_1_maincategory_1_jobPubJobId_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "maincategory",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "company_1_location_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "location",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_gpost_expire_date_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_expire_date",
+          1
+        ]
+      ],
+      "gpost_date_1": [
+        [
+          "gpost_date",
+          1
+        ]
+      ],
+      "company_1_gpost_1_job_status_1_pub_inserted_1_jobtitle_1_jobPubJobId_1_locationInfo.state_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ],
+        [
+          "locationInfo.state",
+          1
+        ]
+      ],
+      "gpost_expire_date_1_job_status_1_gpost_1": [
+        [
+          "gpost_expire_date",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "company_1_gpost_date_1_extraInfo.feedData_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ],
+        [
+          "extraInfo.feedData",
+          1
+        ]
+      ],
+      "employerId_1_extraInfo.feedData_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "extraInfo.feedData",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_action_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "action",
+          1
+        ]
+      ],
+      "locationInfo.country_1": [
+        [
+          "locationInfo.country",
+          1
+        ]
+      ],
+      "pub_expired_1_gpost_1": [
+        [
+          "pub_expired",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ]
+      ],
+      "employerId_1_extraInfo.locExpand_1_extraInfo.tlExpand_1_gpost_1_job_status_1_locationInfo.state_1_company_1": [
+        [
+          "employerId",
+          1.0
+        ],
+        [
+          "extraInfo.locExpand",
+          1.0
+        ],
+        [
+          "extraInfo.tlExpand",
+          1.0
+        ],
+        [
+          "gpost",
+          1.0
+        ],
+        [
+          "job_status",
+          1.0
+        ],
+        [
+          "locationInfo.state",
+          1.0
+        ],
+        [
+          "company",
+          1.0
+        ]
+      ],
+      "employerId_1_gpost_1_company_1_submittedUrl_1": [
+        [
+          "employerId",
+          1.0
+        ],
+        [
+          "gpost",
+          1.0
+        ],
+        [
+          "company",
+          1.0
+        ],
+        [
+          "submittedUrl",
+          1.0
+        ]
+      ],
+      "employerId_1_gpost_date_1_gpost_1_company_1": [
+        [
+          "employerId",
+          1.0
+        ],
+        [
+          "gpost_date",
+          1.0
+        ],
+        [
+          "gpost",
+          1.0
+        ],
+        [
+          "company",
+          1.0
+        ]
+      ],
+      "job_statu_1_gpost_1_employerId_1_lastCheckDate_1__id_1": [
+        [
+          "job_statu",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "lastCheckDate",
+          1
+        ],
+        [
+          "_id",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_lastCheckDate_1__id_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "lastCheckDate",
+          1
+        ],
+        [
+          "_id",
+          1
+        ]
+      ],
+      "uniqueKey_1": [
+        [
+          "uniqueKey",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_jobPubStatus_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ]
+      ],
+      "pub_inserted_1": [
+        [
+          "pub_inserted",
+          1
+        ]
+      ],
+      "occupationalcategory_1": [
+        [
+          "occupationalcategory",
+          1
+        ]
+      ],
+      "action_1_client_name_1_job_status_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "extraInfo.cpa_1": [
+        [
+          "extraInfo.cpa",
+          1
+        ]
+      ],
+      "key_1": [
+        [
+          "key",
+          1
+        ]
+      ],
+      "locationInfo.state_1": [
+        [
+          "locationInfo.state",
+          1
+        ]
+      ],
+      "p3Id_1": [
+        [
+          "p3Id",
+          1
+        ]
+      ],
+      "sourceURL_1": [
+        [
+          "sourceURL",
+          1
+        ]
+      ],
+      "createdAt_1": [
+        [
+          "createdAt",
+          1
+        ]
+      ],
+      "gpostExeOn_1": [
+        [
+          "gpostExeOn",
+          1
+        ]
+      ],
+      "action_1_client_name_1_gpost_1_job_status_1_extraInfo.cpa_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "extraInfo.cpa",
+          1
+        ]
+      ],
+      "action_1_job_status_1_locationInfo.state_1_client_name_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "locationInfo.state",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ]
+      ],
+      "uniquekey_1_gpost_1_job_status_1__id_1": [
+        [
+          "uniquekey",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "_id",
+          1
+        ]
+      ],
+      "audId_1_employerId_1_company_1_job_status_1": [
+        [
+          "audId",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "employerId_1_uniquekey_1_job_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "uniquekey",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "uniquekey_1_client_name_1_job_status_1": [
+        [
+          "uniquekey",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_jobPubStatus_1_employerId_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_jobtitle_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_extraInfo.mtlExpand_1_jobtitle_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "extraInfo.mtlExpand",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "company_1_main_uniqueKey_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "main_uniqueKey",
+          1
+        ]
+      ],
+      "url_1": [
+        [
+          "url",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_chunk_update_time_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "chunk_update_time",
+          1
+        ]
+      ],
+      "employerId_1_company_1_lastCheckDate_1_job_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "lastCheckDate",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "uniqueKey_1_job_status_1_employerId_1_pub_inserted_1": [
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ]
+      ],
+      "gpost_1_employerId_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "gpost_1_jobPubStatus_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ]
+      ],
+      "employerId_1_clientJobId_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "clientJobId",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_extraInfo.feedData_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "extraInfo.feedData",
+          1
+        ]
+      ],
+      "jobPubStatus_1_gpost_1_pub_expired_1": [
+        [
+          "jobPubStatus",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "pub_expired",
+          1
+        ]
+      ],
+      "employerId_1_job_status_1_syncId_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "syncId",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_lastCheckDate_1_company_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "lastCheckDate",
+          1
+        ],
+        [
+          "company",
+          1
+        ]
+      ],
+      "gpost_1_gpost_date_1_company_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ],
+        [
+          "company",
+          1
+        ]
+      ]
+    }
+  },
+  "directclients_prod.userAnalytics": {
+    "sample_doc": {
+      "_id": "ObjectId(6a2d8b94469203d28fbe010d)",
+      "ipAddress": "192.0.2.10",
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Mobile Safari/537.36 (compatible; Googlebo...",
+      "requestUrl": "https://jobs.uncommonschools.org/jobdetails/bergenfield-nj-apprentice-teacher-66c3a35e8564f7340abd9fac",
+      "jobPubJobId": "66c3a35e8564f7340abd9fac",
+      "client_name": "uncommonschools",
+      "employerId": "emp-jbk-uncommonschools",
+      "url": "https://uncommonschools.org/careers/jobs/apprentice-teacher-744000130301830?utm_campaign=jobiak&utm_source=jobiak&utm_medium=organic&source=jobiak",
+      "jobtitle": "Apprentice Teacher",
+      "location": "Bergenfield,  NJ,  US",
+      "company": "Uncommon Schools",
+      "extraInfo": {
+        "url": "https://uncommonschools.org/careers/jobs/apprentice-teacher-744000130301830?utm_campaign=jobiak&utm_source=jobiak&utm_medium=organic&source=jobiak",
+        "cpa": null,
+        "cpc": null,
+        "original_title": "apprentice teacher",
+        "originalLocation": "Newark,NJ,US",
+        "miles": 19.31,
+        "locExpand": 1,
+        "feedData": 0,
+        "main_uniqueKey": "apprentice`teacher~~newark~~nj~~us~~schools`uncommon"
+      },
+      "job_status": 2,
+      "clientJobId": "743999930851881",
+      "uniqueKey": "undefined~~undefined~~192.0.2.10",
+      "action": "update",
+      "submittedUrl": "https://jobs.uncommonschools.org/jobdetails/bergenfield-nj-apprentice-teacher-66c3a35e8564f7340abd9fac",
+      "gpost_date": "2026-06-07T15:02:29.938Z",
+      "gpost_expire_date": "2026-07-05T15:02:29.937Z",
+      "viewType": "direct",
+      "createdDt": "ISODate(2026-06-13T16:54:01.487000)",
+      "viewDate": "ISODate(2026-06-13T16:54:01.487000)",
+      "applyforView": false,
+      "sessionID": null,
+      "uniqueId": "fb0b3bb262dd4ad3a04806c894819b6c"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "employerId_1_clientJobId_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "clientJobId",
+          1
+        ]
+      ],
+      "jobPubJobId_1_isBot_1_ipAddress_1_action_1_userAgent_1_createdDt_1_gpost_date_1": [
+        [
+          "jobPubJobId",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "ipAddress",
+          1
+        ],
+        [
+          "action",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ]
+      ],
+      "isBot_1_deviceType_1_browserType_1_countryCode_1_isFromGoogle_1_view_exists_1": [
+        [
+          "isBot",
+          1
+        ],
+        [
+          "deviceType",
+          1
+        ],
+        [
+          "browserType",
+          1
+        ],
+        [
+          "countryCode",
+          1
+        ],
+        [
+          "isFromGoogle",
+          1
+        ],
+        [
+          "view_exists",
+          1
+        ]
+      ],
+      "isBot_1_browserType_1_deviceType_1_isFromGoogle_1_company_1": [
+        [
+          "isBot",
+          1
+        ],
+        [
+          "browserType",
+          1
+        ],
+        [
+          "deviceType",
+          1
+        ],
+        [
+          "isFromGoogle",
+          1
+        ],
+        [
+          "company",
+          1
+        ]
+      ],
+      "isBot_1_createdDt_1_deviceType_1_browserType_1_countryCode_1_isFromGoogle_1": [
+        [
+          "isBot",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ],
+        [
+          "deviceType",
+          1
+        ],
+        [
+          "browserType",
+          1
+        ],
+        [
+          "countryCode",
+          1
+        ],
+        [
+          "isFromGoogle",
+          1
+        ]
+      ],
+      "company_1_location_1_jobtitle_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "location",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "requestUrl_1": [
+        [
+          "requestUrl",
+          1
+        ]
+      ],
+      "viewDate_1_requestUrl_1_isBot_1_userAgent_1": [
+        [
+          "viewDate",
+          1
+        ],
+        [
+          "requestUrl",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ]
+      ],
+      "isBot_1_browser_1_country_1_createdDt_1_mapJobId_1": [
+        [
+          "isBot",
+          1
+        ],
+        [
+          "browser",
+          1
+        ],
+        [
+          "country",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ],
+        [
+          "mapJobId",
+          1
+        ]
+      ],
+      "jobId_1": [
+        [
+          "jobId",
+          1
+        ]
+      ],
+      "jobPubJobId_1_isBot_1_ipAddress_1_action_1_userAgent_1_createdDt_1": [
+        [
+          "jobPubJobId",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "ipAddress",
+          1
+        ],
+        [
+          "action",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "source_1": [
+        [
+          "source",
+          1
+        ]
+      ],
+      "company_1_isBot_1_isFromGoogle_1_userAgent_1_createdDt_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "isFromGoogle",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "viewType_1_employerId_1_viewDate_1": [
+        [
+          "viewType",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "viewDate",
+          1
+        ]
+      ],
+      "uniqueKey_1": [
+        [
+          "uniqueKey",
+          1
+        ]
+      ],
+      "isBot_1": [
+        [
+          "isBot",
+          1
+        ]
+      ],
+      "lastGpost_1": [
+        [
+          "lastGpost",
+          1
+        ]
+      ],
+      "companyName_1_browserType_1_deviceType_1_country_1_createdDt_1": [
+        [
+          "companyName",
+          1
+        ],
+        [
+          "browserType",
+          1
+        ],
+        [
+          "deviceType",
+          1
+        ],
+        [
+          "country",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "createdDt_1_isBot_1_jobId_1_lastGpost_1": [
+        [
+          "createdDt",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "jobId",
+          1
+        ],
+        [
+          "lastGpost",
+          1
+        ]
+      ],
+      "viewType_1": [
+        [
+          "viewType",
+          1
+        ]
+      ],
+      "createdDt_1": [
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "employerId_1": [
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "isBot_1_browser_1_country_1": [
+        [
+          "isBot",
+          1
+        ],
+        [
+          "browser",
+          1
+        ],
+        [
+          "country",
+          1
+        ]
+      ],
+      "jobPubJobId_1_isBot_1_ipAddress_1_action_1_gpost_date_1": [
+        [
+          "jobPubJobId",
+          1.0
+        ],
+        [
+          "isBot",
+          1.0
+        ],
+        [
+          "ipAddress",
+          1.0
+        ],
+        [
+          "action",
+          1.0
+        ],
+        [
+          "gpost_date",
+          1.0
+        ]
+      ],
+      "company_1_isBot_1_userAgent_1_action_1_createdDt_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ],
+        [
+          "action",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ]
+      ],
+      "userAgent_text_jobId_1_isBot_1_createdDt_1_lastGpost_1": [
+        [
+          "userAgent_text_jobId",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "createdDt",
+          1
+        ],
+        [
+          "lastGpost",
+          1
+        ]
+      ],
+      "company_1_isBot_1_userAgent_1_action_1_gpost_expire_date_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ],
+        [
+          "action",
+          1
+        ],
+        [
+          "gpost_expire_date",
+          1
+        ]
+      ],
+      "viewDate_1": [
+        [
+          "viewDate",
+          1
+        ]
+      ],
+      "createdDt_1_isFromGoogle_1_mapJobIds_1": [
+        [
+          "createdDt",
+          1
+        ],
+        [
+          "isFromGoogle",
+          1
+        ],
+        [
+          "mapJobIds",
+          1
+        ]
+      ],
+      "browser_1": [
+        [
+          "browser",
+          1
+        ]
+      ],
+      "createdDt_1_isBot_1_jobId_1_userAgent_1": [
+        [
+          "createdDt",
+          1
+        ],
+        [
+          "isBot",
+          1
+        ],
+        [
+          "jobId",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ]
+      ],
+      "ipAddress_1": [
+        [
+          "ipAddress",
+          1
+        ]
+      ],
+      "mapJobId_1": [
+        [
+          "mapJobId",
+          1
+        ]
+      ],
+      "jobtitle_1": [
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "isBot_1_requestUrl_1_userAgent_1_viewDate_1": [
+        [
+          "isBot",
+          1
+        ],
+        [
+          "requestUrl",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ],
+        [
+          "viewDate",
+          1
+        ]
+      ],
+      "userAgent_1": [
+        [
+          "userAgent",
+          1
+        ]
+      ],
+      "gpostAgo_1": [
+        [
+          "gpostAgo",
+          1
+        ]
+      ],
+      "viewDate_1_requestUrl_1_ipAddress_1_userAgent_1": [
+        [
+          "viewDate",
+          1
+        ],
+        [
+          "requestUrl",
+          1
+        ],
+        [
+          "ipAddress",
+          1
+        ],
+        [
+          "userAgent",
+          1
+        ]
+      ],
+      "isBot_1_isFromGoogle_1_action_1_country_1_company_1_employerId_1": [
+        [
+          "isBot",
+          1
+        ],
+        [
+          "isFromGoogle",
+          1
+        ],
+        [
+          "action",
+          1
+        ],
+        [
+          "country",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ]
+    }
+  },
+  "directclients_prod.aj_jp_google_logs": {
+    "sample_doc": {
+      "_id": "ObjectId(644404dc8778b8943723df64)",
+      "response": "success: {\n  \"urlNotificationMetadata\": {\n    \"url\": \"https://gfj.websterandwebster.com/jobdetails/chicago-illinois-embedded-software-engineer-644147422fe994091...",
+      "callType": "URL_UPDATED",
+      "jobId": "644147422fe99409181dbf11",
+      "jobUrl": "",
+      "submittedUrl": "https://gfj.websterandwebster.com/jobdetails/chicago-illinois-embedded-software-engineer-644147422fe99409181dbf11",
+      "createdAt": "ISODate(2023-04-22T16:01:32.026000)",
+      "employerId": "emp-jbk-websterandwebster",
+      "projectId": "cupcake-indexing1"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "jobId_1": [
+        [
+          "jobId",
+          1
+        ]
+      ],
+      "submittedUrl_1": [
+        [
+          "submittedUrl",
+          1
+        ]
+      ],
+      "callType_1": [
+        [
+          "callType",
+          1
+        ]
+      ],
+      "createdAt_1": [
+        [
+          "createdAt",
+          1
+        ]
+      ],
+      "response_1": [
+        [
+          "response",
+          1
+        ]
+      ],
+      "status_update_1": [
+        [
+          "status_update",
+          1
+        ]
+      ],
+      "jobtitle_1": [
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "projectId_1": [
+        [
+          "projectId",
+          1
+        ]
+      ],
+      "createdAt_1_status_update_1_callType_1": [
+        [
+          "createdAt",
+          1
+        ],
+        [
+          "status_update",
+          1
+        ],
+        [
+          "callType",
+          1
+        ]
+      ],
+      "createdAt_1_callType_1": [
+        [
+          "createdAt",
+          1
+        ],
+        [
+          "callType",
+          1
+        ]
+      ],
+      "employerId_1_company_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ]
+      ],
+      "company_1_callType_1_createdAt_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "callType",
+          1
+        ],
+        [
+          "createdAt",
+          1
+        ]
+      ]
+    }
+  },
+  "directclients_prod.alternative_desc_change": {
+    "sample_doc": {
+      "_id": "ObjectId(648026e5b8747c6df2c712e4)",
+      "Lead": "Amulya",
+      "jobtitle": "Production Supervisor - 1st Shift",
+      "operator": "equals",
+      "description": "<p>Cooper Farms is a family-owned farm and food company based in Northwest Ohio for 85 years. A commitment to teamwork a... [TRUNCATED]",
+      "company": "Cooper Farms",
+      "employerId": "emp-jbk-cooperfarms",
+      "status": 3,
+      "date": "june_7th"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "company_1_employerId_1_jobtitle_1_operator_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ],
+        [
+          "operator",
+          1
+        ]
+      ],
+      "refreshed_1": [
+        [
+          "refreshed",
+          1
+        ]
+      ],
+      "company_1_status_1_employerId_1_uniqueKey_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "status",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ]
+      ],
+      "company_1_status_1_employerId_1_jobtitle_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "status",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "jobtitle_1_company_1_status_1_employerId_1": [
+        [
+          "jobtitle",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "status",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ]
+    }
+  },
+  "ETL_Scrapping_Data.ETL_Scraping_Data": {
+    "sample_doc": {
+      "_id": "ObjectId(6865091d7f41ae2cb43568eb)",
+      "url": "https://jobportal2.websterandwebster.com/careers/94529-Jobiak/jobs/16653032-Security-Architect-Embedded/",
+      "JobType": "FULL_TIME",
+      "Shift": "",
+      "applyLink": "https://jobportal2.websterandwebster.com/careers/94529-Jobiak/jobs/16653032-Security-Architect-Embedded/",
+      "careerpageurl": "https://jobportal2.websterandwebster.com/",
+      "clientJobId": "16653032",
+      "company": "Webster & Webster Associates",
+      "companyLogo": "https://dev-jbk-ai.s3.amazonaws.com/company-logos/d-uploads/1677675026207-websterand_webster_Logo.jpg",
+      "country": "US",
+      "createdAt": "2025-04-23T19:45:33+00:00",
+      "description": "<div>Webster &amp; Webster Associates has been engaged by a company at the forefront of embedded technology to identify ... [TRUNCATED]",
+      "employerId": "601d16fba780b2282ddf301c",
+      "expandedMiles": 0,
+      "isActive": 1,
+      "isLocExpandedJob": false,
+      "isRemote": false,
+      "isSponsored": false,
+      "isscraped": 1,
+      "job_status": 2,
+      "location": "Dallas,TX,US",
+      "postalCode": "null",
+      "rating": 0,
+      "salary": "",
+      "sameAs": "https://websterandwebster.com/"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "employerId_1_uniqueKey_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ]
+      ],
+      "company_1_employerId_1_job_status_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "clientJobId_1": [
+        [
+          "clientJobId",
+          1
+        ]
+      ],
+      "employerId_1_audId_1_job_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "audId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "isActive_1": [
+        [
+          "isActive",
+          1.0
+        ]
+      ],
+      "employerId_1": [
+        [
+          "employerId",
+          1.0
+        ]
+      ],
+      "etlExpand_1": [
+        [
+          "etlExpand",
+          1
+        ]
+      ],
+      "updatetime_1": [
+        [
+          "updatetime",
+          1
+        ]
+      ],
+      "employerId_1_clientJobId_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "clientJobId",
+          1
+        ]
+      ]
+    }
+  },
+  "data_cleansing.ETL_AUD_Data": {
+    "sample_doc": {
+      "_id": "ObjectId(63db446d3bbd173118557d9e)",
+      "title": "Account Manager",
+      "company": "Recruitics",
+      "description": "<div ><strong>Data-Powered Recruitment Marketing Platform</strong><p><strong>Our mission is to make it easy for companie... [TRUNCATED]",
+      "location": "New York,New York,United States",
+      "url": "https://jsv3.recruitics.com/redirect?rx_cid=6&rx_jobId=4785500004&rx_url=https%3A%2F%2Fcareers.recruitics.com%2Fjobs%2Fdetails%2Fnew-york%2Faccount-manager%2F65...",
+      "Type": 1,
+      "employerId": "6087e5b9a780b204f8c88645",
+      "employmentType": "FULL_TIME",
+      "source": "https://s3.amazonaws.com/action.feeds-public.prod.recruitics.com/feeds/genericfeed3/6_googlejobs_4e76c694-1f1a-4fff-a4e0-21701b209d69.xml",
+      "logo": "https://s3.us-east-2.amazonaws.com/dev-jbk-ai/company-logos/6087e5b9a780b204f8c88647/1619518905597-Recruitics.jpg",
+      "sameas": "https://www.recruitics.com",
+      "accessKey": "D86aAC3hRLlcIdAhHbGAcf8f",
+      "datePosted": "2023-02-02 05:04:45.061",
+      "validThrough": "2023-03-02 05:04:45.061",
+      "createdAt": "ISODate(2023-02-02T05:04:45.061000)",
+      "jobLanguage": "en",
+      "clientJobId": "4785500004",
+      "isRemote": "false",
+      "locationDisabled": true,
+      "salary": " ",
+      "cleansedTitle": " ",
+      "isSponsored": false,
+      "isLocExpandedJob": false,
+      "expandedMiles": 0.0
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "employerId_1_Type_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "Type",
+          1
+        ]
+      ]
+    }
+  },
+  "hextill_prod.Target_P4_Opt": {
+    "sample_doc": {
+      "_id": "ObjectId(6a96c977abef55074af240fe)",
+      "jobdescription_opt": "<b>Assembler</b> <br><br><strong>1st Shift | Monday-Friday | 8:00 AM-5:00 PM</strong> <br><strong>Pay: $18.00-$20.00/hour (Based on Experience)</strong> <br><b>...",
+      "expirationDate": null,
+      "salary_feed": null,
+      "degree": null,
+      "jobtype": null,
+      "experience": null,
+      "occupationalcategory": "\"51-2092.00\",\"Team Assemblers\"",
+      "lastCheckDate": "ISODate(2026-09-25T13:05:26.477000)",
+      "careerCluster": "Manufacturing",
+      "jobId": "2365_51c06473873916ffe88dab7d2d08bf9080f96cb32a0d75900ca1af3cbb040371",
+      "url": "https://click.appcast.io/t/3uHC1w4l8nU1PdpBDtK37aPKbshPI_CT3X2IPRmSGHuHQnqbEzTbGpNzh231O-KV",
+      "company": "Aerotek",
+      "logo": "https://hextill.com/assets/company-logos/aerotek-logo.png",
+      "employerId": "emp-htc-jobcase",
+      "sourceURL": "https://clickcastfeeds.s3.amazonaws.com/1982aef809a615554a57af7090123513/feed.xml.gz",
+      "clientJobId": "2365_51c06473873916ffe88dab7d2d08bf9080f96cb32a0d75900ca1af3cbb040371",
+      "posteddate": null,
+      "jobid": "2365_51c06473873916ffe88dab7d2d08bf9080f96cb32a0d75900ca1af3cbb040371",
+      "jobtitle": "Assembler",
+      "sameas": "https://www.aerotek.com/en",
+      "salaryEstimate": "$14.12 per hour",
+      "jobdescription_plaintext": "Assembler\n\n1st Shift | Monday-Friday | 8:00 AM-5:00 PM\nPay: $18.00-$20.00/hour (Based on Experience)\nJoin a Growing Manufacturing Team\n\nAre you experienced in a...",
+      "client_posted": "ISODate(2026-08-28T00:00:00)",
+      "audId": "ObjectId(6ab66fb4472463aa5e75c585)"
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "extraInfo.cpa_1": [
+        [
+          "extraInfo.cpa",
+          1
+        ]
+      ],
+      "pub_inserted_1": [
+        [
+          "pub_inserted",
+          1
+        ]
+      ],
+      "key_1": [
+        [
+          "key",
+          1
+        ]
+      ],
+      "occupationalcategory_1": [
+        [
+          "occupationalcategory",
+          1
+        ]
+      ],
+      "action_1_client_name_1_job_status_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "action_1_gpost_1_job_status_1_client_name_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ]
+      ],
+      "action_1_client_name_1_gpost_1_job_status_1_extraInfo.cpa_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "extraInfo.cpa",
+          1
+        ]
+      ],
+      "locationInfo.state_1": [
+        [
+          "locationInfo.state",
+          1
+        ]
+      ],
+      "action_1_job_status_1_locationInfo.state_1_client_name_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "locationInfo.state",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ]
+      ],
+      "jobtitle_1": [
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "jobPubJobId_1": [
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "uniqueKey_1_gpost_1_job_status_1__id_1": [
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "_id",
+          1
+        ]
+      ],
+      "p3Id_1": [
+        [
+          "p3Id",
+          1
+        ]
+      ],
+      "parentJobId_1": [
+        [
+          "parentJobId",
+          1
+        ]
+      ],
+      "audId_1_employerId_1_company_1_job_status_1": [
+        [
+          "audId",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "employerId_1_uniqueKey_1_job_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "uniqueKey_1_client_name_1_job_status_1": [
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "action_1_client_name_1_gpost_1_company_1": [
+        [
+          "action",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "company",
+          1
+        ]
+      ],
+      "gpost_1_job_status_1_client_name_1_maincategory_1_pub_inserted_1_jobPubJobId_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "maincategory",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_client_name_1_occupationalcategory_1_pub_inserted_1_jobPubJobId_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "occupationalcategory",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "gpost_1_client_name_1_job_status_1_pub_inserted_1_jobtitle_1_jobPubJobId_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "client_name",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "cacheSync_1_gpost_1": [
+        [
+          "cacheSync",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ]
+      ],
+      "employerId_1_job_status_1_gpost_1_gpost_expire_date_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_expire_date",
+          1
+        ]
+      ],
+      "employerId_1_job_status_1_gpost_1_gpost_date_1_action_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ],
+        [
+          "action",
+          1
+        ]
+      ],
+      "submittedUrl_1": [
+        [
+          "submittedUrl",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_pub_inserted_1_maincategory_1_jobPubJobId_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "maincategory",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "sourceURL_1": [
+        [
+          "sourceURL",
+          1
+        ]
+      ],
+      "createdAt_1": [
+        [
+          "createdAt",
+          1
+        ]
+      ],
+      "company_1_location_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "location",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_jobPubStatus_1_employerId_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_gpost_expire_date_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_expire_date",
+          1
+        ]
+      ],
+      "gpostExeOn_1": [
+        [
+          "gpostExeOn",
+          1
+        ]
+      ],
+      "gpost_date_1": [
+        [
+          "gpost_date",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_jobtitle_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_extraInfo.mtlExpand_1_jobtitle_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "extraInfo.mtlExpand",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "mtlExpand_1_gpost_1_employerId_1_job_status_1_jobPubJobId_1": [
+        [
+          "mtlExpand",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ]
+      ],
+      "company_1_gpost_1_job_status_1_pub_inserted_1_jobtitle_1_jobPubJobId_1_locationInfo.state_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ],
+        [
+          "jobPubJobId",
+          1
+        ],
+        [
+          "locationInfo.state",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_lastCheckDate_1__id_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "lastCheckDate",
+          1
+        ],
+        [
+          "_id",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_company_1_location_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "location",
+          1
+        ]
+      ],
+      "pub_expired_1_gpost_1": [
+        [
+          "pub_expired",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ]
+      ],
+      "gpost_expire_date_1_job_status_1_gpost_1": [
+        [
+          "gpost_expire_date",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_chunk_update_time_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "chunk_update_time",
+          1
+        ]
+      ],
+      "gpost_1_employerId_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "locationInfo.country_1": [
+        [
+          "locationInfo.country",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_action_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "action",
+          1
+        ]
+      ],
+      "uniqueKey_1_job_status_1_employerId_1_pub_inserted_1": [
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "pub_inserted",
+          1
+        ]
+      ],
+      "employerId_1_company_1_job_status_1_gpost_1_extraInfo.feedData_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "extraInfo.feedData",
+          1
+        ]
+      ],
+      "employerId_1_clientJobId_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "clientJobId",
+          1
+        ]
+      ],
+      "gpost_1_jobPubStatus_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ]
+      ],
+      "jobPubStatus_1_gpost_1_pub_expired_1": [
+        [
+          "jobPubStatus",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "pub_expired",
+          1
+        ]
+      ],
+      "employerId_1_company_1_lastCheckDate_1_job_status_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "lastCheckDate",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ]
+      ],
+      "employerId_1_job_status_1_syncId_1": [
+        [
+          "employerId",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "syncId",
+          1
+        ]
+      ],
+      "job_status_1_gpost_1_employerId_1_lastCheckDate_1_jobPubStatus_1_company_1": [
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "lastCheckDate",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ],
+        [
+          "company",
+          1
+        ]
+      ],
+      "gpost_1_gpost_date_1_company_1_view_exists_1_jobPubStatus_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "view_exists",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ]
+      ],
+      "gpost_1_gpost_date_1_view_exists_1_jobPubStatus_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ],
+        [
+          "view_exists",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ]
+      ],
+      "company_1_location_1_jobtitle_1": [
+        [
+          "company",
+          1
+        ],
+        [
+          "location",
+          1
+        ],
+        [
+          "jobtitle",
+          1
+        ]
+      ],
+      "gpost_1_job_status_1_gpost_date_1_view_exists_1_jobPubStatus_1_latest_user_view_date_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "job_status",
+          1
+        ],
+        [
+          "gpost_date",
+          1
+        ],
+        [
+          "view_exists",
+          1
+        ],
+        [
+          "jobPubStatus",
+          1
+        ],
+        [
+          "latest_user_view_date",
+          1
+        ]
+      ],
+      "gpost_1_sitemap_shard_1__id_1": [
+        [
+          "gpost",
+          1
+        ],
+        [
+          "sitemap_shard",
+          1
+        ],
+        [
+          "_id",
+          1
+        ]
+      ]
+    }
+  },
+  "v2valuejobs_prod.static_keywords": {
+    "error": "No servers found yet, Timeout: 8.0s, Topology Description: <TopologyDescription id: 6af5ec1ac30120e486e89d0a, topology_type: Unknown, servers: [<ServerDescription ('<LEGACY_SHARD_IP>', 27017) server_type: Unknown, rtt: None>]>"
+  },
+  "generateXml_prod.emp-gxc-albertsons": {
+    "sample_doc": {
+      "_id": "ObjectId(698acb024720505c60fabf43)",
+      "title": "Part-TIme Warehouse Fulfillment Specialist, Central Fill - 1st Shift",
+      "location": "Irving, TX, US",
+      "city": "Irving",
+      "salary_feed": "",
+      "state": "TX",
+      "postalCode": "",
+      "country": "US",
+      "employmentType": "PART_TIME",
+      "clientJobId": "651560",
+      "company": "Albertsons",
+      "category": null,
+      "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/651560/?mode=location",
+      "description": "<p><strong>About the company</strong><br>Albertsons Companies is at the forefront of the revolution in retail. With a fi... [TRUNCATED]",
+      "cpa": null,
+      "cpc": null,
+      "streetAddress": "",
+      "clientName": "albertsons",
+      "employerId": "emp-gxc-albertsons",
+      "processId": "ObjectId(698acb024720505c60fabf42)",
+      "source": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?mode=location",
+      "expStatus": 0,
+      "original_title": "part-time warehouse fulfillment specialist, central fill - 1st shift",
+      "original_company": "Albertsons",
+      "feedData": 1
+    },
+    "indexes": {
+      "_id_": [
+        [
+          "_id",
+          1
+        ]
+      ],
+      "company_1": [
+        [
+          "company",
+          1
+        ]
+      ],
+      "employerId_1": [
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "uniqueKey_1": [
+        [
+          "uniqueKey",
+          1
+        ]
+      ],
+      "clientJobId_1": [
+        [
+          "clientJobId",
+          1
+        ]
+      ],
+      "syncStatus_1": [
+        [
+          "syncStatus",
+          1
+        ]
+      ],
+      "url_1": [
+        [
+          "url",
+          1
+        ]
+      ],
+      "posted_at_1": [
+        [
+          "posted",
+          1
+        ],
+        [
+          "at",
+          1
+        ]
+      ],
+      "cpa_1": [
+        [
+          "cpa",
+          1
+        ]
+      ],
+      "cpc_1": [
+        [
+          "cpc",
+          1
+        ]
+      ],
+      "title_1": [
+        [
+          "title",
+          1
+        ]
+      ],
+      "logo_1": [
+        [
+          "logo",
+          1
+        ]
+      ],
+      "audStatus_1": [
+        [
+          "audStatus",
+          1
+        ]
+      ],
+      "etlStatus_1": [
+        [
+          "etlStatus",
+          1
+        ]
+      ],
+      "company_1_employerId_1_audStatus_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "audStatus",
+          1
+        ]
+      ],
+      "city_1": [
+        [
+          "city",
+          1
+        ]
+      ],
+      "postalCode_1": [
+        [
+          "postalCode",
+          1
+        ]
+      ],
+      "company_1_employerId_1_audStatus_1_uniqueKey_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "audStatus",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ]
+      ],
+      "employerId_1_locExpand_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "locExpand",
+          1
+        ]
+      ],
+      "employerId_1_uniqueKey_1_cpa_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "cpa",
+          1
+        ]
+      ],
+      "unqKeyRegen_status_1": [
+        [
+          "unqKeyRegen",
+          1
+        ],
+        [
+          "status",
+          1
+        ]
+      ],
+      "title_1_city_1_state_1_employerId_1_company_1_locExpand_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "title",
+          1
+        ],
+        [
+          "city",
+          1
+        ],
+        [
+          "state",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "locExpand",
+          1
+        ]
+      ],
+      "tlExpand_1": [
+        [
+          "tlExpand",
+          1
+        ]
+      ],
+      "title_1_employerId_1_company_1_tlExpand_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "title",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "tlExpand",
+          1
+        ]
+      ],
+      "original_title_1": [
+        [
+          "original",
+          1
+        ],
+        [
+          "title",
+          1
+        ]
+      ],
+      "employerId_1_source_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "source",
+          1
+        ]
+      ],
+      "employerId_1_company_1_original_title_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "original",
+          1
+        ],
+        [
+          "title",
+          1
+        ]
+      ],
+      "feedData_1_tlExpand_1_locExpand_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "feedData",
+          1
+        ],
+        [
+          "tlExpand",
+          1
+        ],
+        [
+          "locExpand",
+          1
+        ]
+      ],
+      "employerId_1_company_1_feedData_1_cleanTitleUpdate_status_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "feedData",
+          1
+        ],
+        [
+          "cleanTitleUpdate",
+          1
+        ],
+        [
+          "status",
+          1
+        ]
+      ],
+      "feedData_1": [
+        [
+          "feedData",
+          1
+        ]
+      ],
+      "employerId_1_feedData_1_uniqueKey_1_cpa_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "feedData",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "cpa",
+          1
+        ]
+      ],
+      "employerId_1_feedData_1_uniqueKey_1_cpc_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "feedData",
+          1
+        ],
+        [
+          "uniqueKey",
+          1
+        ],
+        [
+          "cpc",
+          1
+        ]
+      ],
+      "employerId_1_campaign_1_state_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "campaign",
+          1
+        ],
+        [
+          "state",
+          1
+        ]
+      ],
+      "title_1_company_1_state_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "title",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "state",
+          1
+        ]
+      ],
+      "company_1_employerId_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ]
+      ],
+      "employerId_1_company_1_locExpand_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "employerId",
+          1
+        ],
+        [
+          "company",
+          1
+        ],
+        [
+          "locExpand",
+          1
+        ]
+      ],
+      "city_1_state_1": [
+        [
+          "1",
+          1
+        ],
+        [
+          "city",
+          1
+        ],
+        [
+          "state",
+          1
+        ]
+      ],
+      "salary_feed_1": [
+        [
+          "salary",
+          1
+        ],
+        [
+          "feed",
+          1
+        ]
+      ],
+      "title_1_company_1_state_1_1": [
+        [
+          "title_1_company_1_state_1",
+          1
+        ]
+      ]
+    }
+  }
+}

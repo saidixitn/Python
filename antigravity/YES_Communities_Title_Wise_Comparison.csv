@@ -1,0 +1,12 @@
+Job Title,Total Jobs,Active (Posted) Jobs,Expired (Removed) Jobs,Clicks (Max Day 10-19),Clicks (Yesterday 11-16),Clicks Change,% Change,Total Lifetime Clicks,10-19 Clicks from Now-Expired Jobs,10-19 Clicks from Still-Active Jobs,Performance Impact Reason
+Office Administrator,152,77,75,14,7,-7,-0.5,432,5,9,Impacted by Expirations (5 clicks lost from expired jobs)
+Maintenance Technician,539,436,101,11,1,-10,-0.9090909090909091,195,0,11,Impression / Click Velocity Decline on Active Jobs
+Sales & Leasing Agent,266,159,107,9,3,-6,-0.6666666666666666,409,3,6,Impacted by Expirations (3 clicks lost from expired jobs)
+GroundsKeeper,37,36,1,4,0,-4,-1.0,60,0,4,Impression / Click Velocity Decline on Active Jobs
+Community Manager,126,77,49,3,3,0,0.0,149,1,2,Impacted by Expirations (1 clicks lost from expired jobs)
+Resident Activities Coordinator,63,63,0,3,1,-2,-0.6666666666666666,123,0,3,Impression / Click Velocity Decline on Active Jobs
+Community Manager-in-Training,41,17,24,3,0,-3,-1.0,76,0,3,Impression / Click Velocity Decline on Active Jobs
+Groundskeeper,10,6,4,1,0,-1,-1.0,12,0,1,Impression / Click Velocity Decline on Active Jobs
+Senior Data Engineer,26,2,24,0,0,0,0.0,7,0,0,Low / Zero Clicks on Both Dates
+Residential Maintenance Technician,29,5,24,0,0,0,0.0,23,0,0,Low / Zero Clicks on Both Dates
+Seasonal Landscaper,6,6,0,0,0,0,0.0,1,0,0,Low / Zero Clicks on Both Dates

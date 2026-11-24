@@ -1,0 +1,5 @@
+_id,employerId,city,state,confidenceValue,keyword,keywordType,operatorType,title,isActive,createdAt,createdBy,_class,companyName
+6af462289bc4461fa44f862b,6a904f26060e8f0b78b0dc81,,,0d,Prep cook hiring near me,titleToTitle,equals-title,cook,true,2026-11-11T00:00:00.000Z,tarun.dammu@jobiak.com,ai.jobiak.reports.KeywordLocation,"healthcare services group, inc"
+6af462289bc4461fa44f862c,6a904f26060e8f0b78b0dc81,,,0d,Dietary careers,titleToTitle,equals-title,dietary aide,true,2026-11-11T00:00:00.000Z,tarun.dammu@jobiak.com,ai.jobiak.reports.KeywordLocation,"healthcare services group, inc"
+6af462289bc4461fa44f862d,6a904f26060e8f0b78b0dc81,,,0d,Hospitality careers,titleToTitle,equals-title,room attendant - hotels & hospitality,true,2026-11-11T00:00:00.000Z,tarun.dammu@jobiak.com,ai.jobiak.reports.KeywordLocation,"healthcare services group, inc"
+6af462289bc4461fa44f862e,6a904f26060e8f0b78b0dc81,,,0d,Housekeeper hiring near me,titleToTitle,equals-title,housekeeper,true,2026-11-11T00:00:00.000Z,tarun.dammu@jobiak.com,ai.jobiak.reports.KeywordLocation,"healthcare services group, inc"

@@ -1,0 +1,100 @@
+import os
+import sys
+from datetime import datetime, timedelta, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from pymongo import MongoClient
+
+# ==========================================================
+# CONFIG
+# ==========================================================
+LOCAL_MONGO_URI = "mongodb://localhost:27017"
+
+# Map the Database Name to the actual Domain Name
+TARGET_DBS = {
+    "v2valuejobs_prod": "v2valuejobs.com",
+    "telecommutehirings_prod": "telecommutehirings.com",
+    "justopinionjobs_prod": "justopinionjobs.com",
+    "earnwithwfh_prod": "earnwithwfh.com"
+}
+
+# Destination DB and Collection
+DEST_DB_NAME = "earnhaus_revenue"
+DEST_COL_NAME = "revenue_data"
+
+# ==========================================================
+# DATE ARGUMENTS (RANGE)
+# ==========================================================
+# Defaults based on your request
+start_date_str = "2026-02-18"
+end_date_str = "2026-03-10"
+
+# Allow overriding via command line: python script.py YYYY-MM-DD YYYY-MM-DD
+if len(sys.argv) == 3:
+    start_date_str = sys.argv[1]
+    end_date_str = sys.argv[2]
+
+MIN_DT = datetime.strptime(start_date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+# Add 1 day to MAX_DT to ensure we capture all events up to the end of the final day
+MAX_DT = datetime.strptime(end_date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc) + timedelta(days=1)
+
+# ==========================================================
+# LOCAL MONGO SETUP
+# ==========================================================
+client = MongoClient(LOCAL_MONGO_URI)
+domains_col = client["mongo_creds"]["creds"]
+dest_col = client[DEST_DB_NAME][DEST_COL_NAME]
+
+
+# ==========================================================
+# MONGO CONNECT HELPER
+# ==========================================================
+def connect_mongo(domain_record, db_name):
+    c = MongoClient(domain_record["mongo_uri"], serverSelectionTimeoutMS=8000)
+    c.admin.command("ping")
+    return c[db_name]
+
+
+# ==========================================================
+# FETCH DATA LOGIC
+# ==========================================================
+def fetch_domain_data(db_name, domain_name):
+    print(f"🔄 Processing: {db_name} ({domain_name})")
+
+    # 1. Look up credentials
+    record = domains_col.find_one({"domain": db_name})
+    if not record:
+        print(f"⚠️ No credentials found for {db_name} in mongo_creds.creds")
+        return []
+
+    # 2. Connect to the remote DB
+    try:
+        db = connect_mongo(record, db_name)
+        source_col = db["userAnalytics"]
+    except Exception as e:
+        print(f"❌ Failed to connect to {db_name}: {e}")
+        return []
+
+    # 3. Define Query (Date range applied here)
+    query = {
+        "isBot": False,
+        "browserType": {"$ne": "Unknown"},
+        "deviceType": {"$ne": "Unknown"},
+        "isFromGoogle": True,
+        "extraInfo.url": {"$regex": r"^https:\/\/hyp\.go2cloud\.org\/.*", "$options": "i"},
+        "createdDt": {"$gte": MIN_DT, "$lt": MAX_DT}
+    }
+
+    # 4. Define Projection
+    projection = {
+        "ipAddress": 1,
+        "jobPubJobId": 1,
+        "jobtitle": 1,
+        "location": 1,
+        "company": 1,
+        "submittedUrl": 1,
+        "gpost_date": 1,
+        "createdDt": 1,
+        "viewDate": 1,
+        "extraInfo.url": 1,
+        "_id": 0
+    }

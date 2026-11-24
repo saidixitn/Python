@@ -1,0 +1,120 @@
+import sys
+import os
+from datetime import datetime, timedelta, timezone
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+import gspread
+import smtplib
+from pymongo import MongoClient
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from google.oauth2.service_account import Credentials
+
+# ==========================================================
+# ENV / SECRETS (GITHUB)
+# ==========================================================
+REMOTE_MONGO_URI = os.getenv("REMOTE_MONGO_URI")
+if not REMOTE_MONGO_URI:
+    raise Exception("REMOTE_MONGO_URI not found in environment variables")
+
+SMTP_HOST = "smtp.gmail.com"
+SMTP_PORT = 465
+SMTP_USER = "your-email@example.com"
+
+SMTP_PASS = os.getenv("SMTP_PASS")
+if not SMTP_PASS:
+    raise Exception("SMTP_PASS not found in environment variables")
+
+SCOPES = [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive",
+]
+
+# ==========================================================
+# DATE ARG
+# ==========================================================
+if len(sys.argv) < 2:
+    print("Usage: python clicks_email_report.py YYYY-MM-DD")
+    sys.exit(1)
+
+REPORT_DATE = sys.argv[1]
+MIN_DT = datetime.strptime(REPORT_DATE, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+MAX_DT = MIN_DT + timedelta(days=1)
+
+# ==========================================================
+# HELPERS (UNCHANGED)
+# ==========================================================
+def clean_domain(d: str) -> str:
+    return (d or "").replace("https://", "").replace("http://", "").strip()
+
+def to_int(v) -> int:
+    try:
+        return int(v)
+    except:
+        return 0
+
+def normalize_type(t) -> str:
+    return str(t or "").strip().lower()
+
+def is_table_domain(domain_type: str) -> bool:
+    return normalize_type(domain_type) in {
+        "programmatic",
+        "direct apply",
+        "direct_apply",
+        "direct-apply",
+    }
+
+# ==========================================================
+# GOOGLE CREDS FROM MONGO (MATCHES YOUR DATA)
+# DB: google_creds
+# Collection: creds
+# Field: content
+# ==========================================================
+client = MongoClient(REMOTE_MONGO_URI)
+
+google_creds_col = client["google_creds"]["creds"]
+google_creds_doc = google_creds_col.find_one({}, {"content": 1})
+
+if not google_creds_doc or "content" not in google_creds_doc:
+    raise Exception("Google credentials not found in MongoDB")
+
+creds = Credentials.from_service_account_info(
+    google_creds_doc["content"],
+    scopes=SCOPES
+)
+
+gc = gspread.authorize(creds)
+sheet = gc.open("Domain Stats")
+domains_ws = sheet.worksheet("Domains")
+domains_rows = domains_ws.get_all_records()
+
+# Normalize sheet rows (UNCHANGED)
+for r in domains_rows:
+    r["Domain"] = (r.get("Domain") or "").strip()
+    r["Database"] = (r.get("Database") or "").strip()
+    r["Domain Type"] = (r.get("Domain Type") or "").strip()
+    r["EmployerId"] = (str(r.get("EmployerId") or "")).strip()
+    r["Collection"] = (r.get("Collection") or "").strip()
+
+# ==========================================================
+# MONGO COLLECTIONS (UNCHANGED)
+# ==========================================================
+domains_col = client["mongo_creds"]["creds"]
+stats_col = client["daily_domain_stats"]["stats"]
+email_col = client["daily_domain_stats"]["email"]
+
+# ==========================================================
+# DOMAIN DB CONNECT (UNCHANGED)
+# ==========================================================
+def connect_mongo(domain_record, db_name):
+    c = MongoClient(domain_record["mongo_uri"], serverSelectionTimeoutMS=8000)
+    c.admin.command("ping")
+    return c[db_name]
+
+# ==========================================================
+# FETCH VIEWS (UNCHANGED – PIXEL MATCH)
+# ==========================================================
+def fetch_views(domain, db, employer_id, domain_type):
+    col = db["userAnalytics"]
+

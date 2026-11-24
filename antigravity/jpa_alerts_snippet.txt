@@ -1,0 +1,130 @@
+
+    state_coll = local["domain_postings"]["domain_state"]
+    domain_coll = local["domain_postings"]["domains"]
+
+    for r in rows:
+
+        name = r["Domain"]
+        curr_posted = r["Posted"]
+        curr_queue = r["Queue"]
+        curr_hr = r["Hr"]
+        quota_left = r["QuotaLeft"]
+
+        norm = name.strip().lower().rstrip("/")
+        raw = domain_coll.find_one({"Domain": norm})
+        dtype = raw.get("Domain Type", "").strip().lower() if raw else ""
+
+        prev = state_coll.find_one({"domain": name}) or {}
+
+        # Previous state
+        prev_posted = prev.get("posted_prev", 0)
+        prev_queue  = prev.get("queue_prev", 0)
+        prev_hr     = prev.get("hr_prev", 0)
+
+        # Derived flags
+        quota_completed = quota_left <= 0
+        no_posting_change = curr_posted == prev_posted
+        no_queue_change   = curr_queue == prev_queue
+
+        # --------------------------------------------------
+        # 🔒 HARD STOP: If quota is completed → NO alerts
+        # --------------------------------------------------
+        if quota_completed:
+            continue
+
+        # --------------------------------------------------
+        # 1) Posting / Queue Stalled
+        # --------------------------------------------------
+        if curr_hr == 0 and (no_posting_change or no_queue_change):
+            posting_stopped.append(r)
+
+        # --------------------------------------------------
+        # 2) Posting Drop >500 (Hour)
+        # --------------------------------------------------
+        if prev_hr > 0 and curr_hr < prev_hr:
+            diff = prev_hr - curr_hr
+            if diff > 500:
+                r["DropDiff"] = diff
+                posting_drop.append(r)
+
+        # --------------------------------------------------
+        # 3) Push More Jobs (logic unchanged)
+        # --------------------------------------------------
+        if dtype != "proxy":
+            left_today = quota_left
+            push_needed = max(0, left_today - curr_queue)
+
+            if push_needed >= 5000:
+                r["PushAmountK"] = fmt_k(push_needed)
+                push_more.append(r)
+
+        # --------------------------------------------------
+        # 4) Zero posts this hour (quota NOT completed)
+        # --------------------------------------------------
+        if prev_hr > 0 and curr_hr == 0:
+            posting_zero_hour.append(r)
+
+    # ---------------------------
+    # Definitions for admin/user
+    # ---------------------------
+    admin_groups = {
+        "Posting Stopped": posting_stopped,
+        "Posting Drop >500 Than Previous Hr": posting_drop,
+        "Push More Jobs": push_more,
+        "Posting Stopped - No Postings This Hour": posting_zero_hour
+    }
+
+    user_groups = {
+        "Posting Stopped": posting_stopped,
+        "Posting Drop >500 Than Previous Hr": posting_drop,
+        "Posting Stopped - No Postings This Hour": posting_zero_hour
+    }
+
+    # ---------------------------
+    # Helper to format messages
+    # ---------------------------
+    def build_message(title, items):
+        msg = (
+            f"⚠️ <b>{title}</b>\n"
+            f"IST {ist:%H:%M}\n\n"
+        )
+
+        for r in items:
+            msg += f"<b>{r['Domain']}</b>\n"
+            msg += (
+                f"  Posted: {fmt_k(r['Posted'])} | "
+                f"Hr: {r['Hr']} | Prev: {r['Prev']}\n"
+            )
+            msg += (
+                f"  Q: {fmt_k(r['Queue'])} | "
+                f"Left: {fmt_k(r['QuotaLeft'])}"
+            )
+
+            if "PushAmountK" in r:
+                msg += f" | Push: {r['PushAmountK']}"
+
+            if "DropDiff" in r:
+                msg += f" | Drop: {fmt_k(r['DropDiff'])}"
+
+            msg += "\n\n"
+
+        return msg
+
+    # ---------------------------
+    # Build actual alert lists
+    # ---------------------------
+    admin_alerts = []
+    user_alerts = []
+
+    for title, items in admin_groups.items():
+        if items:
+            admin_alerts.append(build_message(title, items))
+
+    for title, items in user_groups.items():
+        if items:
+            user_alerts.append(build_message(title, items))
+
+    return admin_alerts, user_alerts
+
+# ============================================================
+# MAIN

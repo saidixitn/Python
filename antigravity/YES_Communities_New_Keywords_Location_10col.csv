@@ -1,0 +1,98 @@
+_id,employerId,confidenceValue,keyword,keywordType,operatorType,title,isActive,companyName,createdAt
+6afe9459102deaec882b4a4c,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a4d,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs in city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a4e,6a86c3d7060e8f0b78b0dc66,0d,"Coordinator jobs in city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a4f,6a86c3d7060e8f0b78b0dc66,0d,"Activities Coordinator jobs in city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a50,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a51,6a86c3d7060e8f0b78b0dc66,0d,"Coordinator jobs near city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a52,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs hiring near city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a53,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring near city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a54,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs hiring in city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a55,6a86c3d7060e8f0b78b0dc66,0d,"Residential jobs hiring in city, state",locationKeywords,equals-title,resident activities coordinator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a6d,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a6e,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs in city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a6f,6a86c3d7060e8f0b78b0dc66,0d,"Office jobs in city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a70,6a86c3d7060e8f0b78b0dc66,0d,"Assistant jobs in city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a71,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a72,6a86c3d7060e8f0b78b0dc66,0d,"Admin jobs near city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a73,6a86c3d7060e8f0b78b0dc66,0d,"Clerk jobs hiring near city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a74,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring in city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a75,6a86c3d7060e8f0b78b0dc66,0d,"Office jobs hiring in city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a76,6a86c3d7060e8f0b78b0dc66,0d,"Assistant jobs hiring in city, state",locationKeywords,equals-title,office administrator,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a8c,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a8d,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs in city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a8e,6a86c3d7060e8f0b78b0dc66,0d,"Sales jobs in city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a8f,6a86c3d7060e8f0b78b0dc66,0d,"Leasing jobs in city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a90,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a91,6a86c3d7060e8f0b78b0dc66,0d,"Sales jobs near city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a92,6a86c3d7060e8f0b78b0dc66,0d,"Sales Agent jobs near city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a93,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs hiring near city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a94,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring near city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4a95,6a86c3d7060e8f0b78b0dc66,0d,"Sales Agent jobs hiring in city, state",locationKeywords,equals-title,sales & leasing agent,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aa8,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aa9,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs in city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aaa,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs in city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aab,6a86c3d7060e8f0b78b0dc66,0d,"Manager jobs in city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aac,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs near city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aad,6a86c3d7060e8f0b78b0dc66,0d,"Manager jobs near city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aae,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring near city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aaf,6a86c3d7060e8f0b78b0dc66,0d,"Community Manager jobs hiring in city, state",locationKeywords,equals-title,community manager-in-training,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ac5,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ac6,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs in city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ac7,6a86c3d7060e8f0b78b0dc66,0d,"Coordinator jobs in city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ac8,6a86c3d7060e8f0b78b0dc66,0d,"Activities Coordinator jobs in city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ac9,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs near city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aca,6a86c3d7060e8f0b78b0dc66,0d,"Coordinator jobs near city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4acb,6a86c3d7060e8f0b78b0dc66,0d,"Residential jobs near city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4acc,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs hiring near city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4acd,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs hiring in city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ace,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs hiring in city, state",locationKeywords,equals-title,community manager,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ae4,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ae5,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs in city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ae6,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs in city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ae7,6a86c3d7060e8f0b78b0dc66,0d,"Data Engineer jobs in city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ae8,6a86c3d7060e8f0b78b0dc66,0d,"Software jobs in city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4ae9,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aea,6a86c3d7060e8f0b78b0dc66,0d,"Data Engineer jobs near city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aeb,6a86c3d7060e8f0b78b0dc66,0d,"Senior Data Engineer jobs near city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aec,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring in city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4aed,6a86c3d7060e8f0b78b0dc66,0d,"Software jobs hiring in city, state",locationKeywords,equals-title,senior data engineer,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b02,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b03,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs in city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b04,6a86c3d7060e8f0b78b0dc66,0d,"Landscaping jobs in city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b05,6a86c3d7060e8f0b78b0dc66,0d,"Landscape jobs in city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b06,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b07,6a86c3d7060e8f0b78b0dc66,0d,"Lawn jobs near city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b08,6a86c3d7060e8f0b78b0dc66,0d,"Landscaping jobs hiring near city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b09,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring in city, state",locationKeywords,equals-title,groundskeeper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b1d,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b1e,6a86c3d7060e8f0b78b0dc66,0d,"Seasonal jobs in city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b1f,6a86c3d7060e8f0b78b0dc66,0d,"Landscaping jobs in city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b20,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b21,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs near city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b22,6a86c3d7060e8f0b78b0dc66,0d,"Seasonal jobs near city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b23,6a86c3d7060e8f0b78b0dc66,0d,"Lawn Care jobs near city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b24,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring in city, state",locationKeywords,equals-title,seasonal landscaper,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b3b,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b3c,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs in city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b3d,6a86c3d7060e8f0b78b0dc66,0d,"Technician jobs in city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b3e,6a86c3d7060e8f0b78b0dc66,0d,"HVAC Technician jobs in city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b3f,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b40,6a86c3d7060e8f0b78b0dc66,0d,"Maintenance jobs near city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b41,6a86c3d7060e8f0b78b0dc66,0d,"Technician jobs near city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b42,6a86c3d7060e8f0b78b0dc66,0d,"Plumbing jobs near city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b43,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring near city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b44,6a86c3d7060e8f0b78b0dc66,0d,"Mechanic jobs hiring near city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b45,6a86c3d7060e8f0b78b0dc66,0d,"Residential jobs hiring in city, state",locationKeywords,equals-title,maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b60,6a86c3d7060e8f0b78b0dc66,0d,"Community jobs in city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b61,6a86c3d7060e8f0b78b0dc66,0d,"Maintenance jobs in city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b62,6a86c3d7060e8f0b78b0dc66,0d,"Technician jobs in city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b63,6a86c3d7060e8f0b78b0dc66,0d,"HVAC Technician jobs in city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b64,6a86c3d7060e8f0b78b0dc66,0d,"Real Estate jobs near city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b65,6a86c3d7060e8f0b78b0dc66,0d,"Technician jobs near city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b66,6a86c3d7060e8f0b78b0dc66,0d,"Plumbing jobs near city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b67,6a86c3d7060e8f0b78b0dc66,0d,"Property jobs hiring near city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b68,6a86c3d7060e8f0b78b0dc66,0d,"Mechanic jobs hiring near city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b69,6a86c3d7060e8f0b78b0dc66,0d,"Housing jobs hiring in city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b6a,6a86c3d7060e8f0b78b0dc66,0d,"HVAC Technician jobs hiring in city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z
+6afe9459102deaec882b4b6b,6a86c3d7060e8f0b78b0dc66,0d,"Residential jobs hiring in city, state",locationKeywords,equals-title,residential maintenance technician,true,yes! communities,2026-11-19T00:00:00.000Z

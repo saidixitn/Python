@@ -1,0 +1,100 @@
+import os
+import time
+import json
+import concurrent.futures
+from datetime import datetime
+from pymongo import MongoClient
+from google.cloud import bigquery
+from google.cloud.exceptions import NotFound
+
+# --- AUTHENTICATION ---
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "credentials.json"
+
+# --- CONFIGURATION ---
+PROJECT_ID = os.getenv("PROJECT_ID", "your-project-id")
+DATASET_ID = "Survey_Domains"
+LOCATION = "US"
+
+LOCAL_MONGO_URI = "mongodb://localhost:27017/"
+CREDS_DB = "mongo_creds"
+
+TARGET_DOMAINS = ["earnwithwfh_prod", "v2valuejobs_prod", "justopinionjobs_prod"]
+COLLECTIONS = ["Target_P4_Opt", "userAnalytics"]
+
+MAX_WORKERS = 6
+
+
+def setup_bq_dataset():
+    client = bigquery.Client(project=PROJECT_ID)
+    dataset_ref = bigquery.DatasetReference(PROJECT_ID, DATASET_ID)
+    try:
+        client.get_dataset(dataset_ref)
+        print(f"✅ Dataset '{DATASET_ID}' verified.")
+    except NotFound:
+        dataset = bigquery.Dataset(dataset_ref)
+        dataset.location = LOCATION
+        client.create_dataset(dataset)
+        print(f"✨ Created new dataset: {PROJECT_ID}.{DATASET_ID}")
+
+
+def clean_for_bq(value):
+    """Recursively cleans a document to ensure strict JSON compatibility."""
+    if isinstance(value, dict):
+        return {k: clean_for_bq(v) for k, v in value.items()}
+    elif isinstance(value, list):
+        return [clean_for_bq(v) for v in value]
+    elif isinstance(value, datetime):
+        return value.isoformat()
+    elif type(value).__name__ == 'ObjectId':  # Safely handle Mongo ObjectIds
+        return str(value)
+    else:
+        return value
+
+
+def process_collection_worker(domain_name, mongo_uri, coll_name):
+    """WORKER THREAD: Streams to local file, uploads, then deletes the file."""
+    thread_name = f"[{domain_name} | {coll_name}]"
+    print(f"  {thread_name} Started extracting...")
+
+    # Create a unique temporary file for this specific worker
+    temp_filename = f"{domain_name}_{coll_name}_temp.jsonl"
+
+    try:
+        prod_client = MongoClient(mongo_uri, serverSelectionTimeoutMS=5000)
+        db = prod_client[domain_name]
+        collection = db[coll_name]
+        bq_client = bigquery.Client(project=PROJECT_ID)
+
+        # Apply Custom Queries
+        query = {}
+        if coll_name == "Target_P4_Opt":
+            query = {"gpost": {"$in": [5.0, 6.0]}}
+        elif coll_name == "userAnalytics":
+            query = {
+                "isBot": False,
+                "browserType": {"$ne": "Unknown"},
+                "deviceType": {"$ne": "Unknown"},
+                "isFromGoogle": True
+            }
+
+        # 1. STREAM TO DISK (Zero Memory Constraints)
+        row_count = 0
+        with open(temp_filename, "w", encoding="utf-8") as f:
+            for doc in collection.find(query):
+                cleaned_doc = clean_for_bq(doc)
+                # Write each document as a stringified JSON object on a new line
+                f.write(json.dumps(cleaned_doc) + "\n")
+                row_count += 1
+
+        if row_count == 0:
+            if os.path.exists(temp_filename): os.remove(temp_filename)
+            return f"⚠️ {thread_name} No data found matching query. Skipped."
+
+        print(f"  {thread_name} Finished saving {row_count:,} rows. Starting BigQuery upload...")
+
+        # 2. UPLOAD FILE TO BIGQUERY
+        table_name = f"{domain_name}_{coll_name}"
+        table_id = f"{PROJECT_ID}.{DATASET_ID}.{table_name}"
+
+        job_config = bigquery.LoadJobConfig(
+            write_disposition="WRITE_TRUNCATE",
